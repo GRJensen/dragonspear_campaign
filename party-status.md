@@ -2,7 +2,7 @@
 
 As of Session 2, Cromm's Hold, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Cromm's Hold yard, late morning. Maechen is with the party as guide. Brother Cald has been called. Not yet on the road. Four days of rations in the packs.
+Place: shore of the marked lake, midday. Horses left at Cromm's Hold. On foot with Maechen and Brother Cald. Lair in sight across the water, not entered. Four days of rations in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
@@ -50,4 +50,4 @@ Place: Cromm's Hold yard, late morning. Maechen is with the party as guide. Brot
 ## With the party, not on a locked sheet
 
 - Maechen Givens. Guide. Woman. No sheet. With the party.
-- Brother Cald. Field cleric of Amaunator. Called. Answer not in yet.
+- Brother Cald. Field cleric of Amaunator. With the party until dusk tomorrow. Cure and binding, not Lay on Hands. No locked sheet.
