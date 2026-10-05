@@ -1,15 +1,16 @@
 {
-  "updated": "2026-10-05T22:45:35+02:00",
+  "updated": "2026-10-05T22:50:46+02:00",
   "session": "Session 2, Floshin's hall",
   "place": "Lord Floshin's townhouse, Daggerford, evening",
-  "summary": "Servants returned to Floshin's townhouse. Val's body is in the hall. Waiting to give the report. Jeb has no slots.",
+  "summary": "Purse of 40 gp accepted for the servants. Val goes to the Mosque of Tyr. Party will take the marsh news to Sir Isteval. Asking after a healer.",
   "partyCoin": {
-    "gp": 52,
+    "gp": 92,
     "sp": 14,
-    "note": "52 gp across purses as before. Daf holds 14 sp from the camp. No party fund."
+    "note": "52 gp in purses, 14 sp with Daf, 40 gp party purse from Floshin. Not divided."
   },
   "notes": [
-    "Isteval's letter is in Nik's belt. Sera is at the townhouse door with the horses. Val's chain mail and shield are with her body in the hall. Harsk is freed and with the party."
+    "Isteval's letter is in Nik's belt. Sera is at the townhouse door with the horses. Val's chain mail and shield are with her body in the hall. Harsk is freed and with the party.",
+    "Floshin's 40 gp is a party purse, not divided."
   ],
   "party": [
     {

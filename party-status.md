@@ -1,8 +1,8 @@
 # Party status
 
-As of Session 2 open, 2026-10-05. No XP awarded. Level 1. Sheets locked.
+As of Session 2, Floshin's hall, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Lord Floshin's townhouse, Daggerford, evening. Servants returned. Val's body, mail, and shield in the hall. Sera and Hobb present. Four days of rations still in the packs.
+Place: Lord Floshin's townhouse, Daggerford, evening. Purse accepted. Val to the Mosque of Tyr at dawn. Party will ride to Sir Isteval. Four days of rations still in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
@@ -45,4 +45,4 @@ Place: Lord Floshin's townhouse, Daggerford, evening. Servants returned. Val's b
 
 ## Party coin
 
-52 gp across four purses, and 14 sp in Daf's hand from the camp. No party fund.
+52 gp across four purses, 14 sp in Daf's hand, and 40 gp in a party purse from Floshin for the servants. Not divided.
