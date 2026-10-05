@@ -1,0 +1,144 @@
+{
+  "updated": "2026-10-04T18:00:00+02:00",
+  "session": "Session 1 hook",
+  "place": "Cromm's Hold, side room, late afternoon",
+  "summary": "Back from the marsh. Lair marked: dark lake, island, ruined domed temple, orange light in the north opening, about a hundred feet of water. No entry. No fight. No resources spent. Jeb's Mage Armor is not up. Val's Lay on Hands is full. Maechen is still with the militia.",
+  "partyCoin": { "gp": 60, "note": "Across four purses. Daf is broke. No party fund." },
+  "notes": ["Borrowed militia horses are at the stable if the party takes them into the marsh."],
+  "party": [
+    {
+      "id": "nik",
+      "name": "Nikalan Sendaral",
+      "short": "Nik",
+      "role": "pc",
+      "race": "human",
+      "class": "rogue",
+      "level": 1,
+      "hp": 10,
+      "hpMax": 10,
+      "ac": 15,
+      "initiative": 4,
+      "hitDie": "1d8",
+      "hitDieUsed": false,
+      "coin": { "gp": 25 },
+      "resources": [],
+      "armor": [{ "id": "leather", "label": "leather" }],
+      "weapons": [
+        { "id": "rapier", "label": "rapier" },
+        { "id": "shortbow", "label": "shortbow", "ammo": "20 arrows" },
+        { "id": "dagger", "label": "dagger", "count": 2 }
+      ],
+      "gear": ["thieves' tools", "burglar's pack", "dice", "street clothes", "Sendaral signet ring"],
+      "potions": []
+    },
+    {
+      "id": "jeb",
+      "name": "Jebrehoan Felix Bluetower",
+      "short": "Jeb",
+      "role": "cpc",
+      "race": "human",
+      "class": "wizard",
+      "level": 1,
+      "hp": 9,
+      "hpMax": 9,
+      "ac": 13,
+      "acNote": "16 if Mage Armor is up. It is not up.",
+      "initiative": null,
+      "hitDie": "1d6",
+      "hitDieUsed": false,
+      "coin": { "gp": 10 },
+      "resources": [
+        { "name": "1st-level slots", "current": 2, "max": 2 },
+        { "name": "Arcane Recovery", "current": 1, "max": 1, "note": "unused" }
+      ],
+      "prepared": ["Mage Armor", "Magic Missile", "Feather Fall", "Sleep"],
+      "rituals": ["Detect Magic"],
+      "armor": [],
+      "weapons": [{ "id": "quarterstaff", "label": "quarterstaff" }],
+      "gear": ["component pouch", "scholar's pack", "spellbook", "ink", "quill", "knife", "common clothes", "Caradoc's letter"],
+      "potions": []
+    },
+    {
+      "id": "cai",
+      "name": "Cairial Elmwalker",
+      "short": "Cai",
+      "role": "cpc",
+      "race": "half-elf",
+      "class": "ranger",
+      "level": 1,
+      "hp": 11,
+      "hpMax": 11,
+      "ac": 14,
+      "initiative": null,
+      "hitDie": "1d10",
+      "hitDieUsed": false,
+      "coin": { "gp": 10 },
+      "resources": [],
+      "armor": [{ "id": "leather", "label": "leather" }],
+      "weapons": [
+        { "id": "shortsword", "label": "shortsword", "count": 2 },
+        { "id": "longbow", "label": "longbow", "ammo": "20 arrows" },
+        { "id": "quarterstaff", "label": "staff" }
+      ],
+      "gear": ["explorer's pack", "hunting trap", "owl feather", "traveler's clothes"],
+      "potions": []
+    },
+    {
+      "id": "daf",
+      "name": "Dafforin Granitechest",
+      "short": "Daf",
+      "role": "cpc",
+      "race": "mountain dwarf",
+      "class": "fighter",
+      "level": 1,
+      "hp": 14,
+      "hpMax": 14,
+      "ac": 19,
+      "initiative": null,
+      "hitDie": "1d10",
+      "hitDieUsed": false,
+      "coin": { "gp": 0 },
+      "resources": [{ "name": "Second Wind", "current": 1, "max": 1, "note": "unused" }],
+      "armor": [
+        { "id": "chain_mail", "label": "chain mail" },
+        { "id": "shield", "label": "shield" }
+      ],
+      "weapons": [
+        { "id": "battleaxe", "label": "battleaxe" },
+        { "id": "light_crossbow", "label": "light crossbow", "ammo": "20 bolts" }
+      ],
+      "gear": ["dungeoneer's pack", "clan token", "stone chip", "common clothes", "mason's tools", "dice"],
+      "potions": []
+    },
+    {
+      "id": "val",
+      "name": "Valeria Dawnguard",
+      "short": "Val",
+      "role": "cpc",
+      "race": "human",
+      "class": "paladin of Tyr",
+      "level": 1,
+      "hp": 12,
+      "hpMax": 12,
+      "ac": 18,
+      "initiative": null,
+      "hitDie": "1d10",
+      "hitDieUsed": false,
+      "coin": { "gp": 15 },
+      "resources": [
+        { "name": "Lay on Hands", "current": 5, "max": 5 },
+        { "name": "Divine Sense", "current": 3, "max": 3 }
+      ],
+      "armor": [
+        { "id": "chain_mail", "label": "chain mail" },
+        { "id": "shield", "label": "shield" }
+      ],
+      "weapons": [
+        { "id": "warhammer", "label": "warhammer" },
+        { "id": "javelin", "label": "javelin", "count": 5 }
+      ],
+      "gear": ["priest's pack", "holy symbol of Tyr", "prayer book", "incense", "vestments", "common clothes"],
+      "potions": []
+    }
+  ]
+}

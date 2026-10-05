@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dragonspear — party status</title>
+  <style>
+    :root {
+      --bg: #16130f;
+      --panel: #241f19;
+      --panel-2: #2c261f;
+      --line: #4a3e30;
+      --ink: #f3eadc;
+      --muted: #b5a68f;
+      --gold: #c6a15a;
+      --hp: #6f8f5b;
+      --hp-low: #a3523c;
+      --shadow: 0 10px 28px rgba(0,0,0,.28);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: radial-gradient(1200px 500px at 20% -10%, #3a3126 0%, var(--bg) 55%);
+      color: var(--ink);
+      font: 16px/1.45 Georgia, "Palatino Linotype", Palatino, serif;
+    }
+    header, main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
+    header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: end;
+      padding: 28px 0 12px;
+    }
+    h1 { font-size: 28px; font-weight: 500; margin: 0; letter-spacing: .04em; }
+    h1 span { color: var(--gold); }
+    .sub { color: var(--muted); margin-top: 4px; }
+    button {
+      background: var(--gold);
+      color: #24190c;
+      border: 0;
+      border-radius: 6px;
+      padding: 10px 16px;
+      font: 600 14px/1 Georgia, serif;
+      cursor: pointer;
+    }
+    button:disabled { opacity: .6; cursor: wait; }
+    .place, .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+    }
+    .place { padding: 18px 20px 16px; margin: 8px 0 18px; }
+    .place h2 { margin: 0 0 8px; font-size: 18px; font-weight: 500; color: var(--gold); }
+    .place p { margin: 0 0 8px; }
+    .notes { margin: 8px 0 0; padding-left: 18px; color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 14px;
+      padding-bottom: 40px;
+    }
+    .card { padding: 14px 14px 12px; display: flex; flex-direction: column; gap: 10px; }
+    .who { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+    .who h3 { margin: 0; font-size: 20px; font-weight: 500; }
+    .who small { color: var(--muted); display: block; }
+    .badge {
+      color: var(--gold);
+      border: 1px solid var(--line);
+      border-radius: 99px;
+      padding: 2px 8px;
+      font-size: 12px;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+    .stats { display: flex; gap: 14px; color: var(--muted); font-size: 14px; }
+    .stats b { color: var(--ink); font-weight: 600; }
+    .hp { height: 8px; background: #3a322a; border-radius: 99px; overflow: hidden; }
+    .hp i { display: block; height: 100%; background: var(--hp); }
+    .hp.low i { background: var(--hp-low); }
+    .icons { display: flex; flex-wrap: wrap; gap: 8px; }
+    figure { margin: 0; width: 72px; text-align: center; }
+    figure img { width: 72px; height: 72px; object-fit: contain; background: #1a1612; border-radius: 8px; }
+    figcaption { color: var(--muted); font-size: 11px; line-height: 1.2; margin-top: 3px; }
+    .res, .gear { margin: 0; padding-left: 16px; color: var(--muted); font-size: 14px; }
+    .coin { color: var(--gold); font-size: 14px; }
+    .err { color: #e0b4a4; }
+    .empty { color: var(--muted); padding: 24px 0 40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Dragonspear <span>party</span></h1>
+      <div class="sub" id="fetched">Not loaded</div>
+    </div>
+    <button id="refresh" type="button">Refresh</button>
+  </header>
+  <main>
+    <section class="place" id="place">
+      <h2>Waiting for status</h2>
+      <p>Refresh pulls <code>party-status.json</code> from this site.</p>
+    </section>
+    <section class="grid" id="party"></section>
+  </main>
+  <script>
+    const ARMOR = {
+      leather: "leather_armour.png",
+      hide: "hide_armour.png",
+      padded: "padded_armour.png",
+      studded_leather: "studded_leather.png",
+      chain_shirt: "chain_shirt.png",
+      chain_mail: "chainmail.png",
+      chainmail: "chainmail.png",
+      scale_mail: "scale_mail.png",
+      breastplate: "breastplate.png",
+      half_plate: "half_plate.png",
+      ring_mail: "ring_mail.png",
+      splint_mail: "splint_mail.png",
+      plate: "plate_armour.png",
+      robes: "robes.png",
+      leather_helmet: "leather_helmet.png",
+      metal_helmet: "metal_helmet.png",
+      shield: "shield_medium.png",
+      shield_small: "shield_small.png",
+      shield_medium: "shield_medium.png",
+      shield_large: "shield_large.png"
+    };
+    const WEAPON = {
+      warhammer: "war_hammer.png",
+      war_hammer: "war_hammer.png",
+      war_pick: "war_pick.png"
+    };
+
+    const placeEl = document.getElementById("place");
+    const partyEl = document.getElementById("party");
+    const fetchedEl = document.getElementById("fetched");
+    const button = document.getElementById("refresh");
+
+    function fileFor(kind, id) {
+      const key = String(id || "").toLowerCase();
+      if (kind === "armor") return "img/armor/" + (ARMOR[key] || key + ".png");
+      return "img/weapons/" + (WEAPON[key] || key + ".png");
+    }
+
+    function icon(kind, item) {
+      const label = item.label || item.id;
+      const extra = item.count > 1 ? " ×" + item.count : "";
+      const ammo = item.ammo ? " · " + item.ammo : "";
+      const src = fileFor(kind, item.id);
+      const fig = document.createElement("figure");
+      const img = document.createElement("img");
+      img.alt = label;
+      img.src = src;
+      img.addEventListener("error", () => { img.remove(); });
+      fig.appendChild(img);
+      const cap = document.createElement("figcaption");
+      cap.textContent = label + extra + ammo;
+      fig.appendChild(cap);
+      return fig;
+    }
+
+    function render(data) {
+      const when = data.updated ? new Date(data.updated).toLocaleString() : "undated";
+      placeEl.innerHTML = "";
+      const h = document.createElement("h2");
+      h.textContent = data.place || "Place unknown";
+      const p = document.createElement("p");
+      p.textContent = data.summary || "";
+      placeEl.append(h, p);
+      if (data.partyCoin) {
+        const coin = document.createElement("p");
+        coin.className = "coin";
+        coin.textContent = "Party coin: " + (data.partyCoin.gp || 0) + " gp. " + (data.partyCoin.note || "");
+        placeEl.appendChild(coin);
+      }
+      if (data.notes && data.notes.length) {
+        const ul = document.createElement("ul");
+        ul.className = "notes";
+        data.notes.forEach(note => {
+          const li = document.createElement("li");
+          li.textContent = note;
+          ul.appendChild(li);
+        });
+        placeEl.appendChild(ul);
+      }
+      fetchedEl.textContent = (data.session || "Status") + " · file " + when + " · loaded " + new Date().toLocaleTimeString();
+
+      partyEl.innerHTML = "";
+      (data.party || []).slice(0, 6).forEach(c => {
+        const card = document.createElement("article");
+        card.className = "card";
+        const who = document.createElement("div");
+        who.className = "who";
+        const name = document.createElement("div");
+        name.innerHTML = "<h3></h3><small></small>";
+        name.querySelector("h3").textContent = c.short || c.name;
+        name.querySelector("small").textContent = c.name + " · " + [c.race, c.class, c.level].filter(Boolean).join(" ");
+        const badge = document.createElement("span");
+        badge.className = "badge";
+        badge.textContent = c.role || "";
+        who.append(name, badge);
+
+        const ratio = c.hpMax ? c.hp / c.hpMax : 0;
+        const hp = document.createElement("div");
+        hp.className = "hp" + (ratio <= 0.35 ? " low" : "");
+        const bar = document.createElement("i");
+        bar.style.width = Math.max(0, Math.min(1, ratio)) * 100 + "%";
+        hp.appendChild(bar);
+
+        const stats = document.createElement("div");
+        stats.className = "stats";
+        stats.innerHTML = "<span>HP <b></b></span><span>AC <b></b></span><span>Init <b></b></span>";
+        stats.querySelectorAll("b")[0].textContent = c.hp + " / " + c.hpMax;
+        stats.querySelectorAll("b")[1].textContent = c.ac + (c.acNote ? "*" : "");
+        stats.querySelectorAll("b")[2].textContent = c.initiative == null ? "—" : (c.initiative >= 0 ? "+" : "") + c.initiative;
+
+        const armor = document.createElement("div");
+        armor.className = "icons";
+        (c.armor || []).forEach(item => armor.appendChild(icon("armor", item)));
+        const weapons = document.createElement("div");
+        weapons.className = "icons";
+        (c.weapons || []).forEach(item => weapons.appendChild(icon("weapon", item)));
+
+        card.append(who, hp, stats);
+        if (c.acNote) {
+          const note = document.createElement("div");
+          note.className = "sub";
+          note.textContent = c.acNote;
+          card.appendChild(note);
+        }
+        if (armor.childNodes.length) card.appendChild(armor);
+        if (weapons.childNodes.length) card.appendChild(weapons);
+
+        const bits = [];
+        (c.resources || []).forEach(r => bits.push(r.name + " " + r.current + "/" + r.max + (r.note ? " (" + r.note + ")" : "")));
+        if (c.hitDie) bits.push("Hit die " + c.hitDie + (c.hitDieUsed ? " used" : " unused"));
+        if (c.prepared && c.prepared.length) bits.push("Prepared: " + c.prepared.join(", "));
+        if (c.rituals && c.rituals.length) bits.push("Rituals: " + c.rituals.join(", "));
+        if (bits.length) {
+          const ul = document.createElement("ul");
+          ul.className = "res";
+          bits.forEach(text => {
+            const li = document.createElement("li");
+            li.textContent = text;
+            ul.appendChild(li);
+          });
+          card.appendChild(ul);
+        }
+        const coin = document.createElement("div");
+        coin.className = "coin";
+        coin.textContent = ((c.coin && c.coin.gp) || 0) + " gp";
+        card.appendChild(coin);
+        if (c.potions && c.potions.length) {
+          const pot = document.createElement("div");
+          pot.className = "sub";
+          pot.textContent = c.potions.map(p => (p.count || 1) + " " + (p.label || p.name)).join(", ");
+          card.appendChild(pot);
+        }
+        if (c.gear && c.gear.length) {
+          const gear = document.createElement("ul");
+          gear.className = "gear";
+          c.gear.forEach(item => {
+            const li = document.createElement("li");
+            li.textContent = item;
+            gear.appendChild(li);
+          });
+          card.appendChild(gear);
+        }
+        partyEl.appendChild(card);
+      });
+      if (!partyEl.childNodes.length) {
+        partyEl.innerHTML = "<p class='empty'>No characters in this status file.</p>";
+      }
+    }
+
+    async function load() {
+      button.disabled = true;
+      try {
+        const res = await fetch("party-status.json?t=" + Date.now(), { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        render(await res.json());
+      } catch (err) {
+        placeEl.innerHTML = "<h2>Could not load status</h2><p class='err'></p>";
+        placeEl.querySelector("p").textContent = err.message + ". Open this page from GitHub Pages, not as a local file.";
+      } finally {
+        button.disabled = false;
+      }
+    }
+
+    button.addEventListener("click", load);
+    load();
+  </script>
+</body>
+</html>
