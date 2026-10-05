@@ -2,7 +2,7 @@
 
 As of Session 2, Floshin's hall, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Lord Floshin's townhouse, dawn after a long rest. Val's body goes to the Mosque of Tyr. Sister Pella has been asked. Party will ride to Sir Isteval. Jeb has not chosen his morning spells. Four days of rations still in the packs.
+Place: Lord Floshin's townhouse, dawn after a long rest. Val's body goes to the Mosque of Tyr. Sister Pella has been asked. Party will ride to Sir Isteval. Jeb prepared Mage Armor, Magic Missile, Feather Fall, Sleep. Four days of rations still in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
@@ -16,8 +16,8 @@ Place: Lord Floshin's townhouse, dawn after a long rest. Val's body goes to the 
 
 - HP 9 / 9. Hit die 1d6 unused.
 - AC 13 (16 if Mage Armor is up). It is not up.
-- Slots: 2 / 2 (1st). Arcane Recovery unused. Morning list not chosen.
-- Prepared: not chosen. Last list was Mage Armor, Magic Missile, Feather Fall, Sleep. Detect Magic is in the book as a ritual.
+- Slots: 2 / 2 (1st). Arcane Recovery unused.
+- Prepared: Mage Armor, Magic Missile, Feather Fall, Sleep. Detect Magic in the book as a ritual. Mage Armor is not cast.
 - Coin: 10 gp.
 - Kit: quarterstaff, component pouch, scholar's pack, spellbook, ink, quill, knife, common clothes, Caradoc's letter, four days rations.
 
