@@ -26,7 +26,7 @@
       "weapons": [
         { "id": "rapier", "label": "rapier" },
         { "id": "shortbow", "label": "shortbow", "ammo": "20 arrows" },
-        { "id": "dagger", "label": "dagger", "count": 2 }
+        { "id": "dagger", "label": "dagger", "count": 4 }
       ],
       "gear": ["thieves' tools", "burglar's pack", "dice", "street clothes", "Sendaral signet ring"],
       "potions": []
