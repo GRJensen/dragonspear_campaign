@@ -2,7 +2,7 @@
 
 As of Session 2, Cromm's Hold, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Cromm's Hold, late morning. Pella stayed for Val's vigil. She cannot lay on hands. Party come to tell Isteval the marsh news. Four days of rations in the packs.
+Place: Cromm's Hold yard, late morning. Maechen is with the party as guide. Brother Cald has been called. Not yet on the road. Four days of rations in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
@@ -46,3 +46,8 @@ Place: Cromm's Hold, late morning. Pella stayed for Val's vigil. She cannot lay 
 ## Party coin
 
 52 gp across four purses, 14 sp in Daf's hand, and 40 gp in a party purse from Floshin for the servants. Not divided.
+
+## With the party, not on a locked sheet
+
+- Maechen Givens. Guide. Woman. No sheet. With the party.
+- Brother Cald. Field cleric of Amaunator. Called. Answer not in yet.

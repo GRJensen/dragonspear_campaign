@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-05T23:23:57+02:00",
+  "updated": "2026-10-05T23:29:08+02:00",
   "session": "Session 2, Floshin's hall",
   "place": "Cromm's Hold, late morning",
-  "summary": "At Cromm's Hold to report to Isteval. Val is at the mosque. Her mail and shield are on the led horse. Pella stayed. Jeb's Mage Armor is not up.",
+  "summary": "At Cromm's Hold. Maechen is coming as guide. Brother Cald has been called and has not answered. Val's mail is on the led horse.",
   "partyCoin": {
     "gp": 92,
     "sp": 14,
@@ -10,7 +10,8 @@
   },
   "notes": [
     "Isteval's letter is in Nik's belt. Sera is at the townhouse door with the horses. Val's chain mail and shield are with her body in the hall. Harsk is freed and with the party.",
-    "Floshin's 40 gp is a party purse, not divided."
+    "Floshin's 40 gp is a party purse, not divided.",
+    "Maechen is with the party as guide. Brother Cald has been called."
   ],
   "party": [
     {
