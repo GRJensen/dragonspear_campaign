@@ -1,23 +1,23 @@
 # Party status
 
-As of Session 1 wrap, 2026-10-05. No XP awarded. Level 1. Sheets locked.
+As of Session 2 open, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: on the estate road north of Daggerford, morning. Trooper Edd guiding as far as the burned oak. Sera and her mare behind the party. Four days of townhouse rations in the packs. Then north onto Boarback. Camp not found.
+Place: Lord Floshin's townhouse, Daggerford, evening. Servants returned. Val's body, mail, and shield in the hall. Sera and Hobb present. Four days of rations still in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
 - HP 10 / 10. Hit die 1d8 unused.
 - AC 15. Initiative +4.
 - Coin: 25 gp.
-- Kit: leather, rapier, shortbow, 20 arrows, two daggers, thieves' tools, burglar's pack, dice, street clothes, Sendaral signet ring, four days rations, Isteval's letter.
+- Kit: leather, rapier, shortbow, 17 arrows, two daggers, thieves' tools, burglar's pack, dice, street clothes, Sendaral signet ring, four days rations, Isteval's letter.
 - No spell slots.
 
 ## Jeb (Jebrehoan Felix Bluetower) — CPC, human wizard 1
 
 - HP 9 / 9. Hit die 1d6 unused.
-- AC 13 (16 if Mage Armor is up). It is not up.
-- Slots: 2 / 2 (1st). Arcane Recovery unused.
-- Prepared: Mage Armor, Magic Missile, Feather Fall, Sleep. Detect Magic in the book as a ritual. Mage Armor is not cast.
+- AC 16 (Mage Armor, cast on the slope, about 8 hours). 
+- Slots: 0 / 2 (1st). Arcane Recovery unused.
+- Prepared: Mage Armor, Magic Missile, Feather Fall, Sleep. Detect Magic in the book as a ritual. Mage Armor is up. Sleep has been cast.
 - Coin: 10 gp.
 - Kit: quarterstaff, component pouch, scholar's pack, spellbook, ink, quill, knife, common clothes, Caradoc's letter, four days rations.
 
@@ -32,12 +32,12 @@ Place: on the estate road north of Daggerford, morning. Trooper Edd guiding as f
 
 - HP 14 / 14. Hit die 1d10 unused.
 - AC 19. Second Wind unused.
-- Coin: 0 gp.
+- Coin: 14 sp.
 - Kit: chain mail, shield, battleaxe, light crossbow, 20 bolts, dungeoneer's pack, clan token, stone chip, common clothes, mason's tools, dice, four days rations.
 
 ## Val (Valeria Dawnguard) — CPC, human paladin of Tyr 1
 
-- HP 12 / 12. Hit die 1d10 unused.
+- HP 0 / 12. Dead. Death saves: 1 success, 3 failures. Hit die unused. Chain mail and shield with the body in the hall.
 - AC 18.
 - Lay on Hands 5 / 5. Divine Sense 3 / 3.
 - Coin: 7 gp.
@@ -45,4 +45,4 @@ Place: on the estate road north of Daggerford, morning. Trooper Edd guiding as f
 
 ## Party coin
 
-52 gp across four purses. Daf is broke. Val paid 8 gp for Sera, four days, own horse. No party fund.
+52 gp across four purses, and 14 sp in Daf's hand from the camp. No party fund.
