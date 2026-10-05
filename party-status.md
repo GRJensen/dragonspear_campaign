@@ -2,7 +2,7 @@
 
 As of Session 2, Floshin's hall, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Lord Floshin's townhouse, dawn after a long rest. Val's body goes to the Mosque of Tyr. Sister Pella has been asked. Party will ride to Sir Isteval. Jeb prepared Mage Armor, Magic Missile, Feather Fall, Sleep. Four days of rations still in the packs.
+Place: Mosque of Tyr, Daggerford, morning. Val's body brought for rites. Sera paid and released. Sister Pella is here and has not sworn on. Party still bound for Sir Isteval. Four days of rations in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
