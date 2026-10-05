@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-05T23:07:36+02:00",
+  "updated": "2026-10-05T23:23:57+02:00",
   "session": "Session 2, Floshin's hall",
   "place": "Cromm's Hold, late morning",
-  "summary": "Pella stayed at the mosque. She cannot lay on hands. Party reached Cromm's Hold to report to Sir Isteval. Jeb's Mage Armor is not up.",
+  "summary": "At Cromm's Hold to report to Isteval. Val is at the mosque. Her mail and shield are on the led horse. Pella stayed. Jeb's Mage Armor is not up.",
   "partyCoin": {
     "gp": 92,
     "sp": 14,
@@ -292,7 +292,8 @@
       "potions": [],
       "conditions": [
         "dead",
-        "mail and shield with the body in the hall"
+        "body at the Mosque of Tyr",
+        "mail and shield on the led horse at the hold"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # Party status
 
-As of Session 2, Floshin's hall, 2026-10-05. No XP awarded. Level 1. Sheets locked.
+As of Session 2, Cromm's Hold, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
 Place: Cromm's Hold, late morning. Pella stayed for Val's vigil. She cannot lay on hands. Party come to tell Isteval the marsh news. Four days of rations in the packs.
 
@@ -37,7 +37,7 @@ Place: Cromm's Hold, late morning. Pella stayed for Val's vigil. She cannot lay 
 
 ## Val (Valeria Dawnguard) — CPC, human paladin of Tyr 1
 
-- HP 0 / 12. Dead. Death saves: 1 success, 3 failures. Hit die unused. Chain mail and shield with the body in the hall.
+- HP 0 / 12. Dead. Body at the Mosque of Tyr. Chain mail and shield on the led horse at Cromm's Hold.
 - AC 18.
 - Lay on Hands 5 / 5. Divine Sense 3 / 3.
 - Coin: 7 gp.
