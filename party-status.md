@@ -2,7 +2,7 @@
 
 As of Session 2, Cromm's Hold, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: shore of the marked lake, midday. Horses left at Cromm's Hold. On foot with Maechen and Brother Cald. Lair in sight across the water, not entered. Four days of rations in the packs.
+Place: island shore at the fane, midday. Raft beached. North opening ahead, not entered. Horses at Cromm's Hold. Four days of rations in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
