@@ -22,17 +22,17 @@
       margin: 0;
       background: radial-gradient(1200px 500px at 20% -10%, #3a3126 0%, var(--bg) 55%);
       color: var(--ink);
-      font: 16px/1.45 Georgia, "Palatino Linotype", Palatino, serif;
+      font: 15px/1.35 Georgia, "Palatino Linotype", Palatino, serif;
     }
-    header, main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
+    header, main { width: min(1680px, calc(100% - 24px)); margin: 0 auto; }
     header {
       display: flex;
       justify-content: space-between;
       gap: 16px;
       align-items: end;
-      padding: 28px 0 12px;
+      padding: 14px 0 8px;
     }
-    h1 { font-size: 28px; font-weight: 500; margin: 0; letter-spacing: .04em; }
+    h1 { font-size: 22px; font-weight: 500; margin: 0; letter-spacing: .04em; }
     h1 span { color: var(--gold); }
     .sub { color: var(--muted); margin-top: 4px; }
     button {
@@ -51,20 +51,20 @@
       border-radius: 12px;
       box-shadow: var(--shadow);
     }
-    .place { padding: 18px 20px 16px; margin: 8px 0 18px; }
-    .place h2 { margin: 0 0 8px; font-size: 18px; font-weight: 500; color: var(--gold); }
-    .place p { margin: 0 0 8px; }
-    .notes { margin: 8px 0 0; padding-left: 18px; color: var(--muted); }
+    .place { padding: 10px 14px; margin: 4px 0 10px; }
+    .place h2 { margin: 0 0 4px; font-size: 16px; font-weight: 500; color: var(--gold); }
+    .place p { margin: 0 0 4px; }
+    .notes { margin: 4px 0 0; padding-left: 18px; color: var(--muted); }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 14px;
-      padding-bottom: 40px;
+      grid-template-columns: repeat(var(--cols, 5), minmax(0, 1fr));
+      gap: 10px;
+      padding-bottom: 16px;
     }
-    .card { padding: 14px 14px 12px; display: flex; flex-direction: column; gap: 10px; }
-    .who { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
-    .who h3 { margin: 0; font-size: 20px; font-weight: 500; }
-    .who small { color: var(--muted); display: block; }
+    .card { padding: 10px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+    .who { display: flex; justify-content: space-between; gap: 6px; align-items: baseline; }
+    .who h3 { margin: 0; font-size: 17px; font-weight: 500; }
+    .who small { color: var(--muted); display: block; font-size: 12px; }
     .badge {
       color: var(--gold);
       border: 1px solid var(--line);
@@ -74,17 +74,23 @@
       letter-spacing: .06em;
       text-transform: uppercase;
     }
-    .stats { display: flex; gap: 14px; color: var(--muted); font-size: 14px; }
+    .stats { display: flex; flex-wrap: wrap; gap: 8px; color: var(--muted); font-size: 13px; }
     .stats b { color: var(--ink); font-weight: 600; }
-    .hp { height: 8px; background: #3a322a; border-radius: 99px; overflow: hidden; }
+    .hp { height: 6px; background: #3a322a; border-radius: 99px; overflow: hidden; }
     .hp i { display: block; height: 100%; background: var(--hp); }
     .hp.low i { background: var(--hp-low); }
-    .icons { display: flex; flex-wrap: wrap; gap: 8px; }
-    figure { margin: 0; width: 72px; text-align: center; }
-    figure img { width: 72px; height: 72px; object-fit: contain; background: #1a1612; border-radius: 8px; }
-    figcaption { color: var(--muted); font-size: 11px; line-height: 1.2; margin-top: 3px; }
-    .res, .gear { margin: 0; padding-left: 16px; color: var(--muted); font-size: 14px; }
-    .coin { color: var(--gold); font-size: 14px; }
+    .icons { display: flex; flex-wrap: wrap; gap: 4px; }
+    figure { margin: 0; width: 58px; text-align: center; }
+    figure img { width: 58px; height: 58px; object-fit: contain; background: #1a1612; border-radius: 6px; }
+    figcaption { color: var(--muted); font-size: 10px; line-height: 1.2; margin-top: 2px; }
+    .res, .gear { margin: 0; padding-left: 14px; color: var(--muted); font-size: 12px; }
+    .coin { color: var(--gold); font-size: 13px; }
+    @media (max-width: 1100px) {
+      .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+    @media (max-width: 720px) {
+      .grid { grid-template-columns: 1fr; }
+    }
     .err { color: #e0b4a4; }
     .empty { color: var(--muted); padding: 24px 0 40px; }
   </style>
@@ -192,6 +198,7 @@
       fetchedEl.textContent = (data.session || "Status") + " · file " + when + " · loaded " + new Date().toLocaleTimeString();
 
       partyEl.innerHTML = "";
+      partyEl.style.setProperty("--cols", String(Math.max(1, Math.min(6, (data.party || []).length))));
       (data.party || []).slice(0, 6).forEach(c => {
         const card = document.createElement("article");
         card.className = "card";
