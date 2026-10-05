@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-05T22:50:46+02:00",
+  "updated": "2026-10-05T22:53:47+02:00",
   "session": "Session 2, Floshin's hall",
-  "place": "Lord Floshin's townhouse, Daggerford, evening",
-  "summary": "Purse of 40 gp accepted for the servants. Val goes to the Mosque of Tyr. Party will take the marsh news to Sir Isteval. Asking after a healer.",
+  "place": "Lord Floshin's townhouse, dawn",
+  "summary": "Long rest in the townhouse. Purse kept. Val goes to the mosque. Sister Pella has been asked. Jeb's slots are full and his morning list is not chosen. Mage Armor is down.",
   "partyCoin": {
     "gp": 92,
     "sp": 14,
@@ -74,8 +74,8 @@
       "level": 1,
       "hp": 9,
       "hpMax": 9,
-      "ac": 16,
-      "acNote": "Mage Armor up, cast on the slope. About 8 hours.",
+      "ac": 13,
+      "acNote": "16 if Mage Armor is up. It is not up.",
       "initiative": 3,
       "hitDie": "1d6",
       "hitDieUsed": false,
@@ -85,7 +85,7 @@
       "resources": [
         {
           "name": "1st-level slots",
-          "current": 0,
+          "current": 2,
           "max": 2
         },
         {
@@ -95,12 +95,7 @@
           "note": "unused"
         }
       ],
-      "prepared": [
-        "Mage Armor",
-        "Magic Missile",
-        "Feather Fall",
-        "Sleep"
-      ],
+      "prepared": [],
       "rituals": [
         "Detect Magic"
       ],
