@@ -2,7 +2,7 @@
 
 As of Session 2, Floshin's hall, 2026-10-05. No XP awarded. Level 1. Sheets locked.
 
-Place: Mosque of Tyr, Daggerford, morning. Val's body brought for rites. Sera paid and released. Sister Pella is here and has not sworn on. Party still bound for Sir Isteval. Four days of rations in the packs.
+Place: Cromm's Hold, late morning. Pella stayed for Val's vigil. She cannot lay on hands. Party come to tell Isteval the marsh news. Four days of rations in the packs.
 
 ## Nik (Nikalan Sendaral) — PC, human rogue 1
 
