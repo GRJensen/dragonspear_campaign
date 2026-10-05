@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-05T19:04:00+02:00",
-  "session": "Session 1 hook",
-  "place": "Cromm's Hold, side room, late afternoon",
-  "summary": "Back from the marsh. Lair marked: dark lake, island, ruined domed temple, orange light in the north opening, about a hundred feet of water. No entry. No fight. No resources spent. Jeb's Mage Armor is not up. Val's Lay on Hands is full. Maechen is still with the militia.",
-  "partyCoin": { "gp": 60, "note": "Across four purses. Daf is broke. No party fund." },
-  "notes": ["Borrowed militia horses are at the stable if the party takes them into the marsh."],
+  "updated": "2026-10-05T21:14:00+02:00",
+  "session": "Session 1 wrap",
+  "place": "Estate road north of Daggerford, morning",
+  "summary": "Left the north gate with Trooper Edd, guiding as far as the burned oak, then Boarback. Sera rides behind to carry word if a camp is found. Four days of rations. No fight. Jeb's Mage Armor is not up. Val's Lay on Hands is full.",
+  "partyCoin": { "gp": 52, "note": "Across four purses. Daf is broke. Val paid 8 gp for Sera, four days. No party fund." },
+  "notes": ["Isteval's letter is in Nik's belt. Four days of townhouse rations are in the packs. Sera is paid through four days and is not a fighter."],
   "party": [
     {
       "id": "nik",
@@ -28,7 +28,7 @@
         { "id": "shortbow", "label": "shortbow", "ammo": "20 arrows" },
         { "id": "dagger", "label": "dagger", "count": 2 }
       ],
-      "gear": ["thieves' tools", "burglar's pack", "dice", "street clothes", "Sendaral signet ring"],
+      "gear": ["thieves' tools", "burglar's pack", "dice", "street clothes", "Sendaral signet ring", "four days rations", "Isteval's letter"],
       "potions": []
     },
     {
@@ -55,7 +55,7 @@
       "rituals": ["Detect Magic"],
       "armor": [],
       "weapons": [{ "id": "quarterstaff", "label": "quarterstaff" }],
-      "gear": ["component pouch", "scholar's pack", "spellbook", "ink", "quill", "knife", "common clothes", "Caradoc's letter"],
+      "gear": ["component pouch", "scholar's pack", "spellbook", "ink", "quill", "knife", "common clothes", "Caradoc's letter", "four days rations"],
       "potions": []
     },
     {
@@ -80,7 +80,7 @@
         { "id": "longbow", "label": "longbow", "ammo": "20 arrows" },
         { "id": "quarterstaff", "label": "staff" }
       ],
-      "gear": ["explorer's pack", "hunting trap", "owl feather", "traveler's clothes"],
+      "gear": ["explorer's pack", "hunting trap", "owl feather", "traveler's clothes", "four days rations"],
       "potions": []
     },
     {
@@ -107,7 +107,7 @@
         { "id": "battleaxe", "label": "battleaxe" },
         { "id": "light_crossbow", "label": "light crossbow", "ammo": "20 bolts" }
       ],
-      "gear": ["dungeoneer's pack", "clan token", "stone chip", "common clothes", "mason's tools", "dice"],
+      "gear": ["dungeoneer's pack", "clan token", "stone chip", "common clothes", "mason's tools", "dice", "four days rations"],
       "potions": []
     },
     {
@@ -124,7 +124,7 @@
       "initiative": 1,
       "hitDie": "1d10",
       "hitDieUsed": false,
-      "coin": { "gp": 15 },
+      "coin": { "gp": 7 },
       "resources": [
         { "name": "Lay on Hands", "current": 5, "max": 5 },
         { "name": "Divine Sense", "current": 3, "max": 3 }
@@ -137,7 +137,7 @@
         { "id": "warhammer", "label": "warhammer" },
         { "id": "javelin", "label": "javelin", "count": 5 }
       ],
-      "gear": ["priest's pack", "holy symbol of Tyr", "prayer book", "incense", "vestments", "common clothes"],
+      "gear": ["priest's pack", "holy symbol of Tyr", "prayer book", "incense", "vestments", "common clothes", "four days rations"],
       "potions": []
     }
   ]
