@@ -1,6 +1,6 @@
 # Party status
 
-In play. Daggerford town square, rainy morning, just after the hanging. A rider has brought word of a black dragon at Cromm's Hold. Sir Isteval has asked the party to ride with the reinforcements. Not yet accepted.
+In play. South shore of a lake in the Lizard Marsh, afternoon, same day they left Cromm's Hold. Lizardfolk track ends in the water. A ruined dome on the island shows a faint light. Not entered. Maechen Givens is guiding. Isteval remains at the Hold. Each still has a potion of healing. Rations unspent today. Floshin servants still missing.
 
 Party fund: 0 gp. Personal coin stays on the character.
 
@@ -12,7 +12,7 @@ No spell slots.
 Conditions: none.
 XP 0.
 Personal coin: 15 gp.
-Consumables: 20 arrows, 5 days of rations, 2 flasks of oil, 5 candles, hooded lantern (unlit).
+Consumables: 20 arrows, 12 days of rations, 2 flasks of oil, 5 candles, hooded lantern (unlit), 1 potion of healing.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
 
@@ -25,7 +25,7 @@ Spellbook also holds Detect Magic and Find Familiar. No familiar.
 Conditions: none.
 XP 0.
 Personal coin: 10 gp.
-Consumables: scholar's pack parchment and ink. No rations in the scholar's pack.
+Consumables: scholar's pack parchment and ink. 7 days of issued rations. 1 potion of healing.
 Weapons: quarterstaff, dagger. Component pouch.
 
 ## Cai (Cairial Elmwalker)
@@ -36,7 +36,7 @@ No spell slots.
 Conditions: none.
 XP 0.
 Personal coin: 10 gp.
-Consumables: 20 arrows, 10 torches, 10 days of rations, one hunting trap.
+Consumables: 20 arrows, 10 torches, 17 days of rations, one hunting trap, 1 potion of healing.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
@@ -47,7 +47,7 @@ No spell slots. Second Wind unused.
 Conditions: none.
 XP 0.
 Personal coin: 4 gp, 9 sp.
-Consumables: 20 bolts, 10 torches, 10 days of rations.
+Consumables: 20 bolts, 10 torches, 17 days of rations, 1 potion of healing.
 Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 ## Val (Valeria Dawnguard)
@@ -58,7 +58,7 @@ No spell slots. Lay on Hands 5/5. Divine Sense 4/4.
 Conditions: none.
 XP 0.
 Personal coin: 15 gp.
-Consumables: 5 javelins, 10 candles, 2 days of rations, incense.
+Consumables: 5 javelins, 10 candles, 9 days of rations, incense, 1 potion of healing.
 Weapons: longsword, five javelins, shield. Holy symbol: amulet of Tyr.
 
 ## Party coin

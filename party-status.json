@@ -1,8 +1,8 @@
 {
   "session": "Session 1",
-  "updated": "2026-10-06T13:40:00Z",
-  "place": "Cromm's Hold gates, rainy afternoon",
-  "summary": "Same day as the hanging. Party rode south with Sir Isteval and thirty militia. Borrowed horses. Job accepted, not paid. Floshin servants still missing.",
+  "updated": "2026-10-06T14:20:00Z",
+  "place": "Lizard Marsh, south shore of the lake, dome visible",
+  "summary": "Afternoon. Track ends at the lake. Island dome not entered. Maechen guiding. Potions and issued rations still unspent. Isteval at the Hold.",
   "partyCoin": { "gp": 0, "note": "Personal coin stays on each character." },
   "notes": [],
   "party": [
@@ -26,7 +26,7 @@
         { "id": "dagger", "label": "Dagger", "count": 2 },
         { "id": "shortbow", "label": "Shortbow", "ammo": "20 arrows" }
       ],
-      "gear": ["5 days rations", "2 oil", "thieves' tools"]
+      "gear": ["12 days rations", "2 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
     },
     {
       "short": "Jeb",
@@ -51,7 +51,7 @@
       "prepared": ["mage armor", "magic missile", "shield", "sleep"],
       "rituals": ["find familiar", "detect magic"],
       "resources": [{ "name": "1st", "current": 2, "max": 2 }],
-      "gear": ["component pouch", "spellbook", "no rations"]
+      "gear": ["7 days rations", "1 potion of healing", "component pouch", "spellbook"]
     },
     {
       "short": "Cai",
@@ -72,7 +72,7 @@
         { "id": "shortsword", "label": "Shortsword", "count": 2 },
         { "id": "longbow", "label": "Longbow", "ammo": "20 arrows" }
       ],
-      "gear": ["10 days rations", "10 torches", "hunting trap"]
+      "gear": ["17 days rations", "10 torches", "hunting trap", "1 potion of healing"]
     },
     {
       "short": "Daf",
@@ -98,7 +98,7 @@
         { "id": "handaxe", "label": "Handaxe", "count": 2 }
       ],
       "resources": [{ "name": "Second Wind", "current": 1, "max": 1 }],
-      "gear": ["4 gp 9 sp", "10 days rations", "10 torches", "mason's tools"]
+      "gear": ["17 days rations", "10 torches", "mason's tools", "1 potion of healing"]
     },
     {
       "short": "Val",
@@ -126,7 +126,7 @@
         { "name": "Lay on Hands", "current": 5, "max": 5 },
         { "name": "Divine Sense", "current": 4, "max": 4 }
       ],
-      "gear": ["2 days rations", "holy symbol"]
+      "gear": ["9 days rations", "1 potion of healing", "holy symbol"]
     }
   ]
 }
