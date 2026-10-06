@@ -1,5 +1,5 @@
 {
-  "place": "Daggerford taproom, midsummer festival, storm",
+  "place": "Daggerford square, after the hanging, Cromm's Hold ask open",
   "in_play": true,
   "party_fund_gp": 0,
   "characters": [
@@ -83,7 +83,7 @@
       "shield": "shield",
       "conditions": [],
       "xp": 0,
-      "coin_gp": 5,
+      "coin_gp": 4.9,
       "slots": {},
       "weapons": ["warhammer", "light_crossbow", "handaxe"],
       "ammo": "20 bolts",

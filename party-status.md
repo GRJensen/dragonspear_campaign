@@ -1,6 +1,6 @@
 # Party status
 
-In play. Daggerford, midsummer festival, late afternoon. Storm has pushed the games indoors. Party is in a packed taproom off the market. No clock on the road. Hanging has not happened.
+In play. Daggerford town square, rainy morning, just after the hanging. A rider has brought word of a black dragon at Cromm's Hold. Sir Isteval has asked the party to ride with the reinforcements. Not yet accepted.
 
 Party fund: 0 gp. Personal coin stays on the character.
 
@@ -46,7 +46,7 @@ HP 14/14. AC 18 (chain mail, shield). Hit die 1d10 unused.
 No spell slots. Second Wind unused.
 Conditions: none.
 XP 0.
-Personal coin: 5 gp.
+Personal coin: 4 gp, 9 sp.
 Consumables: 20 bolts, 10 torches, 10 days of rations.
 Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
@@ -64,4 +64,4 @@ Weapons: longsword, five javelins, shield. Holy symbol: amulet of Tyr.
 ## Party coin
 
 Fund: 0 gp.
-Personal, not in the fund: Nik 15, Jeb 10, Cai 10, Daf 5, Val 15.
+Personal, not in the fund: Nik 15, Jeb 10, Cai 10, Daf 4 gp 9 sp, Val 15.
