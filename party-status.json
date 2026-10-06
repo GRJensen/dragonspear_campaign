@@ -1,8 +1,8 @@
 {
   "session": "Session 1",
-  "updated": "2026-10-06T13:38:00Z",
-  "place": "Daggerford square, after the hanging, Cromm's Hold ask open",
-  "summary": "Party still in the square. The Cromm's Hold ask is open.",
+  "updated": "2026-10-06T13:40:00Z",
+  "place": "Cromm's Hold gates, rainy afternoon",
+  "summary": "Same day as the hanging. Party rode south with Sir Isteval and thirty militia. Borrowed horses. Job accepted, not paid. Floshin servants still missing.",
   "partyCoin": { "gp": 0, "note": "Personal coin stays on each character." },
   "notes": [],
   "party": [
@@ -98,7 +98,7 @@
         { "id": "handaxe", "label": "Handaxe", "count": 2 }
       ],
       "resources": [{ "name": "Second Wind", "current": 1, "max": 1 }],
-      "gear": ["10 days rations", "10 torches", "mason's tools"]
+      "gear": ["4 gp 9 sp", "10 days rations", "10 torches", "mason's tools"]
     },
     {
       "short": "Val",
