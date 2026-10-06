@@ -1,10 +1,10 @@
 {
   "session": "Session 1",
-  "updated": "2026-10-06T14:20:00Z",
-  "place": "Lizard Marsh, south shore of the lake, dome visible",
-  "summary": "Afternoon. Track ends at the lake. Island dome not entered. Maechen guiding. Potions and issued rations still unspent. Isteval at the Hold.",
-  "partyCoin": { "gp": 0, "note": "Personal coin stays on each character." },
-  "notes": [],
+  "updated": "2026-10-06T21:15:00Z",
+  "place": "North road, a mile from Cromm's Hold, morning, rain",
+  "summary": "Headed for the hill Clotskulls. Wyrmling with Nik. Floshin-face in the company. Isteval at the Hold. Rider sent to Daggerford.",
+  "partyCoin": { "gp": 53, "note": "Plus seven ornamental stones worth about 10 gp each. Personal coin stays on each character." },
+  "notes": ["Black wyrmling bonded to Nik, following.", "Do not record unrevealed identities."],
   "party": [
     {
       "short": "Nik",
@@ -13,6 +13,7 @@
       "race": "human",
       "class": "rogue",
       "level": 1,
+      "xp": 200,
       "hp": 11,
       "hpMax": 11,
       "ac": 14,
@@ -24,9 +25,9 @@
       "weapons": [
         { "id": "rapier", "label": "Rapier" },
         { "id": "dagger", "label": "Dagger", "count": 2 },
-        { "id": "shortbow", "label": "Shortbow", "ammo": "20 arrows" }
+        { "id": "shortbow", "label": "Shortbow", "ammo": "13 arrows" }
       ],
-      "gear": ["12 days rations", "2 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
+      "gear": ["11 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
     },
     {
       "short": "Jeb",
@@ -35,6 +36,7 @@
       "race": "human",
       "class": "wizard",
       "level": 1,
+      "xp": 200,
       "hp": 9,
       "hpMax": 9,
       "ac": 13,
@@ -51,7 +53,7 @@
       "prepared": ["mage armor", "magic missile", "shield", "sleep"],
       "rituals": ["find familiar", "detect magic"],
       "resources": [{ "name": "1st", "current": 2, "max": 2 }],
-      "gear": ["7 days rations", "1 potion of healing", "component pouch", "spellbook"]
+      "gear": ["6 days rations", "1 potion of healing", "component pouch", "spellbook"]
     },
     {
       "short": "Cai",
@@ -60,6 +62,7 @@
       "race": "half-elf",
       "class": "ranger",
       "level": 1,
+      "xp": 200,
       "hp": 12,
       "hpMax": 12,
       "ac": 14,
@@ -70,9 +73,9 @@
       "armor": [{ "id": "leather", "label": "Leather" }],
       "weapons": [
         { "id": "shortsword", "label": "Shortsword", "count": 2 },
-        { "id": "longbow", "label": "Longbow", "ammo": "20 arrows" }
+        { "id": "longbow", "label": "Longbow", "ammo": "16 arrows" }
       ],
-      "gear": ["17 days rations", "10 torches", "hunting trap", "1 potion of healing"]
+      "gear": ["16 days rations", "10 torches", "hunting trap", "1 potion of healing"]
     },
     {
       "short": "Daf",
@@ -81,6 +84,7 @@
       "race": "hill dwarf",
       "class": "fighter",
       "level": 1,
+      "xp": 200,
       "hp": 14,
       "hpMax": 14,
       "ac": 18,
@@ -94,11 +98,11 @@
       ],
       "weapons": [
         { "id": "warhammer", "label": "Warhammer" },
-        { "id": "light_crossbow", "label": "Light crossbow", "ammo": "20 bolts" },
+        { "id": "light_crossbow", "label": "Light crossbow", "ammo": "18 bolts" },
         { "id": "handaxe", "label": "Handaxe", "count": 2 }
       ],
       "resources": [{ "name": "Second Wind", "current": 1, "max": 1 }],
-      "gear": ["17 days rations", "10 torches", "mason's tools", "1 potion of healing"]
+      "gear": ["16 days rations", "10 torches", "mason's tools", "1 potion of healing"]
     },
     {
       "short": "Val",
@@ -107,6 +111,7 @@
       "race": "human",
       "class": "paladin",
       "level": 1,
+      "xp": 200,
       "hp": 12,
       "hpMax": 12,
       "ac": 19,
@@ -120,13 +125,13 @@
       ],
       "weapons": [
         { "id": "longsword", "label": "Longsword" },
-        { "id": "javelin", "label": "Javelin", "count": 5 }
+        { "id": "javelin", "label": "Javelin", "count": 4 }
       ],
       "resources": [
         { "name": "Lay on Hands", "current": 5, "max": 5 },
         { "name": "Divine Sense", "current": 4, "max": 4 }
       ],
-      "gear": ["9 days rations", "1 potion of healing", "holy symbol"]
+      "gear": ["8 days rations", "1 potion of healing", "holy symbol"]
     }
   ]
 }
