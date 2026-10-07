@@ -1,10 +1,10 @@
 {
   "session": "Session 2",
-  "updated": "2026-10-07T13:10:00Z",
-  "place": "Hill camp, stones and a hole, north of Cromm's Hold, morning, drizzle",
-  "summary": "Inside the hill camp, out of the rain. Eight servants freed. Back pocket clear. Nik 7 after Lay on Hands.",
+  "updated": "2026-10-07T13:30:00Z",
+  "place": "Rock shelf east of the hill camp, dawn",
+  "summary": "Rested under the shelf. Eight servants with the company. Nik did not finish a long rest. Word at Daggerford north gate tonight.",
   "partyCoin": { "gp": 53, "note": "Plus seven ornamental stones worth about 10 gp each. Personal coin stays on each character." },
-  "notes": ["Black wyrmling bonded to Nik, not hunting.", "Do not record unrevealed identities.", "Daf at 8. Lay on Hands spent."],
+  "notes": ["Black wyrmling bonded to Nik, not hunting.", "Do not record unrevealed identities.", "Daf full. Nik at 7, no long rest."],
   "party": [
     {
       "short": "Nik",
@@ -27,7 +27,7 @@
         { "id": "dagger", "label": "Dagger", "count": 2 },
         { "id": "shortbow", "label": "Shortbow", "ammo": "12 arrows" }
       ],
-      "gear": ["11 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
+      "gear": ["10 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
     },
     {
       "short": "Jeb",
@@ -39,8 +39,8 @@
       "xp": 200,
       "hp": 9,
       "hpMax": 9,
-      "ac": 16,
-      "acNote": "Mage Armor up",
+      "ac": 13,
+      "acNote": "Mage Armor lapsed",
       "initiative": 3,
       "hitDie": "1d6",
       "hitDieUsed": false,
@@ -52,8 +52,8 @@
       ],
       "prepared": ["mage armor", "magic missile", "shield", "sleep"],
       "rituals": ["find familiar", "detect magic"],
-      "resources": [{ "name": "1st", "current": 0, "max": 2 }],
-      "gear": ["6 days rations", "1 potion of healing", "component pouch", "spellbook"]
+      "resources": [{ "name": "1st", "current": 2, "max": 2 }],
+      "gear": ["5 days rations", "1 potion of healing", "component pouch", "spellbook"]
     },
     {
       "short": "Cai",
@@ -75,7 +75,7 @@
         { "id": "shortsword", "label": "Shortsword", "count": 2 },
         { "id": "longbow", "label": "Longbow", "ammo": "15 arrows" }
       ],
-      "gear": ["16 days rations", "10 torches", "hunting trap", "1 potion of healing"]
+      "gear": ["15 days rations", "10 torches", "hunting trap", "1 potion of healing"]
     },
     {
       "short": "Daf",
@@ -85,7 +85,7 @@
       "class": "fighter",
       "level": 1,
       "xp": 200,
-      "hp": 8,
+      "hp": 14,
       "hpMax": 14,
       "ac": 18,
       "initiative": 2,
@@ -101,8 +101,8 @@
         { "id": "light_crossbow", "label": "Light crossbow", "ammo": "18 bolts" },
         { "id": "handaxe", "label": "Handaxe", "count": 2 }
       ],
-      "resources": [{ "name": "Second Wind", "current": 0, "max": 1 }],
-      "gear": ["16 days rations", "10 torches", "mason's tools", "1 potion of healing"]
+      "resources": [{ "name": "Second Wind", "current": 1, "max": 1 }],
+      "gear": ["15 days rations", "10 torches", "mason's tools", "1 potion of healing"]
     },
     {
       "short": "Val",
@@ -128,10 +128,10 @@
         { "id": "javelin", "label": "Javelin", "count": 4 }
       ],
       "resources": [
-        { "name": "Lay on Hands", "current": 0, "max": 5 },
+        { "name": "Lay on Hands", "current": 5, "max": 5 },
         { "name": "Divine Sense", "current": 4, "max": 4 }
       ],
-      "gear": ["8 days rations", "1 potion of healing", "holy symbol"]
+      "gear": ["7 days rations", "1 potion of healing", "holy symbol"]
     }
   ]
 }
