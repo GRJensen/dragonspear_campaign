@@ -1,10 +1,10 @@
 {
-  "session": "Session 1",
-  "updated": "2026-10-06T21:15:00Z",
-  "place": "North road, a mile from Cromm's Hold, morning, rain",
-  "summary": "Headed for the hill Clotskulls. Wyrmling with Nik. Floshin-face in the company. Isteval at the Hold. Rider sent to Daggerford.",
+  "session": "Session 2",
+  "updated": "2026-10-07T13:10:00Z",
+  "place": "Hill camp, stones and a hole, north of Cromm's Hold, morning, drizzle",
+  "summary": "Inside the hill camp, out of the rain. Eight servants freed. Back pocket clear. Nik 7 after Lay on Hands.",
   "partyCoin": { "gp": 53, "note": "Plus seven ornamental stones worth about 10 gp each. Personal coin stays on each character." },
-  "notes": ["Black wyrmling bonded to Nik, following.", "Do not record unrevealed identities."],
+  "notes": ["Black wyrmling bonded to Nik, not hunting.", "Do not record unrevealed identities.", "Daf at 8. Lay on Hands spent."],
   "party": [
     {
       "short": "Nik",
@@ -14,7 +14,7 @@
       "class": "rogue",
       "level": 1,
       "xp": 200,
-      "hp": 11,
+      "hp": 7,
       "hpMax": 11,
       "ac": 14,
       "initiative": 3,
@@ -25,7 +25,7 @@
       "weapons": [
         { "id": "rapier", "label": "Rapier" },
         { "id": "dagger", "label": "Dagger", "count": 2 },
-        { "id": "shortbow", "label": "Shortbow", "ammo": "13 arrows" }
+        { "id": "shortbow", "label": "Shortbow", "ammo": "12 arrows" }
       ],
       "gear": ["11 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools"]
     },
@@ -39,8 +39,8 @@
       "xp": 200,
       "hp": 9,
       "hpMax": 9,
-      "ac": 13,
-      "acNote": "16 if Mage Armor is up",
+      "ac": 16,
+      "acNote": "Mage Armor up",
       "initiative": 3,
       "hitDie": "1d6",
       "hitDieUsed": false,
@@ -52,7 +52,7 @@
       ],
       "prepared": ["mage armor", "magic missile", "shield", "sleep"],
       "rituals": ["find familiar", "detect magic"],
-      "resources": [{ "name": "1st", "current": 2, "max": 2 }],
+      "resources": [{ "name": "1st", "current": 0, "max": 2 }],
       "gear": ["6 days rations", "1 potion of healing", "component pouch", "spellbook"]
     },
     {
@@ -73,7 +73,7 @@
       "armor": [{ "id": "leather", "label": "Leather" }],
       "weapons": [
         { "id": "shortsword", "label": "Shortsword", "count": 2 },
-        { "id": "longbow", "label": "Longbow", "ammo": "16 arrows" }
+        { "id": "longbow", "label": "Longbow", "ammo": "15 arrows" }
       ],
       "gear": ["16 days rations", "10 torches", "hunting trap", "1 potion of healing"]
     },
@@ -85,7 +85,7 @@
       "class": "fighter",
       "level": 1,
       "xp": 200,
-      "hp": 14,
+      "hp": 8,
       "hpMax": 14,
       "ac": 18,
       "initiative": 2,
@@ -101,7 +101,7 @@
         { "id": "light_crossbow", "label": "Light crossbow", "ammo": "18 bolts" },
         { "id": "handaxe", "label": "Handaxe", "count": 2 }
       ],
-      "resources": [{ "name": "Second Wind", "current": 1, "max": 1 }],
+      "resources": [{ "name": "Second Wind", "current": 0, "max": 1 }],
       "gear": ["16 days rations", "10 torches", "mason's tools", "1 potion of healing"]
     },
     {
@@ -128,7 +128,7 @@
         { "id": "javelin", "label": "Javelin", "count": 4 }
       ],
       "resources": [
-        { "name": "Lay on Hands", "current": 5, "max": 5 },
+        { "name": "Lay on Hands", "current": 0, "max": 5 },
         { "name": "Divine Sense", "current": 4, "max": 4 }
       ],
       "gear": ["8 days rations", "1 potion of healing", "holy symbol"]
