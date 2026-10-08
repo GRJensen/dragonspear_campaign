@@ -7,7 +7,7 @@ Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cac
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 3/18. AC 14 (leather). Hit die 2d8 unused.
+HP 8/18. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
@@ -45,8 +45,8 @@ Weapons: two shortswords, longbow, staff.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 2, LN. Companion.
-HP 11/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
-No spell slots. Second Wind unused. Action Surge unused.
+HP 14/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
+No spell slots. Second Wind used. Action Surge unused.
 Conditions: none.
 XP 420.
 Personal coin: 4 gp, 9 sp.
@@ -57,7 +57,7 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 Human paladin of Tyr 2, LG. Companion.
 HP 20/20. AC 19 (chain mail, shield, Defense). Hit die 2d10 unused.
-Slots: 1st 2/2. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
+Slots: 1st 1/2. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 10/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 420.
