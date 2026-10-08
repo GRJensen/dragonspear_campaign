@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Nik 0 in the hall. Val 4. Five centipedes in the doorway.",
+  "summary": "Two centipedes left. Nik 0. Val 4. Jeb two slots.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -114,7 +114,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 3,
+          "current": 2,
           "max": 3
         },
         {
