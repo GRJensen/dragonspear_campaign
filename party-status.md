@@ -45,7 +45,7 @@ Weapons: two shortswords, longbow, staff.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 2, LN. Companion.
-HP 22/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
+HP 19/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
 No spell slots. Second Wind unused. Action Surge unused.
 Conditions: none.
 XP 420.
