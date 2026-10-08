@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T21:10:00Z",
-  "place": "Upper hall, centipede room clear",
-  "summary": "Short rest in the vault. Nik 17. Val 20. Jeb two slots. Daf wind back.",
+  "updated": "2026-10-08T21:22:00Z",
+  "place": "South door of the hall, statue room open",
+  "summary": "Two lizardfolk dead at the statue. Val 13. Nik 17.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund.",
@@ -52,7 +52,7 @@
         {
           "id": "shortbow",
           "label": "Shortbow",
-          "ammo": "30 arrows"
+          "ammo": "26 arrows"
         }
       ],
       "gear": [
@@ -165,7 +165,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "29 arrows"
+          "ammo": "24 arrows"
         }
       ],
       "spells": [
@@ -260,7 +260,7 @@
       "class": "paladin",
       "level": 2,
       "xp": 420,
-      "hp": 20,
+      "hp": 13,
       "hpMax": 20,
       "ac": 20,
       "initiative": 1,
