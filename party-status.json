@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Nik at 0 in the centipede doorway. Death saves not started.",
+  "summary": "Nik 0 in the hall. Val 4. Five centipedes in the doorway.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -257,9 +257,9 @@
       "class": "paladin",
       "level": 2,
       "xp": 420,
-      "hp": 20,
+      "hp": 4,
       "hpMax": 20,
-      "ac": 19,
+      "ac": 20,
       "initiative": 1,
       "hitDie": "2d10",
       "hitDieUsed": false,
