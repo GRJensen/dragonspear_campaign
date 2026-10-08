@@ -1,6 +1,6 @@
 # Party status
 
-In play. Island north shore, off the arch line, afternoon. Raft beached. Temple not re-entered. Full hit points. Wyrmling with Nik, not hunting. Raven with Jeb.
+In play. Cage room, area 2, island, afternoon. Both giant lizards down. Area 3 not entered. Nik 18/18. Daf 19/22.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
@@ -12,7 +12,7 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 30 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
+Consumables: 29 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
 Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak worn.
@@ -39,7 +39,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: 29 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
+Consumables: 28 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
