@@ -1,13 +1,13 @@
 # Party status
 
-In play. Far shore of the lake, afternoon, under the trees. Raft beached. Island not in sight through the mist. Area 2 cleared. Door to area 3 broken. Nik 8/18. Daf 14/22. Wyrmling with Nik.
+In play. Cromm's Hold, dawn after the return from the lake. Long rest taken. Full hit points. Slots restored. Preparations asked, not confirmed. Area 2 cleared. Area 3 seen and left. Door broken. Wyrmling in the yard, not hunting.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 8/18. AC 14 (leather). Hit die 2d8 unused.
+HP 18/18. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak wo
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 0/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 3/3. Prepared: asked at dawn, last list was Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
@@ -34,7 +34,7 @@ Weapons: quarterstaff, dagger. Component pouch.
 
 Half-elf ranger 2, CG. Companion.
 HP 20/20. AC 14 (leather). Hit die 2d10 unused.
-Slots: 1st 1/2. Spells known: Hunter's Mark, Cure Wounds.
+Slots: 1st 2/2. Spells known: Hunter's Mark, Cure Wounds.
 Fighting style: Archery.
 Conditions: none.
 XP 420.
@@ -45,8 +45,8 @@ Weapons: two shortswords, longbow, staff.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 2, LN. Companion.
-HP 14/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
-No spell slots. Second Wind used. Action Surge unused.
+HP 22/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
+No spell slots. Second Wind unused. Action Surge unused.
 Conditions: none.
 XP 420.
 Personal coin: 4 gp, 9 sp.
@@ -57,7 +57,7 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 Human paladin of Tyr 2, LG. Companion.
 HP 20/20. AC 19 (chain mail, shield, Defense). Hit die 2d10 unused.
-Slots: 1st 1/2. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
+Slots: 1st 2/2. Prepared: asked at dawn, last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 10/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 420.
