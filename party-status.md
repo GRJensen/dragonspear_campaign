@@ -1,6 +1,6 @@
 # Party status
 
-In play. Cromm's Hold, dawn after the return from the lake. Long rest taken. Full hit points. Slots restored. Preparations asked, not confirmed. Area 2 cleared. Area 3 seen and left. Door broken. Wyrmling in the yard, not hunting.
+In play. Island north shore, off the arch line, afternoon. Raft beached. Temple not re-entered. Full hit points. Wyrmling with Nik, not hunting. Raven with Jeb.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
