@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Giant lizards dead. In the throne room. Daf 19/22.",
+  "summary": "Throne loot buried except copper. Val has the apple shield. Daf healed to 22.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -11,7 +11,8 @@
     "Black wyrmling bonded to Nik, not hunting.",
     "Jeb's raven is with him.",
     "Four oilcloth cloaks worn. Sack of wood ash with Daf.",
-    "Do not record unrevealed identities."
+    "Do not record unrevealed identities.",
+    "Island cache: 1170 sp, 3 silver goblets, unicorn figurine, sapphire pendant. Copper left in the throne heap. Apple used today."
   ],
   "party": [
     {
@@ -191,7 +192,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 19,
+      "hp": 22,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
@@ -272,6 +273,10 @@
         {
           "id": "shield",
           "label": "Shield"
+        },
+        {
+          "id": "apple_shield",
+          "label": "Apple-tree +1 shield"
         }
       ],
       "weapons": [
