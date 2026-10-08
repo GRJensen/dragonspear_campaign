@@ -39,7 +39,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: 29 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
+Consumables: 28 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing, blue waterproof candle. Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
