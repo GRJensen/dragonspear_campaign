@@ -7,7 +7,7 @@ Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cac
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 0/18. Unconscious, dying. AC 14 (leather). Hit die 2d8 unused.
+HP 10/18. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak wo
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 2/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 1/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
@@ -34,7 +34,7 @@ Weapons: quarterstaff, dagger. Component pouch.
 
 Half-elf ranger 2, CG. Companion.
 HP 20/20. AC 14 (leather). Hit die 2d10 unused.
-Slots: 1st 2/2. Spells known: Hunter's Mark, Cure Wounds.
+Slots: 1st 1/2. Spells known: Hunter's Mark, Cure Wounds.
 Fighting style: Archery.
 Conditions: none.
 XP 420.
@@ -56,7 +56,7 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 ## Val (Valeria Dawnguard)
 
 Human paladin of Tyr 2, LG. Companion.
-HP 4/20. AC 20 (chain mail, apple shield, Defense). Hit die 2d10 unused.
+HP 13/20. AC 20 (chain mail, apple shield, Defense). Hit die 2d10 unused.
 Slots: 1st 2/2. Prepared: asked at dawn, last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 9/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
