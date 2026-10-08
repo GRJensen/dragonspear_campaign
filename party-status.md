@@ -1,6 +1,6 @@
 # Party status
 
-In play. Lake shore in the Lizard Marsh, afternoon. Dome seen, island not reached. Oilcloth cloaks on. Ash with Daf. Face gone. Wyrmling with Nik, not hunting. Jeb's raven is with him.
+In play. Island shore, Lizard Marsh, afternoon. Raft on the north beach. Temple not entered. Oilcloth cloaks on. Ash with Daf. Face gone. Wyrmling with Nik, not hunting. Jeb's raven is with him.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
@@ -12,10 +12,10 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 12 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
+Consumables: 12 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
-Wyrmling: black, bonded to him. With the company, not hunting.
+Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak worn.
 
 ## Jeb (Jebrehoan Felix Bluetower)
 
@@ -27,7 +27,7 @@ Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: scholar's pack parchment and ink. 2 days of rations. 1 potion of healing. Oilcloth cloak worn.
+Consumables: scholar's pack parchment and ink. 2 days of rations. 1 potion of healing.
 Weapons: quarterstaff, dagger. Component pouch.
 
 ## Cai (Cairial Elmwalker)
@@ -39,7 +39,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: 15 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
+Consumables: 15 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
@@ -50,7 +50,7 @@ No spell slots. Second Wind unused. Action Surge unused.
 Conditions: none.
 XP 420.
 Personal coin: 4 gp, 9 sp.
-Consumables: 18 bolts, 10 torches, 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Sack of wood ash, about 20 pounds. Oilcloth cloak worn.
+Consumables: 18 bolts, 10 torches, 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Sack of wood ash, about 20 pounds.
 Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 ## Val (Valeria Dawnguard)
@@ -62,7 +62,7 @@ Lay on Hands 10/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 4 javelins, 10 candles, 3 days of rations, 1 potion of healing. Incense spent on Jeb's ritual. Oilcloth cloak worn.
+Consumables: 4 javelins, 10 candles, 3 days of rations, 1 potion of healing. Incense spent on Jeb's ritual.
 Weapons: longsword, four javelins, shield. Holy symbol: amulet of Tyr.
 
 ## Party coin
