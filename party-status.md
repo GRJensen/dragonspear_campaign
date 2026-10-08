@@ -12,7 +12,7 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 29 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
+Consumables: 29 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
 Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak worn.
@@ -45,7 +45,7 @@ Weapons: two shortswords, longbow, staff.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 2, LN. Companion.
-HP 17/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
+HP 21/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
 No spell slots. Second Wind used. Action Surge unused.
 Conditions: none.
 XP 420.
@@ -63,7 +63,7 @@ Conditions: none.
 XP 420.
 Personal coin: 15 gp.
 Consumables: 4 javelins, 10 candles, 3 days of rations, 1 potion of healing. Incense spent on Jeb's ritual.
-Weapons: longsword, four javelins, shield. Holy symbol: amulet of Tyr. Also carrying the apple-tree shield from the throne room, +1, apple once per day, used today.
+Weapons: longsword, four javelins, shield. Holy symbol: amulet of Tyr. Also carrying the apple-tree shield from the throne room, +1, apple once per day, used today. Scrolls: lesser restoration, speak with dead.
 
 ## Party coin
 
