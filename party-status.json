@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Daf 17/22 after slime. Second Wind used. Upper rooms partly cleared.",
+  "summary": "Daf 21/22. Val one slot. Medallion with Nik. Scrolls with Val. Robe left.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -61,7 +61,8 @@
         "lantern",
         "1 potion of healing",
         "thieves' tools",
-        "oilcloth cloak"
+        "oilcloth cloak",
+        "sun medallion"
       ]
     },
     {
@@ -192,7 +193,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 17,
+      "hp": 21,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
@@ -299,7 +300,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 2,
+          "current": 1,
           "max": 2
         },
         {
@@ -317,7 +318,9 @@
         "3 days rations",
         "1 potion of healing",
         "holy symbol",
-        "oilcloth cloak"
+        "oilcloth cloak",
+        "lesser restoration scroll",
+        "speak with dead scroll"
       ]
     }
   ]
