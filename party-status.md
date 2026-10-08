@@ -58,7 +58,7 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 Human paladin of Tyr 2, LG. Companion.
 HP 20/20. AC 19 (chain mail, shield, Defense). Hit die 2d10 unused.
 Slots: 1st 2/2. Prepared: asked at dawn, last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 10/10. Divine Sense 4/4. Divine Smite.
+Lay on Hands 9/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
