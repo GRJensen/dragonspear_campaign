@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T19:45:00Z",
-  "place": "Island north shore, off the arch line, afternoon",
-  "summary": "Back at the island. Temple not re-entered. Full hit points.",
+  "updated": "2026-10-08T19:58:00Z",
+  "place": "Cage room, area 2, island, afternoon. Giant lizards down",
+  "summary": "Both giant lizards dead. Daf 19/22. Area 3 not entered.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -50,7 +50,7 @@
         {
           "id": "shortbow",
           "label": "Shortbow",
-          "ammo": "30 arrows"
+          "ammo": "29 arrows"
         }
       ],
       "gear": [
@@ -161,7 +161,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "29 arrows"
+          "ammo": "28 arrows"
         }
       ],
       "spells": [
@@ -191,7 +191,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 22,
+      "hp": 19,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
