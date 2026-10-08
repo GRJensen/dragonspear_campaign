@@ -1,18 +1,18 @@
 # Party status
 
-In play. Island shore, Lizard Marsh, afternoon. Raft on the north beach. Temple not entered. Oilcloth cloaks on. Ash with Daf. Face gone. Wyrmling with Nik, not hunting. Jeb's raven is with him.
+In play. Fane upper hall, island, afternoon. Four lizardfolk down. West door not opened. Beetles still on the mound. Oilcloth cloaks on. Ash with Daf. Wyrmling with Nik, not hunting. Jeb's raven is with him.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 18/18. AC 14 (leather). Hit die 2d8 unused.
+HP 12/18. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 12 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing.
+Consumables: 10 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
 Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak worn.
@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak wo
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 3/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 0/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
@@ -39,7 +39,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: 15 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing.
+Consumables: 12 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
