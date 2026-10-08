@@ -7,7 +7,7 @@ Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cac
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 12/18. AC 14 (leather). Hit die 2d8 unused.
+HP 18/18. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
@@ -34,7 +34,7 @@ Weapons: quarterstaff, dagger. Component pouch.
 
 Half-elf ranger 2, CG. Companion.
 HP 20/20. AC 14 (leather). Hit die 2d10 unused.
-Slots: 1st 2/2. Spells known: Hunter's Mark, Cure Wounds.
+Slots: 1st 1/2. Spells known: Hunter's Mark, Cure Wounds.
 Fighting style: Archery.
 Conditions: none.
 XP 420.
