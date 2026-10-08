@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T15:30:00Z",
-  "place": "Island shore, Lizard Marsh, afternoon. Temple not entered",
-  "summary": "Level 2. Raft across. Temple not entered.",
+  "updated": "2026-10-08T18:55:00Z",
+  "place": "Fane upper hall, island, afternoon. West door not opened",
+  "summary": "Four lizardfolk down in the hall. Nik 12/18. Jeb slots spent.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -22,7 +22,7 @@
       "class": "rogue",
       "level": 2,
       "xp": 420,
-      "hp": 18,
+      "hp": 12,
       "hpMax": 18,
       "ac": 14,
       "initiative": 3,
@@ -50,7 +50,7 @@
         {
           "id": "shortbow",
           "label": "Shortbow",
-          "ammo": "12 arrows"
+          "ammo": "10 arrows"
         }
       ],
       "gear": [
@@ -112,7 +112,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 3,
+          "current": 0,
           "max": 3
         },
         {
@@ -161,7 +161,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "15 arrows"
+          "ammo": "12 arrows"
         }
       ],
       "spells": [
