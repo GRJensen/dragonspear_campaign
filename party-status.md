@@ -45,7 +45,7 @@ Weapons: two shortswords, longbow, staff.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 2, LN. Companion.
-HP 19/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
+HP 22/22. AC 18 (chain mail, shield). Hit die 2d10 unused.
 No spell slots. Second Wind unused. Action Surge unused.
 Conditions: none.
 XP 420.
@@ -63,9 +63,9 @@ Conditions: none.
 XP 420.
 Personal coin: 15 gp.
 Consumables: 4 javelins, 10 candles, 3 days of rations, 1 potion of healing. Incense spent on Jeb's ritual.
-Weapons: longsword, four javelins, shield. Holy symbol: amulet of Tyr.
+Weapons: longsword, four javelins, shield. Holy symbol: amulet of Tyr. Also carrying the apple-tree shield from the throne room, +1, apple once per day, used today.
 
 ## Party coin
 
-Fund: 61 gp, and seven ornamental stones.
+Fund: 61 gp, and seven ornamental stones. Throne-room copper left in the heap. Other throne loot buried on the island, marked by Cai. Shield with Val.
 Personal, not in the fund: Nik 15, Jeb 10, Cai 10, Daf 4 gp 9 sp, Val 15.
