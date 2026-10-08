@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T20:58:00Z",
+  "updated": "2026-10-08T21:10:00Z",
   "place": "Upper hall, centipede room clear",
-  "summary": "Lockbox split. Nik has invisibility. Val has the covered quartz. Cai has the blue candle. 45 ep in the fund.",
+  "summary": "Short rest in the vault. Nik 17. Val 20. Jeb two slots. Daf wind back.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund.",
@@ -24,12 +24,12 @@
       "class": "rogue",
       "level": 2,
       "xp": 420,
-      "hp": 10,
+      "hp": 17,
       "hpMax": 18,
       "ac": 14,
       "initiative": 3,
       "hitDie": "2d8",
-      "hitDieUsed": false,
+      "hitDieUsed": true,
       "coin": {
         "gp": 15
       },
@@ -116,12 +116,12 @@
       "resources": [
         {
           "name": "1st",
-          "current": 1,
+          "current": 2,
           "max": 3
         },
         {
           "name": "Arcane Recovery",
-          "current": 1,
+          "current": 0,
           "max": 1
         }
       ],
@@ -234,7 +234,7 @@
       "resources": [
         {
           "name": "Second Wind",
-          "current": 0,
+          "current": 1,
           "max": 1
         },
         {
@@ -260,12 +260,12 @@
       "class": "paladin",
       "level": 2,
       "xp": 420,
-      "hp": 13,
+      "hp": 20,
       "hpMax": 20,
       "ac": 20,
       "initiative": 1,
       "hitDie": "2d10",
-      "hitDieUsed": false,
+      "hitDieUsed": true,
       "coin": {
         "gp": 15
       },
