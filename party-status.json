@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:58:00Z",
   "place": "Upper hall, centipede room clear",
-  "summary": "Centipedes dead. Nik 10. Val 13. Jeb one slot. Val no slots. Cai one slot.",
+  "summary": "Lockbox open. Nik 10, Val 13. Invisibility potion, glow stone, 45 ep, blue candle.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -62,7 +62,11 @@
         "1 potion of healing",
         "thieves' tools",
         "oilcloth cloak",
-        "sun medallion"
+        "sun medallion",
+        "glowing quartz",
+        "potion of invisibility",
+        "45 ep",
+        "blue waterproof candle"
       ]
     },
     {
