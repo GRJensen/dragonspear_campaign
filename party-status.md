@@ -1,6 +1,6 @@
 # Party status
 
-In play. Fane upper hall and west room, island, afternoon. Six lizardfolk down. Beetles caged in the west room. West door open. Oilcloth cloaks on. Ash with Daf. Wyrmling with Nik, not hunting. Jeb's raven is with him.
+In play. North shore of the island, at the raft, afternoon. Area 2 cleared. Door to area 3 shut and being hit. Nik 8/18. Daf 14/22. Wyrmling with Nik.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent: 10 gp on the familiar ritual, 8 gp into the fund. Personal coin stays on the character.
 
