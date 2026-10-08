@@ -12,7 +12,7 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
 Personal coin: 15 gp.
-Consumables: 10 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
+Consumables: 30 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn.
 Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
 Pack: burglar's pack. Clothes: dark common, hooded.
 Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak worn.
@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak wo
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 3/3. Prepared: asked at dawn, last list was Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 3/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
@@ -39,7 +39,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 420.
 Personal coin: 10 gp.
-Consumables: 9 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
+Consumables: 29 arrows, 10 torches, 8 days of rations, one hunting trap, 1 potion of healing. Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
@@ -50,7 +50,7 @@ No spell slots. Second Wind unused. Action Surge unused.
 Conditions: none.
 XP 420.
 Personal coin: 4 gp, 9 sp.
-Consumables: 18 bolts, 10 torches, 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Sack of wood ash, about 20 pounds.
+Consumables: 18 bolts, 20 torches, 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Sack of wood ash, about 20 pounds.
 Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 ## Val (Valeria Dawnguard)
