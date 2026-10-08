@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T19:58:00Z",
-  "place": "Cage room, area 2, island, afternoon. Giant lizards down",
-  "summary": "Both giant lizards dead. Daf 19/22. Area 3 not entered.",
+  "updated": "2026-10-08T20:00:00Z",
+  "place": "Throne room, area 3, island, afternoon",
+  "summary": "Giant lizards dead. In the throne room. Daf 19/22.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -50,7 +50,7 @@
         {
           "id": "shortbow",
           "label": "Shortbow",
-          "ammo": "29 arrows"
+          "ammo": "30 arrows"
         }
       ],
       "gear": [
@@ -161,7 +161,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "28 arrows"
+          "ammo": "29 arrows"
         }
       ],
       "spells": [
