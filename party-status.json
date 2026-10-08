@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Daf 21/22. Val one slot. Medallion with Nik. Scrolls with Val. Robe left.",
+  "summary": "Nik at 0 in the centipede doorway. Death saves not started.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -23,7 +23,7 @@
       "class": "rogue",
       "level": 2,
       "xp": 420,
-      "hp": 18,
+      "hp": 0,
       "hpMax": 18,
       "ac": 14,
       "initiative": 3,
