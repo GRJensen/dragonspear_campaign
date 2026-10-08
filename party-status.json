@@ -2,7 +2,7 @@
   "session": "Session 3",
   "updated": "2026-10-08T20:00:00Z",
   "place": "Throne room, area 3, island, afternoon",
-  "summary": "Throne loot buried except copper. Val has the apple shield. Daf healed to 22.",
+  "summary": "Daf 17/22 after slime. Second Wind used. Upper rooms partly cleared.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -192,7 +192,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 22,
+      "hp": 17,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
@@ -230,7 +230,7 @@
       "resources": [
         {
           "name": "Second Wind",
-          "current": 1,
+          "current": 0,
           "max": 1
         },
         {
