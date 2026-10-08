@@ -7,7 +7,7 @@ Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cac
 ## Nik (Nikalan Sendaral)
 
 Human rogue 2, NG. Player character.
-HP 18/18. AC 14 (leather). Hit die 2d8 unused.
+HP 0/18. Unconscious, dying. AC 14 (leather). Hit die 2d8 unused.
 No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 420.
