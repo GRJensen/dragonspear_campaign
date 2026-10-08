@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T19:35:00Z",
+  "updated": "2026-10-08T19:45:00Z",
   "place": "Cromm's Hold, dawn after the lake return",
-  "summary": "Long rest. Full hit points. Slots restored. Area 3 not cleared.",
+  "summary": "Hold dawn. Same spells. Two quivers and ten torches from Isteval.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -50,7 +50,7 @@
         {
           "id": "shortbow",
           "label": "Shortbow",
-          "ammo": "10 arrows"
+          "ammo": "30 arrows"
         }
       ],
       "gear": [
@@ -161,7 +161,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "9 arrows"
+          "ammo": "29 arrows"
         }
       ],
       "spells": [
@@ -240,7 +240,7 @@
       ],
       "gear": [
         "8 days rations",
-        "10 torches",
+        "20 torches",
         "mason's tools",
         "1 potion of healing",
         "sack of wood ash",
