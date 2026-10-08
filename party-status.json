@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-08T19:10:00Z",
+  "updated": "2026-10-08T19:12:00Z",
   "place": "Fane west room and hall, island, afternoon. Six lizardfolk down",
-  "summary": "West room open. Nik 3/18. Daf 11/22. Jeb slots spent. Cai one slot.",
+  "summary": "West room clear. Nik 8/18. Daf 14/22. Val one slot. Jeb empty.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund."
@@ -22,7 +22,7 @@
       "class": "rogue",
       "level": 2,
       "xp": 420,
-      "hp": 3,
+      "hp": 8,
       "hpMax": 18,
       "ac": 14,
       "initiative": 3,
@@ -191,7 +191,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 11,
+      "hp": 14,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
@@ -229,7 +229,7 @@
       "resources": [
         {
           "name": "Second Wind",
-          "current": 1,
+          "current": 0,
           "max": 1
         },
         {
@@ -294,7 +294,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 2,
+          "current": 1,
           "max": 2
         },
         {
