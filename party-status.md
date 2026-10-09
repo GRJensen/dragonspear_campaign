@@ -1,6 +1,6 @@
 # Party status
 
-In play. Cromm's Hold, evening of the day they first reached the dome. Rest not taken. Wound tally from the floor did not survive the rewind; they are upright, maxima held until a hit lands. XP 820 each. Level 3 is 900.
+In play. Cromm's Hold, dawn after the long rest. Ready to leave. Apple on the shield is back. XP 820 each. Level 3 is 900.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Hill cache is spent. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Personal coin stays on the character.
 
@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. In the yard, not hunting.
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 3/3. Prepared: asked at dawn, last list was Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 3/3. Prepared: not yet asked this dawn. Last list was Mage Armor, Magic Missile, Shield, Sleep, Ice Knife.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
@@ -57,13 +57,13 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 
 Human paladin of Tyr 2, LG. Companion.
 HP 20/20. AC 20 (chain mail, apple shield, Defense). Hit die 2d10 unused.
-Slots: 1st 2/2. Prepared: asked at dawn, last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
+Slots: 1st 2/2. Prepared: not yet asked this dawn. Last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 10/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 820.
 Personal coin: 15 gp.
 Consumables: 4 javelins, 10 candles, 3 days of rations, 1 potion of healing. Incense spent on Jeb's ritual.
-Weapons: longsword, four javelins, apple-tree +1 shield (apple used today, back at dawn). Holy symbol: amulet of Tyr. Scrolls: lesser restoration, speak with dead. Glowing quartz in a closed pouch.
+Weapons: longsword, four javelins, apple-tree +1 shield (apple back at dawn). Holy symbol: amulet of Tyr. Scrolls: lesser restoration, speak with dead. Glowing quartz in a closed pouch.
 
 ## Party coin
 

@@ -1,8 +1,8 @@
 {
   "session": "Session 4",
-  "updated": "2026-10-09T17:10:00Z",
-  "place": "Cromm's Hold, evening, rest not taken",
-  "summary": "Back from the second trip. Upper floor cleared. Stair not opened. Cache with Isteval.",
+  "updated": "2026-10-09T17:22:00Z",
+  "place": "Cromm's Hold, dawn after the long rest",
+  "summary": "Rested. Ready to leave. Prepared lists not yet named. Stair still closed.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Isteval holds 1170 sp, 3 goblets, unicorn, sapphire pendant.",
@@ -13,9 +13,8 @@
     "Jeb's raven is with him.",
     "Four oilcloth cloaks worn. Sack of wood ash with Daf.",
     "Do not record unrevealed identities.",
-    "Apple on the shield used today, back at dawn.",
-    "Glowing quartz in Val's closed pouch.",
-    "Wound tally did not survive the rewind. Maxima held until a hit lands."
+    "Apple on the shield is back.",
+    "Glowing quartz in Val's closed pouch."
   ],
   "party": [
     {
@@ -32,24 +31,14 @@
       "initiative": 3,
       "hitDie": "2d8",
       "hitDieUsed": false,
-      "coin": { "gp": 15 },
-      "armor": [{ "id": "leather", "label": "Leather" }],
+      "coin": {"gp": 15},
+      "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
-        { "id": "rapier", "label": "Rapier" },
-        { "id": "dagger", "label": "Dagger", "count": 2 },
-        { "id": "shortbow", "label": "Shortbow", "ammo": "29 arrows" }
+        {"id": "rapier", "label": "Rapier"},
+        {"id": "dagger", "label": "Dagger", "count": 2},
+        {"id": "shortbow", "label": "Shortbow", "ammo": "29 arrows"}
       ],
-      "gear": [
-        "5 days rations",
-        "1 oil",
-        "5 candles",
-        "lantern",
-        "1 potion of healing",
-        "thieves' tools",
-        "oilcloth cloak",
-        "sun medallion",
-        "potion of invisibility"
-      ]
+      "gear": ["5 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools", "oilcloth cloak", "sun medallion", "potion of invisibility"]
     },
     {
       "short": "Jeb",
@@ -62,22 +51,21 @@
       "hp": 16,
       "hpMax": 16,
       "ac": 13,
-      "acNote": "Mage Armor prepared, not cast",
       "initiative": 3,
       "hitDie": "2d6",
       "hitDieUsed": false,
-      "coin": { "gp": 10 },
-      "armor": [{ "id": "robes", "label": "Robes" }],
+      "coin": {"gp": 10},
+      "armor": [{"id": "robes", "label": "Robes"}],
       "weapons": [
-        { "id": "quarterstaff", "label": "Quarterstaff" },
-        { "id": "dagger", "label": "Dagger" }
+        {"id": "quarterstaff", "label": "Quarterstaff"},
+        {"id": "dagger", "label": "Dagger"}
       ],
-      "prepared": ["mage armor", "magic missile", "shield", "sleep", "ice knife"],
+      "prepared": [],
       "rituals": ["find familiar", "detect magic"],
       "familiar": "raven",
       "resources": [
-        { "name": "1st", "current": 3, "max": 3 },
-        { "name": "Arcane Recovery", "current": 1, "max": 1 }
+        {"name": "1st", "current": 3, "max": 3},
+        {"name": "Arcane Recovery", "current": 1, "max": 1}
       ],
       "gear": ["2 days rations", "1 potion of healing", "component pouch", "spellbook", "oilcloth cloak"]
     },
@@ -95,14 +83,14 @@
       "initiative": 3,
       "hitDie": "2d10",
       "hitDieUsed": false,
-      "coin": { "gp": 10 },
-      "armor": [{ "id": "leather", "label": "Leather" }],
+      "coin": {"gp": 10},
+      "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
-        { "id": "shortsword", "label": "Shortsword", "count": 2 },
-        { "id": "longbow", "label": "Longbow", "ammo": "24 arrows" }
+        {"id": "shortsword", "label": "Shortsword", "count": 2},
+        {"id": "longbow", "label": "Longbow", "ammo": "24 arrows"}
       ],
       "spells": ["hunter's mark", "cure wounds"],
-      "resources": [{ "name": "1st", "current": 2, "max": 2 }],
+      "resources": [{"name": "1st", "current": 2, "max": 2}],
       "gear": ["8 days rations", "10 torches", "hunting trap", "1 potion of healing", "oilcloth cloak", "blue waterproof candle"]
     },
     {
@@ -119,19 +107,19 @@
       "initiative": 2,
       "hitDie": "2d10",
       "hitDieUsed": false,
-      "coin": { "gp": 4.9 },
+      "coin": {"gp": 4.9},
       "armor": [
-        { "id": "chain_mail", "label": "Chain mail" },
-        { "id": "shield", "label": "Shield" }
+        {"id": "chain_mail", "label": "Chain mail"},
+        {"id": "shield", "label": "Shield"}
       ],
       "weapons": [
-        { "id": "warhammer", "label": "Warhammer" },
-        { "id": "light_crossbow", "label": "Light crossbow", "ammo": "18 bolts" },
-        { "id": "handaxe", "label": "Handaxe", "count": 2 }
+        {"id": "warhammer", "label": "Warhammer"},
+        {"id": "light_crossbow", "label": "Light crossbow", "ammo": "18 bolts"},
+        {"id": "handaxe", "label": "Handaxe", "count": 2}
       ],
       "resources": [
-        { "name": "Second Wind", "current": 1, "max": 1 },
-        { "name": "Action Surge", "current": 1, "max": 1 }
+        {"name": "Second Wind", "current": 1, "max": 1},
+        {"name": "Action Surge", "current": 1, "max": 1}
       ],
       "gear": ["8 days rations", "20 torches", "mason's tools", "1 potion of healing", "sack of wood ash", "oilcloth cloak"]
     },
@@ -149,30 +137,22 @@
       "initiative": 1,
       "hitDie": "2d10",
       "hitDieUsed": false,
-      "coin": { "gp": 15 },
+      "coin": {"gp": 15},
       "armor": [
-        { "id": "chain_mail", "label": "Chain mail" },
-        { "id": "apple_shield", "label": "Apple-tree +1 shield" }
+        {"id": "chain_mail", "label": "Chain mail"},
+        {"id": "apple_shield", "label": "Apple-tree +1 shield"}
       ],
       "weapons": [
-        { "id": "longsword", "label": "Longsword" },
-        { "id": "javelin", "label": "Javelin", "count": 4 }
+        {"id": "longsword", "label": "Longsword"},
+        {"id": "javelin", "label": "Javelin", "count": 4}
       ],
-      "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
+      "prepared": [],
       "resources": [
-        { "name": "1st", "current": 2, "max": 2 },
-        { "name": "Lay on Hands", "current": 10, "max": 10 },
-        { "name": "Divine Sense", "current": 4, "max": 4 }
+        {"name": "1st", "current": 2, "max": 2},
+        {"name": "Lay on Hands", "current": 10, "max": 10},
+        {"name": "Divine Sense", "current": 4, "max": 4}
       ],
-      "gear": [
-        "3 days rations",
-        "1 potion of healing",
-        "holy symbol",
-        "oilcloth cloak",
-        "lesser restoration scroll",
-        "speak with dead scroll",
-        "glowing quartz in pouch"
-      ]
+      "gear": ["3 days rations", "1 potion of healing", "holy symbol", "oilcloth cloak", "lesser restoration scroll", "speak with dead scroll", "glowing quartz in pouch"]
     }
   ]
 }
