@@ -2,7 +2,7 @@
 
 Rested. Brick room behind the shrine statue, door open. Morning under the dome, level 3. Jade eyes with Nik. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
-Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror still there, faint illusion aura, not identified.
+Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb.
 
 ## Nik (Nikalan Sendaral)
 
@@ -25,7 +25,7 @@ Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
 XP 1490.
 Personal coin: 10 gp.
-Consumables: 2 days of rations, 1 potion of healing. One fire-beetle gland in hand (glow 2 days).
+Consumables: 2 days of rations, 1 potion of healing. One fire-beetle gland in hand (glow 2 days). Muddy elven hand mirror in the pack. Illusion, faint. Shows the viewer a younger face. Not identified past that.
 Weapons: quarterstaff, dagger. Component pouch.
 
 ## Cai (Cairial Elmwalker)
