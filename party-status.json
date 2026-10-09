@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-09T16:36:00Z",
-  "place": "Larder door open, stirges dead",
-  "summary": "Upper floor doors opened. Daf 19. Val 14. Nik 17. Jeb no slots. Stair not taken.",
+  "updated": "2026-10-09T16:50:00Z",
+  "place": "Cromm's Hold, dawn after the second return",
+  "summary": "Long rest. Full hit points. Cache with Isteval. Preparations not confirmed.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund.",
@@ -13,7 +13,8 @@
     "Jeb's raven is with him.",
     "Four oilcloth cloaks worn. Sack of wood ash with Daf.",
     "Do not record unrevealed identities.",
-    "Island cache: 1170 sp, 3 silver goblets, unicorn figurine, sapphire pendant. Copper left in the throne heap. Apple used today."
+    "Island cache: 1170 sp, 3 silver goblets, unicorn figurine, sapphire pendant. Copper left in the throne heap. Apple used today.",
+    "Isteval holds 1170 sp, 3 goblets, unicorn, sapphire pendant."
   ],
   "party": [
     {
@@ -24,7 +25,7 @@
       "class": "rogue",
       "level": 2,
       "xp": 420,
-      "hp": 17,
+      "hp": 18,
       "hpMax": 18,
       "ac": 14,
       "initiative": 3,
@@ -116,7 +117,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 0,
+          "current": 3,
           "max": 3
         },
         {
@@ -175,7 +176,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 1,
+          "current": 2,
           "max": 2
         }
       ],
@@ -196,7 +197,7 @@
       "class": "fighter",
       "level": 2,
       "xp": 420,
-      "hp": 19,
+      "hp": 22,
       "hpMax": 22,
       "ac": 18,
       "initiative": 2,
@@ -260,7 +261,7 @@
       "class": "paladin",
       "level": 2,
       "xp": 420,
-      "hp": 14,
+      "hp": 20,
       "hpMax": 20,
       "ac": 20,
       "initiative": 1,
@@ -303,12 +304,12 @@
       "resources": [
         {
           "name": "1st",
-          "current": 0,
+          "current": 2,
           "max": 2
         },
         {
           "name": "Lay on Hands",
-          "current": 9,
+          "current": 10,
           "max": 10
         },
         {
