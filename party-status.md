@@ -20,7 +20,7 @@ Wyrmling: black, bonded to him. With the company, not hunting.
 
 Human wizard 3, Evocation, NG. Companion.
 HP 25/25. AC 13 (unarmored). Hit die 3d6 unused.
-Slots: 1st 4/4, 2nd 2/2. Book adds chromatic orb, misty step, scorching ray. Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Scorching Ray. Shield in the book, not prepared. Mage Armor not cast. Wearing the pale blue sun-robe from the vault. No 50 gp diamond for chromatic orb.
+Slots: 1st 3/4, 2nd 2/2. Book adds chromatic orb, misty step, scorching ray. Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Scorching Ray. Shield in the book, not prepared. Mage Armor cast, AC 16, about 8 hours. Wearing the pale blue sun-robe from the vault. No 50 gp diamond for chromatic orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
 XP 1490.
