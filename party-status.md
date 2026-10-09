@@ -56,7 +56,7 @@ Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
 ## Val (Valeria Dawnguard)
 
 Human paladin of Tyr 2, LG. Companion.
-HP 20/20. AC 20 (chain mail, apple shield, Defense). Hit die 2d10, both spent.
+HP 14/20. AC 20 (chain mail, apple shield, Defense). Hit die 2d10, both spent.
 Slots: 1st 2/2. Prepared: asked at dawn, last list was Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 9/10. Divine Sense 4/4. Divine Smite.
 Conditions: none.
