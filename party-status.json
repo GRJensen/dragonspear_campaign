@@ -1,8 +1,8 @@
 {
   "session": "Session 3",
-  "updated": "2026-10-09T16:07:00Z",
-  "place": "South door of the hall, statue room open",
-  "summary": "Second short rest. Val 20. Nik 17. Jeb two slots. Cai one. Val none.",
+  "updated": "2026-10-09T16:28:00Z",
+  "place": "Upper hall, lair door open, four more lizardfolk dead",
+  "summary": "Lair fight done. Nik 17. Val 20. Jeb no slots. Egg-smell room not entered.",
   "partyCoin": {
     "gp": 61,
     "note": "Plus seven ornamental stones worth about 10 gp each. Hill cache spent: 10 gp on the familiar, 8 gp into the fund.",
@@ -116,7 +116,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 2,
+          "current": 0,
           "max": 3
         },
         {
