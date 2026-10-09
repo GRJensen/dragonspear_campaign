@@ -1,6 +1,6 @@
 # Party status
 
-In play. Island under the dome, morning after the long rest. Upper floor cleared. Stair not opened. Ash sack left on the island yesterday. Hold torches returned to Isteval. XP 820 each. Level 3 is 900.
+In play. West end of the crypt hall, morning. Ooze dead. Rapier and warhammer acid-pitted, -1 damage. Dwarf statue on the middle shelf. Gland with Jeb. Sun-robe on Jeb. Raft, not a boat. XP 820 each.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant.
 
@@ -13,19 +13,19 @@ Conditions: none.
 XP 820.
 Personal coin: 15 gp.
 Consumables: 29 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack. Potion of invisibility in a horn vial.
-Weapons: rapier, two daggers, shortbow. Tools: thieves' tools, dice set.
+Weapons: rapier (acid-pitted, -1 damage), two daggers, shortbow. Tools: thieves' tools, dice set.
 Wyrmling: black, bonded to him. With the company, not hunting.
 
 ## Jeb (Jebrehoan Felix Bluetower)
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 3/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 3/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast. Wearing the pale blue sun-robe from the vault.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
 XP 820.
 Personal coin: 10 gp.
-Consumables: 2 days of rations, 1 potion of healing.
+Consumables: 2 days of rations, 1 potion of healing. One fire-beetle gland in hand (glow 2 days).
 Weapons: quarterstaff, dagger. Component pouch.
 
 ## Cai (Cairial Elmwalker)
@@ -37,7 +37,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 820.
 Personal coin: 10 gp.
-Consumables: 24 arrows, 10 torches (his own), 8 days of rations, one hunting trap, 1 potion of healing, blue waterproof candle. Oilcloth cloak worn.
+Consumables: 22 arrows, 10 torches (his own), 8 days of rations, one hunting trap, 1 potion of healing, blue waterproof candle, two fire-beetle glands wrapped (glow 6 and 6 days). Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
@@ -49,7 +49,7 @@ Conditions: none.
 XP 820.
 Personal coin: 4 gp, 9 sp.
 Consumables: 18 bolts, 20 torches (his own), 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Ash sack left on the island.
-Weapons: warhammer, light crossbow, two handaxes. Tools: mason's tools.
+Weapons: warhammer (acid-pitted, -1 damage), light crossbow, two handaxes. Tools: mason's tools.
 
 ## Val (Valeria Dawnguard)
 
