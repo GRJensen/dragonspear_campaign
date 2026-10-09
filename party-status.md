@@ -21,7 +21,7 @@ Wyrmling: black, bonded to him. With the company, not hunting. Oilcloth cloak wo
 
 Human wizard 2, Evocation, NG. Companion.
 HP 16/16. AC 13 (unarmored). Hit die 2d6 unused.
-Slots: 1st 2/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
+Slots: 1st 0/3. Prepared: Mage Armor, Magic Missile, Shield, Sleep, Ice Knife. Mage Armor not cast.
 Spellbook also holds Detect Magic, Find Familiar, Chromatic Orb. No diamond for Chromatic Orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
