@@ -1,6 +1,6 @@
 # Party status
 
-A week in Daggerford. No word of the face or Maechen. Hold quiet. 50 gp diamond bought for chromatic orb. Fund 271 gp and 1,170 sp, plus unicorn and sapphire. Jade with Nik. Cursed mail not worn. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Session 5 wrap. Daggerford, morning, about to take the Trade Way. Adventure 1 closed. XP 1490. Level 3. Level 4 owed via Adventure 1b. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 271 gp and 1,170 sp, plus the unicorn figurine and the sapphire pendant. 50 gp diamond with Jeb for chromatic orb. Jade eyes with Nik. Cursed mail not sold.
 
