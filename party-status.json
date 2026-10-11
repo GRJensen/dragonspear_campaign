@@ -1,6 +1,6 @@
 {
   "session": "Session 1b wrap",
-  "updated": "2026-10-11T21:02:00Z",
+  "updated": "2026-10-11T21:08:00Z",
   "place": "Cromm's Hold, morning after rest",
   "summary": "Adventure 1b closed. Level 4. XP 2890. Report to Isteval delivered.",
   "partyCoin": {
@@ -9,8 +9,7 @@
   },
   "notes": [
     "XP 2890. Level 4.",
-    "Nik Dex 18, Cai Dex 19, Daf Dex 17, Val Cha 18. Jeb no ASI.",
-    "Invisibility in Jeb's book.",
+    "Next long rest asks Jeb and Val what they prepare. Last lists are below.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -25,6 +24,7 @@
       "hp": 30,
       "hpMax": 30,
       "ac": 15,
+      "initiative": 4,
       "coin": {"gp": 15},
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
@@ -38,12 +38,14 @@
       "name": "Jebrehoan Felix Bluetower",
       "role": "CPC",
       "race": "human",
-      "class": "wizard",
+      "class": "wizard, Evocation",
       "level": 4,
       "xp": 2890,
       "hp": 29,
       "hpMax": 29,
       "ac": 13,
+      "acNote": "16 if Mage Armor is up",
+      "initiative": 3,
       "coin": {"gp": 10},
       "armor": [{"id": "robes", "label": "Robes"}],
       "weapons": [
@@ -53,7 +55,11 @@
       "resources": [
         {"name": "1st", "current": 4, "max": 4},
         {"name": "2nd", "current": 3, "max": 3}
-      ]
+      ],
+      "cantrips": ["fire bolt", "mage hand", "prestidigitation"],
+      "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "scorching ray"],
+      "spellbook": ["mage armor", "magic missile", "shield", "sleep", "detect magic", "find familiar", "ice knife", "chromatic orb", "misty step", "scorching ray", "invisibility"],
+      "rituals": ["detect magic", "find familiar"]
     },
     {
       "short": "Cai",
@@ -66,12 +72,17 @@
       "hp": 27,
       "hpMax": 27,
       "ac": 15,
+      "initiative": 4,
       "coin": {"gp": 10},
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "shortsword", "label": "Shortsword", "count": 2},
         {"id": "longbow", "label": "Longbow", "ammo": "30 arrows"}
-      ]
+      ],
+      "resources": [
+        {"name": "1st", "current": 3, "max": 3}
+      ],
+      "known": ["hunter's mark", "cure wounds"]
     },
     {
       "short": "Daf",
@@ -84,6 +95,7 @@
       "hp": 39,
       "hpMax": 39,
       "ac": 18,
+      "initiative": 3,
       "coin": {"gp": 4.9},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -92,6 +104,10 @@
       "weapons": [
         {"id": "warhammer", "label": "Warhammer"},
         {"id": "light_crossbow", "label": "Light crossbow", "ammo": "30 bolts"}
+      ],
+      "resources": [
+        {"name": "Second Wind", "current": 1, "max": 1},
+        {"name": "Action Surge", "current": 1, "max": 1}
       ]
     },
     {
@@ -105,6 +121,7 @@
       "hp": 33,
       "hpMax": 33,
       "ac": 20,
+      "initiative": 1,
       "coin": {"gp": 15},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -113,7 +130,14 @@
       "weapons": [
         {"id": "longsword", "label": "Longsword"},
         {"id": "javelin", "label": "Javelin", "count": 3}
-      ]
+      ],
+      "resources": [
+        {"name": "1st", "current": 3, "max": 3},
+        {"name": "Lay on Hands", "current": 15, "max": 15},
+        {"name": "Divine Sense", "current": 4, "max": 4},
+        {"name": "Channel Divinity", "current": 1, "max": 1}
+      ],
+      "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"]
     }
   ]
 }
