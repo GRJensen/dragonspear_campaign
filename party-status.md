@@ -1,6 +1,6 @@
 # Party status
 
-Rested. Temple of Amaunator, Daggerford. Priest looking at the green scale. Late light. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Long rest taken. River Shining tavern, Daggerford, morning. Face is the lead they named. Green scale cursed, not worn. Wyrmling stayed with the adult. Raven not yet recalled. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 61 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
 
@@ -20,7 +20,7 @@ Wyrmling: black, bonded to him. Did not follow up the stair. It saw the adult an
 
 Human wizard 3, Evocation, NG. Companion.
 HP 25/25. AC 13 (unarmored). Hit die 3d6 unused.
-Slots: 1st 3/4, 2nd 2/2. Book adds chromatic orb, misty step, scorching ray. Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Scorching Ray. Shield in the book, not prepared. Mage Armor cast, AC 16, about 8 hours. Wearing the pale blue sun-robe from the vault. No 50 gp diamond for chromatic orb.
+Slots: 1st 4/4, 2nd 2/2. Book adds chromatic orb, misty step, scorching ray. Prepared: not yet chosen this morning. Shield in the book. Mage Armor ended with the night. Wearing the pale blue sun-robe from the vault. No 50 gp diamond for chromatic orb.
 Familiar: raven, dead. Can be recalled by ritual. Arcane Recovery unused.
 Conditions: none.
 XP 1490.
@@ -56,7 +56,7 @@ Weapons: warhammer (acid-pitted, -1 damage), light crossbow, two handaxes. Tools
 Human paladin of Tyr 3, Devotion, LG. Companion. Divine Health. Channel Divinity: Sacred Weapon, Turn the Unholy.
 HP 26/26. AC 20 (chain mail, apple shield, Defense). Hit die 3d10 unused.
 Slots: 1st 3/3. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 15/15. Divine Sense 3/4. Divine Smite.
+Lay on Hands 15/15. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 1490.
 Personal coin: 15 gp.

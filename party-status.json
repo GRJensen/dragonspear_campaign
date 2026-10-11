@@ -1,7 +1,8 @@
 {
   "session": "Session 5, chest room",
   "updated": "2026-10-09T21:12:00Z",
-  "place": "River Shining tavern, Daggerford",
+  "place": "River Shining tavern, Daggerford, morning after rest",
+  "summary": "Long rest. Face is the named lead. Scale mail cursed, not worn.",
   "summary": "Secret door opened. Room beyond not searched.",
   "partyCoin": {
     "gp": 61,
@@ -78,7 +79,7 @@
       "xp": 1490,
       "hp": 25,
       "hpMax": 25,
-      "ac": 16,
+      "ac": 13,
       "initiative": 3,
       "hitDie": "2d6",
       "hitDieUsed": false,
@@ -113,7 +114,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 3,
+          "current": 4,
           "max": 4
         },
         {
@@ -316,7 +317,7 @@
         },
         {
           "name": "Divine Sense",
-          "current": 3,
+          "current": 4,
           "max": 4
         }
       ],
