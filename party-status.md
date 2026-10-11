@@ -1,6 +1,6 @@
 # Party status
 
-Rested. Ducal castle, Daggerford, seeking Lord Floshin. Late light. Cache on the company. Wyrmling stayed with the adult. Raven gone. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Rested. Temple of Amaunator, Daggerford. Priest looking at the green scale. Late light. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 61 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
 
