@@ -1,6 +1,6 @@
 # Party status
 
-Long rest taken. Floshin townhouse, Daggerford, morning. Asking after the face. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Long rest taken. Ducal castle, Daggerford, morning. Asking the household and the guard about the face. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 51 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. 10 gp spent on find familiar components. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
 
