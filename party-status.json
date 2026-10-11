@@ -1,15 +1,15 @@
 {
   "session": "Session 1b, way-inn south",
-  "updated": "2026-10-11T20:37:00Z",
+  "updated": "2026-10-11T20:39:00Z",
   "place": "Way-inn on Trade Way south, night",
-  "summary": "Weapons repaired. Supplies restocked. Letter for Daggerford. Returning south.",
+  "summary": "Weapons repaired. Supplies restocked. Letter for Daggerford temple. Returning south. Long rest taken.",
   "partyCoin": {
     "gp": 780,
-    "note": "Also 1265 sp. Sale complete. Letter with Val. Cursed mail not sold. Diamond with Jeb."
+    "note": "Also 1265 sp. Jade, unicorn, pendant sold. Letter with Val. Cursed mail not sold. 50 gp diamond with Jeb."
   },
   "notes": [
     "XP 1490. Level 3.",
-    "Rapier and warhammer repaired.",
+    "Rapier and warhammer repaired, no penalty.",
     "Invisibility in Jeb's book, not prepared.",
     "Do not record unrevealed identities."
   ],
@@ -25,12 +25,26 @@
       "hp": 23,
       "hpMax": 23,
       "ac": 14,
+      "initiative": 3,
+      "hitDie": "3d8",
+      "hitDieUsed": false,
       "coin": {"gp": 15},
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "rapier", "label": "Rapier"},
         {"id": "dagger", "label": "Dagger", "count": 2},
         {"id": "shortbow", "label": "Shortbow", "ammo": "30 arrows"}
+      ],
+      "gear": [
+        "7 days rations",
+        "2 oil",
+        "10 candles",
+        "lantern",
+        "2 potions of healing",
+        "thieves' tools",
+        "oilcloth cloak",
+        "sun medallion",
+        "green scale mail, cursed, not worn"
       ]
     },
     {
@@ -44,15 +58,39 @@
       "hp": 25,
       "hpMax": 25,
       "ac": 13,
+      "initiative": 3,
+      "hitDie": "3d6",
+      "hitDieUsed": false,
       "coin": {"gp": 10},
       "armor": [{"id": "robes", "label": "Robes"}],
       "weapons": [
         {"id": "quarterstaff", "label": "Quarterstaff"},
         {"id": "dagger", "label": "Dagger"}
       ],
+      "prepared": [
+        "mage armor",
+        "magic missile",
+        "sleep",
+        "ice knife",
+        "misty step",
+        "scorching ray"
+      ],
+      "familiar": "raven",
       "resources": [
         {"name": "1st", "current": 4, "max": 4},
-        {"name": "2nd", "current": 2, "max": 2}
+        {"name": "2nd", "current": 2, "max": 2},
+        {"name": "Arcane Recovery", "current": 1, "max": 1}
+      ],
+      "gear": [
+        "5 days rations",
+        "2 potions of healing",
+        "component pouch",
+        "spellbook",
+        "oilcloth cloak",
+        "sun-robe",
+        "fire-beetle gland",
+        "elven hand mirror",
+        "invisibility in book, not prepared"
       ]
     },
     {
@@ -66,11 +104,25 @@
       "hp": 24,
       "hpMax": 24,
       "ac": 14,
+      "initiative": 3,
+      "hitDie": "3d10",
+      "hitDieUsed": false,
       "coin": {"gp": 10},
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "shortsword", "label": "Shortsword", "count": 2},
         {"id": "longbow", "label": "Longbow", "ammo": "30 arrows"}
+      ],
+      "spells": ["hunter's mark", "cure wounds"],
+      "resources": [{"name": "1st", "current": 3, "max": 3}],
+      "gear": [
+        "10 days rations",
+        "10 torches",
+        "hunting trap",
+        "2 potions of healing",
+        "oilcloth cloak",
+        "blue waterproof candle",
+        "fire-beetle glands"
       ]
     },
     {
@@ -84,6 +136,9 @@
       "hp": 25,
       "hpMax": 32,
       "ac": 18,
+      "initiative": 2,
+      "hitDie": "3d10",
+      "hitDieUsed": false,
       "coin": {"gp": 4.9},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -93,6 +148,19 @@
         {"id": "warhammer", "label": "Warhammer"},
         {"id": "light_crossbow", "label": "Light crossbow", "ammo": "30 bolts"},
         {"id": "handaxe", "label": "Handaxe", "count": 2}
+      ],
+      "resources": [
+        {"name": "Second Wind", "current": 1, "max": 1},
+        {"name": "Action Surge", "current": 1, "max": 1}
+      ],
+      "gear": [
+        "10 days rations",
+        "20 torches",
+        "mason's tools",
+        "2 potions of healing",
+        "oilcloth cloak",
+        "ring of acid resistance",
+        "iron coin"
       ]
     },
     {
@@ -106,6 +174,9 @@
       "hp": 21,
       "hpMax": 26,
       "ac": 20,
+      "initiative": 1,
+      "hitDie": "3d10",
+      "hitDieUsed": false,
       "coin": {"gp": 15},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -114,6 +185,27 @@
       "weapons": [
         {"id": "longsword", "label": "Longsword"},
         {"id": "javelin", "label": "Javelin", "count": 3}
+      ],
+      "prepared": [
+        "command",
+        "cure wounds",
+        "detect evil and good",
+        "thunderous smite"
+      ],
+      "resources": [
+        {"name": "1st", "current": 3, "max": 3},
+        {"name": "Lay on Hands", "current": 15, "max": 15},
+        {"name": "Divine Sense", "current": 4, "max": 4}
+      ],
+      "gear": [
+        "5 days rations",
+        "2 potions of healing",
+        "holy symbol",
+        "oilcloth cloak",
+        "lesser restoration scroll",
+        "speak with dead scroll",
+        "glowing quartz in pouch",
+        "sealed letter for temple"
       ]
     }
   ]
