@@ -1,8 +1,8 @@
 # Party status
 
-Session 5 wrap. Daggerford, morning, about to take the Trade Way. Adventure 1 closed. XP 1490. Level 3. Level 4 owed via Adventure 1b. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Session 1b. Trade Way, day 2, narrow cut with fallen tree. Gnolls cleared at the previous inn. XP 1490. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Jeb used two 1st-level slots (Sleep, Magic Missile). Val used one 1st for Divine Smite.
 
-Party fund: 271 gp and 1,170 sp, plus the unicorn figurine and the sapphire pendant. 50 gp diamond with Jeb for chromatic orb. Jade eyes with Nik. Cursed mail not sold.
+Party fund: 271 gp and 1,185 sp, plus the unicorn figurine and the sapphire pendant. 50 gp diamond with Jeb for chromatic orb. Jade eyes with Nik. Cursed mail not sold.
 
 ## Nik (Nikalan Sendaral)
 
@@ -20,7 +20,7 @@ Wyrmling: black, bonded to him. Did not follow up the stair. It saw the adult an
 
 Human wizard 3, Evocation, NG. Companion.
 HP 25/25. AC 13 (unarmored). Hit die 3d6 unused.
-Slots: 1st 4/4, 2nd 2/2. Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Scorching Ray. Shield in the book, not prepared. Mage Armor not cast. Wearing the pale blue sun-robe from the vault. 50 gp diamond with him for chromatic orb.
+Slots: 1st 2/4, 2nd 2/2. Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Scorching Ray. Shield in the book, not prepared. Mage Armor not cast. Wearing the pale blue sun-robe from the vault. 50 gp diamond with him for chromatic orb.
 Familiar: raven, present. Arcane Recovery unused.
 Conditions: none.
 XP 1490.
@@ -37,7 +37,7 @@ Fighting style: Archery.
 Conditions: none.
 XP 1490.
 Personal coin: 10 gp.
-Consumables: 16 arrows, 10 torches (his own), 8 days of rations, one hunting trap, 1 potion of healing, blue waterproof candle, two fire-beetle glands wrapped (glow 6 and 6 days), one open gland (glow 3 days). Oilcloth cloak worn.
+Consumables: 14 arrows, 10 torches (his own), 8 days of rations, one hunting trap, 1 potion of healing, blue waterproof candle, two fire-beetle glands wrapped (glow 6 and 6 days), one open gland (glow 3 days). Oilcloth cloak worn.
 Weapons: two shortswords, longbow, staff.
 
 ## Daf (Dafforin Granitechest)
@@ -48,14 +48,14 @@ Second Wind unused. Action Surge unused. Ring of acid resistance worn.
 Conditions: none.
 XP 1490.
 Personal coin: 4 gp, 9 sp.
-Consumables: 17 bolts, 20 torches (his own), 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Ash sack left on the island. Iron coin, orc skull split in two, Dwarvish I.
+Consumables: 17 bolts, 20 torches (his own), 8 days of rations, 1 potion of healing. Handaxes: 2 on the belt. Iron coin, orc skull split in two, Dwarvish I.
 Weapons: warhammer (acid-pitted, -1 damage), light crossbow, two handaxes. Tools: mason's tools.
 
 ## Val (Valeria Dawnguard)
 
 Human paladin of Tyr 3, Devotion, LG. Companion. Divine Health. Channel Divinity: Sacred Weapon, Turn the Unholy.
 HP 26/26. AC 20 (chain mail, apple shield, Defense). Hit die 3d10 unused.
-Slots: 1st 3/3. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
+Slots: 1st 2/3. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 15/15. Divine Sense 4/4. Divine Smite.
 Conditions: none.
 XP 1490.
@@ -65,5 +65,4 @@ Weapons: longsword, three javelins, apple-tree +1 shield (branch bare). Holy sym
 
 ## Party coin
 
-Fund: 271 gp, 1,170 sp, the unicorn figurine, and the sapphire pendant.
-Person
+Fund: 271 gp, 1,185 sp, the unicorn figurine, and the sapphire pendant.

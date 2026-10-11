@@ -1,19 +1,17 @@
 {
-  "session": "Session 5, chest room",
-  "updated": "2026-10-09T21:12:00Z",
-  "session": "Session 5 wrap",
-  "place": "Daggerford, about to take the Trade Way",
-  "summary": "Adventure 1 closed. Next is 1b. XP 1490.",
+  "session": "Session 1b, Trade Way day 2",
+  "updated": "2026-10-11T19:50:00Z",
+  "place": "Trade Way, narrow cut, fallen tree toll",
+  "summary": "Gnolls cleared at the inn. 15 sp added. Continuing north. Jeb used two 1st slots. Val used one for Smite.",
   "partyCoin": {
     "gp": 271,
-    "note": "Also 1170 sp, unicorn figurine, sapphire pendant. 50 gp diamond with Jeb for chromatic orb. Jade eyes with Nik. Cursed mail not sold."
+    "note": "Also 1185 sp, unicorn figurine, sapphire pendant. 50 gp diamond with Jeb. Jade eyes with Nik. Cursed mail not sold."
   },
   "notes": [
-    "XP 1490. Level 3 at the rest.",
+    "XP 1490. Level 3.",
     "Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Cai's prey option not chosen.",
-    "Secret door behind the shrine statue, unopened.",
     "Ring of acid resistance on Daf. Jade eyes with Nik. Iron coin with Daf.",
-    "Apple branch bare. Invisibility potion used.",
+    "Apple branch bare.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -29,7 +27,7 @@
       "hpMax": 23,
       "ac": 14,
       "initiative": 3,
-      "hitDie": "2d8",
+      "hitDie": "3d8",
       "hitDieUsed": false,
       "coin": {
         "gp": 15
@@ -81,7 +79,7 @@
       "hpMax": 25,
       "ac": 13,
       "initiative": 3,
-      "hitDie": "2d6",
+      "hitDie": "3d6",
       "hitDieUsed": false,
       "coin": {
         "gp": 10
@@ -114,7 +112,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 4,
+          "current": 2,
           "max": 4
         },
         {
@@ -151,7 +149,7 @@
       "hpMax": 24,
       "ac": 14,
       "initiative": 3,
-      "hitDie": "2d10",
+      "hitDie": "3d10",
       "hitDieUsed": false,
       "coin": {
         "gp": 10
@@ -171,7 +169,7 @@
         {
           "id": "longbow",
           "label": "Longbow",
-          "ammo": "16 arrows"
+          "ammo": "14 arrows"
         }
       ],
       "spells": [
@@ -207,7 +205,7 @@
       "hpMax": 32,
       "ac": 18,
       "initiative": 2,
-      "hitDie": "2d10",
+      "hitDie": "3d10",
       "hitDieUsed": false,
       "coin": {
         "gp": 4.9
@@ -272,7 +270,7 @@
       "hpMax": 26,
       "ac": 20,
       "initiative": 1,
-      "hitDie": "2d10",
+      "hitDie": "3d10",
       "hitDieUsed": false,
       "coin": {
         "gp": 15
@@ -307,7 +305,7 @@
       "resources": [
         {
           "name": "1st",
-          "current": 3,
+          "current": 2,
           "max": 3
         },
         {
@@ -333,5 +331,3 @@
     }
   ]
 }
-
-  
