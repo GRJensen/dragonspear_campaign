@@ -56,7 +56,7 @@ Weapons: warhammer (acid-pitted, -1 damage), light crossbow, two handaxes. Tools
 Human paladin of Tyr 3, Devotion, LG. Companion. Divine Health. Channel Divinity: Sacred Weapon, Turn the Unholy.
 HP 26/26. AC 20 (chain mail, apple shield, Defense). Hit die 3d10 unused.
 Slots: 1st 3/3. Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 15/15. Divine Sense 4/4. Divine Smite.
+Lay on Hands 15/15. Divine Sense 3/4. Divine Smite.
 Conditions: none.
 XP 1490.
 Personal coin: 15 gp.
