@@ -156,8 +156,8 @@
 
     function icon(kind, item) {
       const label = item.label || item.id;
-      const extra = item.count > 1 ? " ×" + item.count : "";
-      const ammo = item.ammo ? " · " + item.ammo : "";
+      const extra = item.count > 1 ? " \u00d7" + item.count : "";
+      const ammo = item.ammo ? " \u00b7 " + item.ammo : "";
       const src = fileFor(kind, item.id);
       const fig = document.createElement("figure");
       const img = document.createElement("img");
@@ -195,7 +195,7 @@
         });
         placeEl.appendChild(ul);
       }
-      fetchedEl.textContent = (data.session || "Status") + " · file " + when + " · loaded " + new Date().toLocaleTimeString();
+      fetchedEl.textContent = (data.session || "Status") + " \u00b7 file " + when + " \u00b7 loaded " + new Date().toLocaleTimeString();
 
       partyEl.innerHTML = "";
       partyEl.style.setProperty("--cols", String(Math.max(1, Math.min(6, (data.party || []).length))));
@@ -207,7 +207,7 @@
         const name = document.createElement("div");
         name.innerHTML = "<h3></h3><small></small>";
         name.querySelector("h3").textContent = c.short || c.name;
-        name.querySelector("small").textContent = c.name + " · " + [c.race, c.class, c.level].filter(Boolean).join(" ");
+        name.querySelector("small").textContent = c.name + " \u00b7 " + [c.race, c.class, c.level].filter(Boolean).join(" ");
         const badge = document.createElement("span");
         badge.className = "badge";
         badge.textContent = c.role || "";
@@ -225,7 +225,7 @@
         stats.innerHTML = "<span>HP <b></b></span><span>AC <b></b></span><span>Init <b></b></span>";
         stats.querySelectorAll("b")[0].textContent = c.hp + " / " + c.hpMax;
         stats.querySelectorAll("b")[1].textContent = c.ac + (c.acNote ? "*" : "");
-        stats.querySelectorAll("b")[2].textContent = c.initiative == null ? "—" : (c.initiative >= 0 ? "+" : "") + c.initiative;
+        stats.querySelectorAll("b")[2].textContent = c.initiative == null ? "\u2014" : (c.initiative >= 0 ? "+" : "") + c.initiative;
 
         const armor = document.createElement("div");
         armor.className = "icons";
@@ -247,7 +247,10 @@
         const bits = [];
         (c.resources || []).forEach(r => bits.push(r.name + " " + r.current + "/" + r.max + (r.note ? " (" + r.note + ")" : "")));
         if (c.hitDie) bits.push("Hit die " + c.hitDie + (c.hitDieUsed ? " used" : " unused"));
+        if (c.cantrips && c.cantrips.length) bits.push("Cantrips: " + c.cantrips.join(", "));
         if (c.prepared && c.prepared.length) bits.push("Prepared: " + c.prepared.join(", "));
+        if (c.known && c.known.length) bits.push("Known: " + c.known.join(", "));
+        if (c.spellbook && c.spellbook.length) bits.push("Spellbook: " + c.spellbook.join(", "));
         if (c.rituals && c.rituals.length) bits.push("Rituals: " + c.rituals.join(", "));
         if (bits.length) {
           const ul = document.createElement("ul");
