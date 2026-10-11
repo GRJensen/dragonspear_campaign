@@ -1,6 +1,6 @@
 # Party status
 
-Session 1b wrap. Cromm's Hold, morning after the long rest. Adventure 1b closed. Level 4. XP 2890. Report to Isteval delivered. Kit is the last restocked count.
+Session 2 open. Daggerford, morning. Adventure 2 opened. Level 4. XP 2890. Horses returned. Maechen met, Divine Sense used once.
 
 Party fund: 780 gp and 1,265 sp. Letter delivered. Cursed mail not sold.
 
@@ -56,7 +56,7 @@ Human paladin of Tyr 4, Devotion, LG. Companion.
 HP 33/33. AC 20 (chain mail, apple-tree +1 shield, Defense). Initiative +1. Hit die 4d10 unused.
 Slots: 1st 3/3.
 Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 15/15. Divine Sense 4/4. Channel Divinity 1/1.
+Lay on Hands 15/15. Divine Sense 3/4. Channel Divinity 1/1.
 XP 2890.
 Personal coin: 15 gp.
 Consumables: 5 days of rations, 10 candles, 2 potions of healing.

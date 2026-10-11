@@ -1,15 +1,15 @@
 {
-  "session": "Session 1b wrap",
-  "updated": "2026-10-11T21:15:00Z",
-  "place": "Cromm's Hold, morning after rest",
-  "summary": "Adventure 1b closed. Level 4. XP 2890. Report to Isteval delivered.",
+  "session": "Session 2 open",
+  "updated": "2026-10-11T21:34:00Z",
+  "place": "Daggerford, morning",
+  "summary": "Adventure 2 opened. Level 4. XP 2890. Horses returned. Maechen met. Divine Sense used once.",
   "partyCoin": {
     "gp": 780,
     "note": "Also 1265 sp. Letter delivered. Cursed mail not sold."
   },
   "notes": [
     "XP 2890. Level 4.",
-    "Kit is the last restocked count. Next long rest asks Jeb and Val what they prepare.",
+    "Kit is the last restocked count. Jeb and Val prepared same as last.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -155,7 +155,7 @@
       "resources": [
         {"name": "1st", "current": 3, "max": 3},
         {"name": "Lay on Hands", "current": 15, "max": 15},
-        {"name": "Divine Sense", "current": 4, "max": 4},
+        {"name": "Divine Sense", "current": 3, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
