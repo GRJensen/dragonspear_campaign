@@ -1,6 +1,6 @@
 # Party status
 
-Rested. Stair from the brick room down into a large cavern. Morning under the dome, level 3. Secret door open. Jade eyes with Nik. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Rested. Southeast alcove of the cavern, at the treasure mound. Daf and Val hold the stair. Morning under the dome, level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb.
 
