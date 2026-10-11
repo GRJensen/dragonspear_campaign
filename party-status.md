@@ -12,7 +12,7 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 1490.
 Personal coin: 15 gp.
-Consumables: 24 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack. Two fist-sized jade eyes, about 100 gp each. Green-tinted scale mail, lifted from the mound, not worn.
+Consumables: 24 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack. Two fist-sized jade eyes, about 100 gp each. Green-tinted scale mail, cursed. If worn, wearer becomes a lizardfolk until remove curse. Not worn.
 Weapons: rapier (acid-pitted, -1 damage), two daggers, shortbow. Tools: thieves' tools, dice set.
 Wyrmling: black, bonded to him. Did not follow up the stair. It saw the adult and stayed at the pool.
 
