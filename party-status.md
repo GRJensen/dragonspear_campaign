@@ -1,8 +1,8 @@
 # Party status
 
-Rested. Cromm's Hold, arrived under the trees. Morning. Left the fane by raft. Wyrmling stayed with the adult. Raven gone. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Rested. Daggerford gate, late light. Cache taken from Isteval before leaving the Hold. Wyrmling stayed with the adult. Raven gone. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
-Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb.
+Party fund: 61 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
 
 ## Nik (Nikalan Sendaral)
 
@@ -65,5 +65,5 @@ Weapons: longsword, three javelins, apple-tree +1 shield (branch bare). Holy sym
 
 ## Party coin
 
-Fund: 61 gp, and seven ornamental stones. Isteval holds the silver, the goblets, the unicorn, and the pendant.
+Fund: 61 gp, 1,170 sp, seven ornamental stones, six pink pearls, three silver goblets, the unicorn figurine, and the sapphire pendant.
 Personal: Nik 15, Jeb 10, Cai 10, Daf 4 gp 9 sp, Val 15.
