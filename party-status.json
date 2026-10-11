@@ -1,11 +1,11 @@
 {
-  "session": "Session 1b, Trade Way day 2",
-  "updated": "2026-10-11T19:50:00Z",
-  "place": "Trade Way, narrow cut, fallen tree toll",
-  "summary": "Gnolls cleared at the inn. 15 sp added. Continuing north. Jeb used two 1st slots. Val used one for Smite.",
+  "session": "Session 1b, Waterdeep",
+  "updated": "2026-10-11T20:07:00Z",
+  "place": "Waterdeep, Trades Ward, evening",
+  "summary": "Toll cleared. Bandits to the Watch. 40 gp and 80 sp added. Val 21/26, Daf 25/32. Daf Action Surge used.",
   "partyCoin": {
-    "gp": 271,
-    "note": "Also 1185 sp, unicorn figurine, sapphire pendant. 50 gp diamond with Jeb. Jade eyes with Nik. Cursed mail not sold."
+    "gp": 311,
+    "note": "Also 1265 sp, unicorn figurine, sapphire pendant. 50 gp diamond with Jeb. Jade eyes with Nik. Cursed mail not sold."
   },
   "notes": [
     "XP 1490. Level 3.",
@@ -29,43 +29,14 @@
       "initiative": 3,
       "hitDie": "3d8",
       "hitDieUsed": false,
-      "coin": {
-        "gp": 15
-      },
-      "armor": [
-        {
-          "id": "leather",
-          "label": "Leather"
-        }
-      ],
+      "coin": {"gp": 15},
+      "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
-        {
-          "id": "rapier",
-          "label": "Rapier, acid-pitted"
-        },
-        {
-          "id": "dagger",
-          "label": "Dagger",
-          "count": 2
-        },
-        {
-          "id": "shortbow",
-          "label": "Shortbow",
-          "ammo": "24 arrows"
-        }
+        {"id": "rapier", "label": "Rapier, acid-pitted"},
+        {"id": "dagger", "label": "Dagger", "count": 2},
+        {"id": "shortbow", "label": "Shortbow", "ammo": "23 arrows"}
       ],
-      "gear": [
-        "5 days rations",
-        "1 oil",
-        "5 candles",
-        "lantern",
-        "1 potion of healing",
-        "thieves' tools",
-        "oilcloth cloak",
-        "sun medallion",
-        "two jade eyes",
-        "green scale mail, not worn"
-      ]
+      "gear": ["5 days rations", "1 oil", "5 candles", "lantern", "1 potion of healing", "thieves' tools", "oilcloth cloak", "sun medallion", "two jade eyes", "green scale mail, not worn"]
     },
     {
       "short": "Jeb",
@@ -81,61 +52,20 @@
       "initiative": 3,
       "hitDie": "3d6",
       "hitDieUsed": false,
-      "coin": {
-        "gp": 10
-      },
-      "armor": [
-        {
-          "id": "robes",
-          "label": "Robes"
-        }
-      ],
+      "coin": {"gp": 10},
+      "armor": [{"id": "robes", "label": "Robes"}],
       "weapons": [
-        {
-          "id": "quarterstaff",
-          "label": "Quarterstaff"
-        },
-        {
-          "id": "dagger",
-          "label": "Dagger"
-        }
+        {"id": "quarterstaff", "label": "Quarterstaff"},
+        {"id": "dagger", "label": "Dagger"}
       ],
-      "prepared": [
-        "mage armor",
-        "magic missile",
-        "sleep",
-        "ice knife",
-        "misty step",
-        "scorching ray"
-      ],
+      "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "scorching ray"],
       "familiar": "raven",
       "resources": [
-        {
-          "name": "1st",
-          "current": 2,
-          "max": 4
-        },
-        {
-          "name": "2nd",
-          "current": 2,
-          "max": 2
-        },
-        {
-          "name": "Arcane Recovery",
-          "current": 1,
-          "max": 1
-        }
+        {"name": "1st", "current": 2, "max": 4},
+        {"name": "2nd", "current": 2, "max": 2},
+        {"name": "Arcane Recovery", "current": 1, "max": 1}
       ],
-      "gear": [
-        "2 days rations",
-        "1 potion of healing",
-        "component pouch",
-        "spellbook",
-        "oilcloth cloak",
-        "sun-robe",
-        "fire-beetle gland",
-        "elven hand mirror, younger-face illusion"
-      ]
+      "gear": ["2 days rations", "1 potion of healing", "component pouch", "spellbook", "oilcloth cloak", "sun-robe", "fire-beetle gland", "elven hand mirror, younger-face illusion"]
     },
     {
       "short": "Cai",
@@ -151,47 +81,15 @@
       "initiative": 3,
       "hitDie": "3d10",
       "hitDieUsed": false,
-      "coin": {
-        "gp": 10
-      },
-      "armor": [
-        {
-          "id": "leather",
-          "label": "Leather"
-        }
-      ],
+      "coin": {"gp": 10},
+      "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
-        {
-          "id": "shortsword",
-          "label": "Shortsword",
-          "count": 2
-        },
-        {
-          "id": "longbow",
-          "label": "Longbow",
-          "ammo": "14 arrows"
-        }
+        {"id": "shortsword", "label": "Shortsword", "count": 2},
+        {"id": "longbow", "label": "Longbow", "ammo": "13 arrows"}
       ],
-      "spells": [
-        "hunter's mark",
-        "cure wounds"
-      ],
-      "resources": [
-        {
-          "name": "1st",
-          "current": 3,
-          "max": 3
-        }
-      ],
-      "gear": [
-        "8 days rations",
-        "10 torches",
-        "hunting trap",
-        "1 potion of healing",
-        "oilcloth cloak",
-        "blue waterproof candle",
-        "two fire-beetle glands"
-      ]
+      "spells": ["hunter's mark", "cure wounds"],
+      "resources": [{"name": "1st", "current": 3, "max": 3}],
+      "gear": ["8 days rations", "10 torches", "hunting trap", "1 potion of healing", "oilcloth cloak", "blue waterproof candle", "two fire-beetle glands"]
     },
     {
       "short": "Daf",
@@ -201,62 +99,27 @@
       "class": "fighter, Champion",
       "level": 3,
       "xp": 1490,
-      "hp": 32,
+      "hp": 25,
       "hpMax": 32,
       "ac": 18,
       "initiative": 2,
       "hitDie": "3d10",
       "hitDieUsed": false,
-      "coin": {
-        "gp": 4.9
-      },
+      "coin": {"gp": 4.9},
       "armor": [
-        {
-          "id": "chain_mail",
-          "label": "Chain mail"
-        },
-        {
-          "id": "shield",
-          "label": "Shield"
-        }
+        {"id": "chain_mail", "label": "Chain mail"},
+        {"id": "shield", "label": "Shield"}
       ],
       "weapons": [
-        {
-          "id": "warhammer",
-          "label": "Warhammer, acid-pitted"
-        },
-        {
-          "id": "light_crossbow",
-          "label": "Light crossbow",
-          "ammo": "17 bolts"
-        },
-        {
-          "id": "handaxe",
-          "label": "Handaxe",
-          "count": 2
-        }
+        {"id": "warhammer", "label": "Warhammer, acid-pitted"},
+        {"id": "light_crossbow", "label": "Light crossbow", "ammo": "17 bolts"},
+        {"id": "handaxe", "label": "Handaxe", "count": 2}
       ],
       "resources": [
-        {
-          "name": "Second Wind",
-          "current": 1,
-          "max": 1
-        },
-        {
-          "name": "Action Surge",
-          "current": 1,
-          "max": 1
-        }
+        {"name": "Second Wind", "current": 1, "max": 1},
+        {"name": "Action Surge", "current": 0, "max": 1}
       ],
-      "gear": [
-        "8 days rations",
-        "20 torches",
-        "mason's tools",
-        "1 potion of healing",
-        "oilcloth cloak",
-        "ring of acid resistance",
-        "iron coin"
-      ]
+      "gear": ["8 days rations", "20 torches", "mason's tools", "1 potion of healing", "oilcloth cloak", "ring of acid resistance", "iron coin"]
     },
     {
       "short": "Val",
@@ -266,68 +129,28 @@
       "class": "paladin, Devotion",
       "level": 3,
       "xp": 1490,
-      "hp": 26,
+      "hp": 21,
       "hpMax": 26,
       "ac": 20,
       "initiative": 1,
       "hitDie": "3d10",
       "hitDieUsed": false,
-      "coin": {
-        "gp": 15
-      },
+      "coin": {"gp": 15},
       "armor": [
-        {
-          "id": "chain_mail",
-          "label": "Chain mail"
-        },
-        {
-          "id": "apple_shield",
-          "label": "Apple-tree +1 shield, branch bare"
-        }
+        {"id": "chain_mail", "label": "Chain mail"},
+        {"id": "apple_shield", "label": "Apple-tree +1 shield, branch bare"}
       ],
       "weapons": [
-        {
-          "id": "longsword",
-          "label": "Longsword"
-        },
-        {
-          "id": "javelin",
-          "label": "Javelin",
-          "count": 3
-        }
+        {"id": "longsword", "label": "Longsword"},
+        {"id": "javelin", "label": "Javelin", "count": 3}
       ],
-      "prepared": [
-        "command",
-        "cure wounds",
-        "detect evil and good",
-        "thunderous smite"
-      ],
+      "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
       "resources": [
-        {
-          "name": "1st",
-          "current": 2,
-          "max": 3
-        },
-        {
-          "name": "Lay on Hands",
-          "current": 15,
-          "max": 15
-        },
-        {
-          "name": "Divine Sense",
-          "current": 4,
-          "max": 4
-        }
+        {"name": "1st", "current": 2, "max": 3},
+        {"name": "Lay on Hands", "current": 15, "max": 15},
+        {"name": "Divine Sense", "current": 4, "max": 4}
       ],
-      "gear": [
-        "3 days rations",
-        "1 potion of healing",
-        "holy symbol",
-        "oilcloth cloak",
-        "lesser restoration scroll",
-        "speak with dead scroll",
-        "glowing quartz in pouch"
-      ]
+      "gear": ["3 days rations", "1 potion of healing", "holy symbol", "oilcloth cloak", "lesser restoration scroll", "speak with dead scroll", "glowing quartz in pouch"]
     }
   ]
 }
