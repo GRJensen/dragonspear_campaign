@@ -2,7 +2,7 @@
 
 Long rest taken. River Shining tavern, Daggerford, morning. Face is the lead they named. Green scale cursed, not worn. Wyrmling stayed with the adult. Raven not yet recalled. Level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
-Party fund: 61 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
+Party fund: 51 gp and 1,170 sp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each, three silver goblets, the unicorn figurine, and the sapphire pendant. 10 gp spent on find familiar components. Copper chest left in the brick room. Mirror packed with Jeb. Cache taken from Isteval before the gate.
 
 ## Nik (Nikalan Sendaral)
 
@@ -65,5 +65,5 @@ Weapons: longsword, three javelins, apple-tree +1 shield (branch bare). Holy sym
 
 ## Party coin
 
-Fund: 61 gp, 1,170 sp, seven ornamental stones, six pink pearls, three silver goblets, the unicorn figurine, and the sapphire pendant.
-Personal: Nik 15, Jeb 10, Cai 10, Daf 4 gp 9 sp, Val 15.
+Fund: 51 gp, 1,170 sp, seven ornamental stones, six pink pearls, three silver goblets, the unicorn figurine, and the sapphire pendant.
+Person
