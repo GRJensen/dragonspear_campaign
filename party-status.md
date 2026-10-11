@@ -1,6 +1,6 @@
 # Party status
 
-Rested. Southeast alcove of the cavern, at the treasure mound. Daf and Val hold the stair. Morning under the dome, level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
+Rested. Back on the stair into the cavern. Nik has the green scale mail from the mound. Morning under the dome, level 3. Iron coin with Daf. Ring of acid resistance on Daf. Apple branch bare. Raft, not a boat. XP 1490 each. Archetypes locked: Nik Thief, Cai Hunter, Daf Champion, Val Devotion. Hunter's prey not chosen. Jeb prepared: mage armor, magic missile, sleep, ice knife, misty step, scorching ray. Shield in the book, not prepared.
 
 Party fund: 61 gp, plus seven ornamental stones worth about 10 gp each, plus six pink pearls worth about 15 gp each. Isteval holds 1,170 sp, three silver goblets, the unicorn figurine, and the sapphire pendant. Copper chest left in the brick room. Mirror packed with Jeb.
 
@@ -12,7 +12,7 @@ No spell slots. Cunning Action. Sneak Attack 2d6.
 Conditions: none.
 XP 1490.
 Personal coin: 15 gp.
-Consumables: 24 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack. Two fist-sized jade eyes, about 100 gp each.
+Consumables: 24 arrows, 5 days of rations, 1 flask of oil, 5 candles, hooded lantern (unlit), 1 potion of healing. Oilcloth cloak worn. Gold sun medallion in the pack. Two fist-sized jade eyes, about 100 gp each. Green-tinted scale mail, lifted from the mound, not worn.
 Weapons: rapier (acid-pitted, -1 damage), two daggers, shortbow. Tools: thieves' tools, dice set.
 Wyrmling: black, bonded to him. With the company, not hunting.
 

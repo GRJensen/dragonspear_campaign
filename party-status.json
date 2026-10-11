@@ -1,7 +1,7 @@
 {
   "session": "Session 5, chest room",
   "updated": "2026-10-09T21:12:00Z",
-  "place": "Southeast alcove, at the treasure mound. Daf and Val on the stair",
+  "place": "Stair into the cavern. Nik carrying green scale mail",
   "summary": "Secret door opened. Room beyond not searched.",
   "partyCoin": {
     "gp": 61,
@@ -64,7 +64,8 @@
         "thieves' tools",
         "oilcloth cloak",
         "sun medallion",
-        "two jade eyes"
+        "two jade eyes",
+        "green scale mail, not worn"
       ]
     },
     {
