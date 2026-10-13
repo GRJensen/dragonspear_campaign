@@ -1,15 +1,15 @@
 {
-  "session": "Session 2 open",
-  "updated": "2026-10-11T21:34:00Z",
-  "place": "Daggerford, morning",
-  "summary": "Adventure 2 opened. Level 4. XP 2890. Horses returned. Maechen met. Divine Sense used once.",
+  "session": "Session 2",
+  "updated": "2026-10-13T22:11:00Z",
+  "place": "Ambergul crypt yard, afternoon",
+  "summary": "Adventure 2. Level 4. XP 2890. Long rest in Daggerford. Holy water x5 (one each). Arrived at crypt yard.",
   "partyCoin": {
-    "gp": 780,
-    "note": "Also 1265 sp. Letter delivered. Cursed mail not sold."
+    "gp": 680,
+    "note": "Also 1245 sp. 100 gp for holy water. 20 sp to puppeteers. Letter delivered. Cursed mail not sold."
   },
   "notes": [
     "XP 2890. Level 4.",
-    "Kit is the last restocked count. Jeb and Val prepared same as last.",
+    "Jeb and Val prepared same lists. Resources full after rest.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -34,8 +34,8 @@
         {"id": "dagger", "label": "Dagger", "count": 2},
         {"id": "shortbow", "label": "Shortbow", "ammo": "30 arrows"}
       ],
-      "potions": [{"count": 2, "label": "potion of healing"}],
-      "gear": ["7 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak", "thieves' tools", "dice set", "gold sun medallion in pack", "cursed green scale mail, not worn"]
+      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
+      "gear": ["7 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak", "thieves' tools", "dice set", "gold sun medallion in pack", "cursed green scale mail, not worn", "rope share", "pry bar share"]
     },
     {
       "short": "Jeb",
@@ -67,7 +67,7 @@
       "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "scorching ray"],
       "spellbook": ["mage armor", "magic missile", "shield", "sleep", "detect magic", "find familiar", "ice knife", "chromatic orb", "misty step", "scorching ray", "invisibility"],
       "rituals": ["detect magic", "find familiar"],
-      "potions": [{"count": 2, "label": "potion of healing"}],
+      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["5 days rations", "component pouch", "spellbook", "50 gp diamond", "fire-beetle gland", "muddy elven mirror", "oilcloth cloak", "raven familiar present"]
     },
     {
@@ -95,7 +95,7 @@
         {"name": "1st", "current": 3, "max": 3}
       ],
       "known": ["hunter's mark", "cure wounds"],
-      "potions": [{"count": 2, "label": "potion of healing"}],
+      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["10 days rations", "10 torches", "hunting trap", "blue waterproof candle", "fire-beetle glands", "oilcloth cloak"]
     },
     {
@@ -126,7 +126,7 @@
         {"name": "Second Wind", "current": 1, "max": 1},
         {"name": "Action Surge", "current": 1, "max": 1}
       ],
-      "potions": [{"count": 2, "label": "potion of healing"}],
+      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["10 days rations", "20 torches", "mason's tools", "ring of acid resistance", "iron coin", "oilcloth cloak"]
     },
     {
@@ -155,11 +155,11 @@
       "resources": [
         {"name": "1st", "current": 3, "max": 3},
         {"name": "Lay on Hands", "current": 15, "max": 15},
-        {"name": "Divine Sense", "current": 3, "max": 4},
+        {"name": "Divine Sense", "current": 4, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
-      "potions": [{"count": 2, "label": "potion of healing"}],
+      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["5 days rations", "10 candles", "holy symbol", "scroll: lesser restoration", "scroll: speak with dead", "glowing quartz, closed pouch", "oilcloth cloak"]
     }
   ]
