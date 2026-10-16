@@ -2,7 +2,7 @@
 
 Current adventure: 2, in progress. Session 2.
 
-Live place: Raised Gallery, dungeon under Ambergul estate. Party speaking with Alicia Ambergul.
+Live place: Brick chamber under Ambergul estate, after long rest. Party full. Session 2 wrapped.
 
 Done: Adventure 1 and 1b. Family crypts mapped area closed. Entered dungeon mapped area.
 
