@@ -1,8 +1,8 @@
 # Party status
 
-Session 2. Ambergul crypt yard, afternoon. Adventure 2. Level 4. XP 2890. Long rest taken in Daggerford. Holy water purchased.
+Session 2. Raised Gallery, dungeon under Ambergul estate. Adventure 2. Level 4. XP 2890. Post-combat in brick chamber. Entered dungeon mapped area.
 
-Party fund: 680 gp and 1,245 sp. Letter delivered. Cursed mail not sold. 20 sp to puppeteers earlier.
+Party fund: 680 gp and 1,225 sp. Letter delivered. Cursed mail not sold. 20 sp to puppeteers. 20 sp to Arassán.
 
 ## Nik (Nikalan Sendaral)
 
@@ -12,7 +12,7 @@ No spells.
 XP 2890.
 Personal coin: 15 gp.
 Consumables: 30 arrows, 7 days of rations, 2 oil, 10 candles, hooded lantern, 2 potions of healing, 1 holy water.
-Gear: oilcloth cloak, thieves' tools, dice set, gold sun medallion in the pack, cursed green scale mail not worn, rope, pry bar share.
+Gear: oilcloth cloak, thieves' tools, dice set, gold sun medallion in the pack, cursed green scale mail not worn, rope, pry bar share. Took from chamber: poles (D.D.), horn, caltrops, spikes, mallet, 2 potions of climbing (party).
 Weapons: rapier, two daggers, shortbow.
 
 ## Jeb (Jebrehoan Felix Bluetower)
@@ -37,7 +37,7 @@ Slots: 1st 3/3.
 Known: Hunter's Mark, Cure Wounds.
 XP 2890.
 Personal coin: 10 gp.
-Consumables: 30 arrows, 10 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 1 holy water.
+Consumables: 28 arrows (2 spent, not recovered), 10 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 1 holy water.
 Gear: staff, oilcloth cloak.
 
 ## Daf (Dafforin Granitechest)
@@ -54,9 +54,9 @@ Gear: mason's tools, ring of acid resistance, iron coin, oilcloth cloak.
 
 Human paladin of Tyr 4, Devotion, LG. Companion.
 HP 33/33. AC 20 (chain mail, apple-tree +1 shield, Defense). Initiative +1. Hit die 4d10 unused.
-Slots: 1st 3/3.
+Slots: 1st 2/3.
 Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 15/15. Divine Sense 4/4. Channel Divinity 1/1.
+Lay on Hands 7/15. Divine Sense 3/4. Channel Divinity 1/1.
 XP 2890.
 Personal coin: 15 gp.
 Consumables: 5 days of rations, 10 candles, 2 potions of healing, 1 holy water.
@@ -64,4 +64,4 @@ Gear: holy symbol, scroll of lesser restoration, scroll of speak with dead, glow
 
 ## Party coin
 
-Fund: 680 gp, 1,245 sp.
+Fund: 680 gp, 1,225 sp.

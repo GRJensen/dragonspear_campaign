@@ -1,15 +1,17 @@
 {
   "session": "Session 2",
-  "updated": "2026-10-13T22:11:00Z",
-  "place": "Ambergul crypt yard, afternoon",
-  "summary": "Adventure 2. Level 4. XP 2890. Long rest in Daggerford. Holy water x5 (one each). Arrived at crypt yard.",
+  "updated": "2026-10-16T13:54:00Z",
+  "place": "Raised Gallery, dungeon under Ambergul estate",
+  "summary": "Adventure 2. Level 4. XP 2890. Post-combat brick chamber (Baltron and imp dead, Arassán released). Entered dungeon. Talking with Alicia Ambergul.",
   "partyCoin": {
     "gp": 680,
-    "note": "Also 1245 sp. 100 gp for holy water. 20 sp to puppeteers. Letter delivered. Cursed mail not sold."
+    "note": "Also 1225 sp. 20 sp to Arassán. 20 sp to puppeteers earlier. Letter delivered. Cursed mail not sold."
   },
   "notes": [
     "XP 2890. Level 4.",
-    "Jeb and Val prepared same lists. Resources full after rest.",
+    "Val: 1st slots 2/3, Lay on Hands 7/15, Divine Sense 3/4 after Command and healing.",
+    "Cai: 2 arrows spent, not recovered.",
+    "Gear taken from chamber (poles, horn, caltrops, spikes, mallet, 2 potions of climbing) with party.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -35,7 +37,7 @@
         {"id": "shortbow", "label": "Shortbow", "ammo": "30 arrows"}
       ],
       "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
-      "gear": ["7 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak", "thieves' tools", "dice set", "gold sun medallion in pack", "cursed green scale mail, not worn", "rope share", "pry bar share"]
+      "gear": ["7 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak", "thieves' tools", "dice set", "gold sun medallion in pack", "cursed green scale mail, not worn", "rope share", "pry bar share", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)"]
     },
     {
       "short": "Jeb",
@@ -88,7 +90,7 @@
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "shortsword", "label": "Shortsword", "count": 2},
-        {"id": "longbow", "label": "Longbow", "ammo": "30 arrows"},
+        {"id": "longbow", "label": "Longbow", "ammo": "28 arrows"},
         {"id": "quarterstaff", "label": "Staff"}
       ],
       "resources": [
@@ -153,9 +155,9 @@
         {"id": "javelin", "label": "Javelin", "count": 3}
       ],
       "resources": [
-        {"name": "1st", "current": 3, "max": 3},
-        {"name": "Lay on Hands", "current": 15, "max": 15},
-        {"name": "Divine Sense", "current": 4, "max": 4},
+        {"name": "1st", "current": 2, "max": 3},
+        {"name": "Lay on Hands", "current": 7, "max": 15},
+        {"name": "Divine Sense", "current": 3, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
