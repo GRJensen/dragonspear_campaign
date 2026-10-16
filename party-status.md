@@ -43,7 +43,7 @@ Gear: staff, oilcloth cloak.
 ## Daf (Dafforin Granitechest)
 
 Hill dwarf fighter 4, Champion, LN. Companion.
-HP 39/39. AC 18 (chain mail, shield). Initiative +3. Hit die 4d10 unused.
+HP 34/39. AC 18 (chain mail, shield). Initiative +3. Hit die 4d10 unused.
 Second Wind unused. Action Surge unused.
 XP 2890.
 Personal coin: 4 gp, 9 sp.
