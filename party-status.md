@@ -21,7 +21,7 @@ Human wizard 4, Evocation, NG. Companion.
 HP 29/29. AC 13 (16 if Mage Armor is up). Initiative +3. Hit die 4d6 unused.
 Slots: 1st 4/4, 2nd 3/3. Arcane Recovery unused.
 Cantrips: Fire Bolt, Mage Hand, Prestidigitation.
-Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Chromatic Orb.
+Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Invisibility.
 Spellbook: Mage Armor, Magic Missile, Shield, Sleep, Detect Magic, Find Familiar, Ice Knife, Chromatic Orb, Misty Step, Scorching Ray, Invisibility.
 Rituals: Detect Magic, Find Familiar. Raven present. Carrying magical staff (faint transmutation).
 XP 5080.
