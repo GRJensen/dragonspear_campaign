@@ -33,7 +33,7 @@
       "weapons": [
         {"id": "rapier", "label": "Rapier"},
         {"id": "dagger", "label": "Dagger", "count": 2},
-        {"id": "shortbow", "label": "Shortbow", "ammo": "26 arrows"}
+        {"id": "shortbow", "label": "Shortbow", "ammo": "24 arrows"}
       ],
       "potions": [{"count": 1, "label": "potion of healing"}],
       "gear": ["6 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool", "crystal-windowed lantern (from cart)", "jade mask (crocodilian)", "bat-headed cane with ruby eyes (party)"]
@@ -89,7 +89,7 @@
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "shortsword", "label": "Shortsword", "count": 2},
-        {"id": "longbow", "label": "Longbow", "ammo": "25 arrows"},
+        {"id": "longbow", "label": "Longbow", "ammo": "21 arrows"},
         {"id": "quarterstaff", "label": "Staff"}
       ],
       "resources": [

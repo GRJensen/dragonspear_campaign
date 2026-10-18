@@ -11,7 +11,7 @@ HP 30/30. AC 16 (+1 leather). Initiative +4. Hit die 4d8 unused.
 No spells.
 XP 5080.
 Personal coin: 15 gp.
-Consumables: 26 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
+Consumables: 24 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
 Gear: oilcloth cloak (acid-stained), thieves' tools, dice set, gold sun medallion in the pack, rope, pry bar share. Cursed green scale mail and old leather sunk in clear pool. Poles (D.D.), horn, caltrops, spikes, mallet, 2 potions of climbing (party). Crystal-windowed lantern (from cart), jade mask (crocodilian), bat-headed cane with ruby eyes (party).
 Weapons: rapier, two daggers, shortbow.
 
@@ -37,7 +37,7 @@ Slots: 1st 3/3.
 Known: Hunter's Mark, Cure Wounds.
 XP 5080.
 Personal coin: 10 gp.
-Consumables: 25 arrows, 9 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 0 holy water.
+Consumables: 21 arrows, 9 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 0 holy water.
 Gear: staff, oilcloth cloak.
 
 ## Daf (Dafforin Granitechest)
