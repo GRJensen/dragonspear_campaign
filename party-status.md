@@ -1,8 +1,8 @@
 # Party status
 
-Session 3 wrapped. Stone Remains hall (south of western passage) under Ambergul estate. Adventure 2. Level 4. XP 5080.
+Session 4 wrapped. Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
 
-Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed).
+Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed), small gold armor plating fragments (~150 gp), 100 gp ruby, 45 gp from Nevil, magical stretching spear.
 
 ## Nik (Nikalan Sendaral)
 
@@ -11,7 +11,7 @@ HP 30/30. AC 16 (+1 leather). Initiative +4. Hit die 4d8 unused.
 No spells.
 XP 5080.
 Personal coin: 15 gp.
-Consumables: 24 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
+Consumables: 17 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
 Gear: oilcloth cloak (acid-stained), thieves' tools, dice set, gold sun medallion in the pack, rope, pry bar share. Cursed green scale mail and old leather sunk in clear pool. Poles (D.D.), horn, caltrops, spikes, mallet, 2 potions of climbing (party). Crystal-windowed lantern (from cart), jade mask (crocodilian), bat-headed cane with ruby eyes (party).
 Weapons: rapier, two daggers, shortbow.
 
@@ -37,7 +37,7 @@ Slots: 1st 3/3.
 Known: Hunter's Mark, Cure Wounds.
 XP 5080.
 Personal coin: 10 gp.
-Consumables: 21 arrows, 9 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 0 holy water.
+Consumables: 19 arrows, 9 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 0 holy water.
 Gear: staff, oilcloth cloak.
 
 ## Daf (Dafforin Granitechest)
@@ -56,7 +56,7 @@ Human paladin of Tyr 4, Devotion, LG. Companion.
 HP 33/33. AC 20 (chain mail, apple-tree +1 shield, Defense). Initiative +1. Hit die 4d10 unused.
 Slots: 1st 3/3.
 Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
-Lay on Hands 15/15. Divine Sense 4/4. Channel Divinity 1/1.
+Lay on Hands 15/15. Divine Sense 3/4. Channel Divinity 1/1.
 XP 5080.
 Personal coin: 15 gp.
 Consumables: 4 days of rations, 10 candles, 1 potion of healing, 1 holy water.

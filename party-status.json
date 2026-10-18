@@ -1,16 +1,16 @@
 {
-  "session": "Session 3 wrapped",
-  "updated": "2026-10-18T18:07:00Z",
-  "place": "Stone Remains hall (south of western passage) under Ambergul estate",
-  "summary": "Adventure 2. Level 4. XP 5080. Long rest taken. Thord with party.",
+  "session": "Session 4 wrapped",
+  "updated": "2026-10-18T23:26:00Z",
+  "place": "Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate",
+  "summary": "Adventure 2. Level 4. XP 5080 (still owed). No rest. Thord with party.",
   "partyCoin": {
     "gp": 680,
     "note": "Also 975 sp."
   },
   "notes": [
-    "XP 5080. Level 4.",
-    "Long rest complete. Full resources.",
-    "Nik AC 16 +1 leather. Magical staff with Jeb.",
+    "XP 5080. Level 4. XP still owed this session.",
+    "No rest this session. Full resources except Divine Sense 3/4.",
+    "Nik AC 16 +1 leather. Magical staff with Jeb. Extending spear with Thord.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -33,7 +33,7 @@
       "weapons": [
         {"id": "rapier", "label": "Rapier"},
         {"id": "dagger", "label": "Dagger", "count": 2},
-        {"id": "shortbow", "label": "Shortbow", "ammo": "24 arrows"}
+        {"id": "shortbow", "label": "Shortbow", "ammo": "17 arrows"}
       ],
       "potions": [{"count": 1, "label": "potion of healing"}],
       "gear": ["6 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool", "crystal-windowed lantern (from cart)", "jade mask (crocodilian)", "bat-headed cane with ruby eyes (party)"]
@@ -89,7 +89,7 @@
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
         {"id": "shortsword", "label": "Shortsword", "count": 2},
-        {"id": "longbow", "label": "Longbow", "ammo": "21 arrows"},
+        {"id": "longbow", "label": "Longbow", "ammo": "19 arrows"},
         {"id": "quarterstaff", "label": "Staff"}
       ],
       "resources": [
@@ -156,7 +156,7 @@
       "resources": [
         {"name": "1st", "current": 3, "max": 3},
         {"name": "Lay on Hands", "current": 15, "max": 15},
-        {"name": "Divine Sense", "current": 4, "max": 4},
+        {"name": "Divine Sense", "current": 3, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
