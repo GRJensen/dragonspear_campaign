@@ -1,15 +1,15 @@
 {
-  "session": "Session 2 wrap",
-  "updated": "2026-10-16T23:15:00Z",
-  "place": "Brick chamber under Ambergul estate, after long rest",
-  "summary": "Adventure 2. Level 4. XP 2890. Long rest taken. Explored family crypts and upper dungeon. Alicia met. Water elemental destroyed. +1 leather acquired. Cursed mail sunk.",
+  "session": "Session 3 open",
+  "updated": "2026-10-18T15:17:00Z",
+  "place": "Stone Remains hall (south of western passage) under Ambergul estate",
+  "summary": "Adventure 2. Level 4. XP 2890. Short rest taken after minotaur fight. Thord freed.",
   "partyCoin": {
     "gp": 680,
     "note": "Also 1225 sp."
   },
   "notes": [
     "XP 2890. Level 4. Milestone.",
-    "Resources full after long rest.",
+    "Short rest complete. Hit dice spent.",
     "Nik AC 16 +1 leather. Magical staff with Jeb.",
     "Do not record unrevealed identities."
   ],
@@ -22,12 +22,12 @@
       "class": "rogue, Thief",
       "level": 4,
       "xp": 2890,
-      "hp": 30,
+      "hp": 17,
       "hpMax": 30,
       "ac": 16,
       "initiative": 4,
-      "hitDie": "4d8",
-      "hitDieUsed": false,
+      "hitDie": "3d8",
+      "hitDieUsed": true,
       "coin": {"gp": 15},
       "armor": [{"id": "plus1_leather", "label": "+1 Leather"}],
       "weapons": [
@@ -35,8 +35,8 @@
         {"id": "dagger", "label": "Dagger", "count": 2},
         {"id": "shortbow", "label": "Shortbow", "ammo": "26 arrows"}
       ],
-      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
-      "gear": ["6 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool"]
+      "potions": [{"count": 1, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
+      "gear": ["6 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool", "crystal-windowed lantern (from cart)", "jade mask (crocodilian)", "bat-headed cane with ruby eyes (party)"]
     },
     {
       "short": "Jeb",
@@ -60,12 +60,12 @@
         {"id": "dagger", "label": "Dagger"}
       ],
       "resources": [
-        {"name": "1st", "current": 4, "max": 4},
-        {"name": "2nd", "current": 3, "max": 3},
+        {"name": "1st", "current": 0, "max": 4},
+        {"name": "2nd", "current": 2, "max": 3},
         {"name": "Arcane Recovery", "current": 1, "max": 1}
       ],
       "cantrips": ["fire bolt", "mage hand", "prestidigitation"],
-      "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "scorching ray"],
+      "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "chromatic orb"],
       "spellbook": ["mage armor", "magic missile", "shield", "sleep", "detect magic", "find familiar", "ice knife", "chromatic orb", "misty step", "scorching ray", "invisibility"],
       "rituals": ["detect magic", "find familiar"],
       "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
@@ -79,12 +79,12 @@
       "class": "ranger, Hunter",
       "level": 4,
       "xp": 2890,
-      "hp": 27,
+      "hp": 23,
       "hpMax": 27,
       "ac": 15,
       "initiative": 4,
-      "hitDie": "4d10",
-      "hitDieUsed": false,
+      "hitDie": "2d10",
+      "hitDieUsed": true,
       "coin": {"gp": 10},
       "armor": [{"id": "leather", "label": "Leather"}],
       "weapons": [
@@ -93,10 +93,10 @@
         {"id": "quarterstaff", "label": "Staff"}
       ],
       "resources": [
-        {"name": "1st", "current": 3, "max": 3}
+        {"name": "1st", "current": 1, "max": 3}
       ],
       "known": ["hunter's mark", "cure wounds"],
-      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
+      "potions": [{"count": 1, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["9 days rations", "10 torches", "hunting trap", "blue waterproof candle", "fire-beetle glands", "oilcloth cloak"]
     },
     {
@@ -107,12 +107,12 @@
       "class": "fighter, Champion",
       "level": 4,
       "xp": 2890,
-      "hp": 39,
+      "hp": 32,
       "hpMax": 39,
       "ac": 18,
       "initiative": 3,
-      "hitDie": "4d10",
-      "hitDieUsed": false,
+      "hitDie": "3d10",
+      "hitDieUsed": true,
       "coin": {"gp": 4.9},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -124,8 +124,8 @@
         {"id": "handaxe", "label": "Handaxe", "count": 2}
       ],
       "resources": [
-        {"name": "Second Wind", "current": 1, "max": 1},
-        {"name": "Action Surge", "current": 1, "max": 1}
+        {"name": "Second Wind", "current": 0, "max": 1},
+        {"name": "Action Surge", "current": 0, "max": 1}
       ],
       "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["9 days rations", "20 torches", "mason's tools", "ring of acid resistance", "iron coin", "oilcloth cloak"]
@@ -138,12 +138,12 @@
       "class": "paladin, Devotion",
       "level": 4,
       "xp": 2890,
-      "hp": 33,
+      "hp": 30,
       "hpMax": 33,
       "ac": 20,
       "initiative": 1,
-      "hitDie": "4d10",
-      "hitDieUsed": false,
+      "hitDie": "2d10",
+      "hitDieUsed": true,
       "coin": {"gp": 15},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
@@ -154,13 +154,13 @@
         {"id": "javelin", "label": "Javelin", "count": 3}
       ],
       "resources": [
-        {"name": "1st", "current": 3, "max": 3},
-        {"name": "Lay on Hands", "current": 15, "max": 15},
+        {"name": "1st", "current": 2, "max": 3},
+        {"name": "Lay on Hands", "current": 7, "max": 15},
         {"name": "Divine Sense", "current": 4, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
-      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
+      "potions": [{"count": 1, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
       "gear": ["4 days rations", "10 candles", "holy symbol", "scroll: lesser restoration", "scroll: speak with dead", "glowing quartz, closed pouch", "oilcloth cloak"]
     }
   ]
