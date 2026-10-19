@@ -1,16 +1,16 @@
 {
-  "session": "Session 4 wrapped",
-  "updated": "2026-10-18T23:26:00Z",
+  "session": "Session 5 open",
+  "updated": "2026-10-19T12:13:00Z",
   "place": "Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate",
-  "summary": "Adventure 2. Level 4. XP 5080 (still owed). No rest. Thord with party.",
+  "summary": "Adventure 2. Level 4. XP 5080 (still owed). No rest. Thord with party. Session 5 starting.",
   "partyCoin": {
     "gp": 680,
     "note": "Also 975 sp."
   },
   "notes": [
-    "XP 5080. Level 4. XP still owed this session.",
-    "No rest this session. Full resources except Divine Sense 3/4.",
-    "Nik AC 16 +1 leather. Magical staff with Jeb. Extending spear with Thord.",
+    "XP 5080. Level 4.",
+    "Long rest complete. Full resources.",
+    "Nik AC 16 +1 leather. Magical staff with Jeb.",
     "Do not record unrevealed identities."
   ],
   "party": [

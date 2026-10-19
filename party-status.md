@@ -1,6 +1,6 @@
 # Party status
 
-Session 4 wrapped. Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
+Session 5 open. Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
 
 Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed), small gold armor plating fragments (~150 gp), 100 gp ruby, 45 gp from Nevil, magical stretching spear.
 
@@ -11,7 +11,7 @@ HP 30/30. AC 16 (+1 leather). Initiative +4. Hit die 4d8 unused.
 No spells.
 XP 5080.
 Personal coin: 15 gp.
-Consumables: 17 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
+Consumables: 21 arrows, 6 days of rations, 2 oil, 10 candles, hooded lantern, 1 potion of healing, 0 holy water, ever-full wineskin (not drunk).
 Gear: oilcloth cloak (acid-stained), thieves' tools, dice set, gold sun medallion in the pack, rope, pry bar share. Cursed green scale mail and old leather sunk in clear pool. Poles (D.D.), horn, caltrops, spikes, mallet, 2 potions of climbing (party). Crystal-windowed lantern (from cart), jade mask (crocodilian), bat-headed cane with ruby eyes (party).
 Weapons: rapier, two daggers, shortbow.
 
