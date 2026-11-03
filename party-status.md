@@ -1,8 +1,8 @@
 # Party status
 
-Session 5 open. Altar of Ogrémoch (area 28), under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
+Session 5 open. Threshold of Lower Gallery (area 26), under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
 
-Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed), small gold armor plating fragments (~150 gp), 100 gp ruby, 45 gp from Nevil, magical stretching spear.
+Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed), small gold armor plating fragments (~150 gp), 100 gp ruby, 45 gp from Nevil, magical stretching spear, figurines from Lower Gallery (black crystal hags set 100 gp, clay doppelganger 50 gp, copper dragon 25 gp, crimson elephant 150 gp, gold-and-silver unicorn 75 gp).
 
 ## Nik (Nikalan Sendaral)
 
@@ -54,7 +54,7 @@ Gear: mason's tools, ring of acid resistance, iron coin, oilcloth cloak.
 
 Human paladin of Tyr 4, Devotion, LG. Companion.
 HP 33/33. AC 20 (chain mail, apple-tree +1 shield, Defense). Initiative +1. Hit die 4d10 unused.
-Slots: 1st 3/3.
+Slots: 1st 2/3.
 Prepared: Command, Cure Wounds, Detect Evil and Good, Thunderous Smite.
 Lay on Hands 15/15. Divine Sense 3/4. Channel Divinity 1/1.
 XP 5080.
