@@ -1,6 +1,6 @@
 # Party status
 
-Session 5 open. Open secret door in the donkey-mural hall (area 23), top of the stairs descending toward the altar, under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
+Session 5 open. Altar of Ogrémoch (area 28), under Ambergul estate. Adventure 2. Level 4. XP 5080 (still owed this session).
 
 Party fund: 680 gp and 975 sp. Shared loot: pearl-pommel longsword (black pearl ~500 gp), green copper gargoyle amulet (~100 gp), black gem from dragon statue (wrapped, nonmagical, cursed if possessed), small gold armor plating fragments (~150 gp), 100 gp ruby, 45 gp from Nevil, magical stretching spear.
 
