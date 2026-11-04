@@ -1,8 +1,8 @@
 # Party status
 
-Session 6 open. Castle rooms, Daggerford, morning after long rest. Adventure 2. Level 5. XP 6580. Darwa in castle cells. Bounty pending. Full resources after rest and level-up.
+Session 6 open. Castle rooms, Daggerford, morning after long rest. Adventure 2. Level 5. XP 6580. Darwa in castle cells. Bounty collected. Full resources after rest and level-up.
 
-Party fund: 680 gp and 975 sp. Shared loot: figurines from Lower Gallery, from Olivine’s Lair: brooch, chalice, coronet, 600 ep, signet. Darwa’s spellbook (Red Wizard, unread), her component pouch, and her dagger.
+Party fund: 1680 gp and 975 sp. Shared loot: figurines from Lower Gallery, from Olivine’s Lair: brooch, chalice, coronet, 600 ep, signet. Darwa’s spellbook (Red Wizard, unread), her component pouch, and her dagger.
 
 ## Nik (Nikalan Sendaral)
 
@@ -65,4 +65,4 @@ Gear: holy symbol, scroll of lesser restoration, scroll of speak with dead, glow
 
 ## Party coin
 
-Fund: 680 gp, 975 sp.
+Fund: 1680 gp, 975 sp.
