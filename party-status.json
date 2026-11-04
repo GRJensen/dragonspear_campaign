@@ -1,15 +1,15 @@
 {
-  "session": "Session 5 open",
-  "updated": "2026-11-03T22:47:00Z",
-  "place": "Lower Gallery (area 26), under Ambergul estate. Planning approach to Olivine’s Lair.",
-  "summary": "Adventure 2. Level 4. XP 5080 (still owed). No rest. Thord with party. Val slots 2/3. Figurines looted. Darwa bound in room. Medusa and golem scouted in area 25.",
+  "session": "Session 5 wrapped",
+  "updated": "2026-11-04T16:25:00Z",
+  "place": "Castle rooms, Daggerford, night. Darwa in secure cells.",
+  "summary": "Adventure 2. Level 4 (5 owed). XP 6580. Darwa delivered. Bounty pending. Full resources.",
   "partyCoin": {
     "gp": 680,
-    "note": "Also 975 sp. Shared loot includes Lower Gallery figurines (~400 gp art)."
+    "note": "Also 975 sp. Shared loot includes Lower Gallery figurines, Olivine’s Lair items, Darwa’s spellbook/pouch/dagger."
   },
   "notes": [
-    "XP 5080. Level 4.",
-    "Long rest complete. Full resources except Val 1st 2/3.",
+    "XP 6580. Level 5 owed at next long rest.",
+    "Long rest complete. Full resources.",
     "Nik AC 16 +1 leather. Magical staff with Jeb.",
     "Do not record unrevealed identities."
   ],
@@ -21,7 +21,7 @@
       "race": "human",
       "class": "rogue, Thief",
       "level": 4,
-      "xp": 5080,
+      "xp": 6580,
       "hp": 30,
       "hpMax": 30,
       "ac": 16,
@@ -45,7 +45,7 @@
       "race": "human",
       "class": "wizard, Evocation",
       "level": 4,
-      "xp": 5080,
+      "xp": 6580,
       "hp": 29,
       "hpMax": 29,
       "ac": 13,
@@ -78,7 +78,7 @@
       "race": "half-elf",
       "class": "ranger, Hunter",
       "level": 4,
-      "xp": 5080,
+      "xp": 6580,
       "hp": 27,
       "hpMax": 27,
       "ac": 15,
@@ -106,7 +106,7 @@
       "race": "hill dwarf",
       "class": "fighter, Champion",
       "level": 4,
-      "xp": 5080,
+      "xp": 6580,
       "hp": 39,
       "hpMax": 39,
       "ac": 18,
@@ -137,7 +137,7 @@
       "race": "human",
       "class": "paladin, Devotion",
       "level": 4,
-      "xp": 5080,
+      "xp": 6580,
       "hp": 33,
       "hpMax": 33,
       "ac": 20,
@@ -154,7 +154,7 @@
         {"id": "javelin", "label": "Javelin", "count": 3}
       ],
       "resources": [
-        {"name": "1st", "current": 2, "max": 3},
+        {"name": "1st", "current": 3, "max": 3},
         {"name": "Lay on Hands", "current": 15, "max": 15},
         {"name": "Divine Sense", "current": 3, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
