@@ -1,16 +1,17 @@
 {
-  "session": "Session 5 wrapped",
-  "updated": "2026-11-04T16:25:00Z",
-  "place": "Castle rooms, Daggerford, night. Darwa in secure cells.",
-  "summary": "Adventure 2. Level 4 (5 owed). XP 6580. Darwa delivered. Bounty pending. Full resources.",
+  "session": "Session 6 open",
+  "updated": "2026-11-04T14:35:00Z",
+  "place": "Castle rooms, Daggerford, morning after long rest. Darwa in cells. Bounty pending.",
+  "summary": "Adventure 2. Level 5. XP 6580. Long rest completed, level-up applied. Full resources.",
   "partyCoin": {
     "gp": 680,
-    "note": "Also 975 sp. Shared loot includes Lower Gallery figurines, Olivine’s Lair items, Darwa’s spellbook/pouch/dagger."
+    "note": "Also 975 sp. Shared loot includes Lower Gallery figurines, Olivine’s Lair items (brooch, chalice, coronet, 600 ep, signet), Darwa’s spellbook, pouch, dagger."
   },
   "notes": [
-    "XP 6580. Level 5 owed at next long rest.",
-    "Long rest complete. Full resources.",
-    "Nik AC 16 +1 leather. Magical staff with Jeb.",
+    "XP 6580. Level 5.",
+    "Long rest complete. Full resources. Level-up HP rolled.",
+    "Nik AC 16 +1 leather. Uncanny Dodge, Sneak Attack 3d6.",
+    "Jeb and Val preparations pending after rest. Cai new spells pending.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -20,20 +21,20 @@
       "role": "PC",
       "race": "human",
       "class": "rogue, Thief",
-      "level": 4,
+      "level": 5,
       "xp": 6580,
-      "hp": 30,
-      "hpMax": 30,
+      "hp": 34,
+      "hpMax": 34,
       "ac": 16,
       "initiative": 4,
-      "hitDie": "4d8",
+      "hitDie": "5d8",
       "hitDieUsed": false,
       "coin": {"gp": 15},
       "armor": [{"id": "plus1_leather", "label": "+1 Leather"}],
       "weapons": [
         {"id": "rapier", "label": "Rapier"},
         {"id": "dagger", "label": "Dagger", "count": 2},
-        {"id": "shortbow", "label": "Shortbow", "ammo": "17 arrows"}
+        {"id": "shortbow", "label": "Shortbow", "ammo": "21 arrows"}
       ],
       "potions": [{"count": 1, "label": "potion of healing"}],
       "gear": ["6 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool", "crystal-windowed lantern (from cart)", "jade mask (crocodilian)", "bat-headed cane with ruby eyes (party)"]
@@ -44,14 +45,14 @@
       "role": "CPC",
       "race": "human",
       "class": "wizard, Evocation",
-      "level": 4,
+      "level": 5,
       "xp": 6580,
-      "hp": 29,
-      "hpMax": 29,
+      "hp": 34,
+      "hpMax": 34,
       "ac": 13,
       "acNote": "16 if Mage Armor is up",
       "initiative": 3,
-      "hitDie": "4d6",
+      "hitDie": "5d6",
       "hitDieUsed": false,
       "coin": {"gp": 10},
       "armor": [{"id": "robes", "label": "Robes"}],
@@ -62,6 +63,7 @@
       "resources": [
         {"name": "1st", "current": 4, "max": 4},
         {"name": "2nd", "current": 3, "max": 3},
+        {"name": "3rd", "current": 2, "max": 2},
         {"name": "Arcane Recovery", "current": 1, "max": 1}
       ],
       "cantrips": ["fire bolt", "mage hand", "prestidigitation"],
@@ -77,13 +79,13 @@
       "role": "CPC",
       "race": "half-elf",
       "class": "ranger, Hunter",
-      "level": 4,
+      "level": 5,
       "xp": 6580,
-      "hp": 27,
-      "hpMax": 27,
+      "hp": 38,
+      "hpMax": 38,
       "ac": 15,
       "initiative": 4,
-      "hitDie": "4d10",
+      "hitDie": "5d10",
       "hitDieUsed": false,
       "coin": {"gp": 10},
       "armor": [{"id": "leather", "label": "Leather"}],
@@ -93,7 +95,8 @@
         {"id": "quarterstaff", "label": "Staff"}
       ],
       "resources": [
-        {"name": "1st", "current": 3, "max": 3}
+        {"name": "1st", "current": 4, "max": 4},
+        {"name": "2nd", "current": 2, "max": 2}
       ],
       "known": ["hunter's mark", "cure wounds"],
       "potions": [{"count": 2, "label": "potion of healing"}],
@@ -105,13 +108,13 @@
       "role": "CPC",
       "race": "hill dwarf",
       "class": "fighter, Champion",
-      "level": 4,
+      "level": 5,
       "xp": 6580,
-      "hp": 39,
-      "hpMax": 39,
+      "hp": 43,
+      "hpMax": 43,
       "ac": 18,
       "initiative": 3,
-      "hitDie": "4d10",
+      "hitDie": "5d10",
       "hitDieUsed": false,
       "coin": {"gp": 4.9},
       "armor": [
@@ -136,32 +139,33 @@
       "role": "CPC",
       "race": "human",
       "class": "paladin, Devotion",
-      "level": 4,
+      "level": 5,
       "xp": 6580,
-      "hp": 33,
-      "hpMax": 33,
+      "hp": 36,
+      "hpMax": 36,
       "ac": 20,
       "initiative": 1,
-      "hitDie": "4d10",
+      "hitDie": "5d10",
       "hitDieUsed": false,
       "coin": {"gp": 15},
       "armor": [
         {"id": "chain_mail", "label": "Chain mail"},
-        {"id": "apple_shield", "label": "Apple-tree +1 shield"}
+        {"id": "plus1_shield", "label": "Apple-tree +1 shield"}
       ],
       "weapons": [
         {"id": "longsword", "label": "Longsword"},
         {"id": "javelin", "label": "Javelin", "count": 3}
       ],
       "resources": [
-        {"name": "1st", "current": 3, "max": 3},
-        {"name": "Lay on Hands", "current": 15, "max": 15},
-        {"name": "Divine Sense", "current": 3, "max": 4},
+        {"name": "1st", "current": 4, "max": 4},
+        {"name": "2nd", "current": 2, "max": 2},
+        {"name": "Lay on Hands", "current": 25, "max": 25},
+        {"name": "Divine Sense", "current": 4, "max": 4},
         {"name": "Channel Divinity", "current": 1, "max": 1}
       ],
       "prepared": ["command", "cure wounds", "detect evil and good", "thunderous smite"],
       "potions": [{"count": 1, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
-      "gear": ["4 days rations", "10 candles", "holy symbol", "scroll: lesser restoration", "scroll: speak with dead", "glowing quartz, closed pouch", "oilcloth cloak"]
+      "gear": ["4 days rations", "10 candles", "holy symbol", "scroll of lesser restoration", "scroll of speak with dead", "glowing quartz in closed pouch", "oilcloth cloak"]
     }
   ]
 }
