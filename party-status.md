@@ -21,8 +21,8 @@ Human wizard 5, Evocation, NG. Companion.
 HP 34/34. AC 13 (16 if Mage Armor is up). Initiative +3. Hit die 5d6 unused.
 Slots: 1st 4/4, 2nd 3/3, 3rd 2/2. Arcane Recovery unused.
 Cantrips: Fire Bolt, Mage Hand, Prestidigitation.
-Prepared: (to be set after rest).
-Spellbook: Mage Armor, Magic Missile, Shield, Sleep, Detect Magic, Find Familiar, Ice Knife, Chromatic Orb, Misty Step, Scorching Ray, Invisibility. (two new 3rd-level spells to be added).
+Prepared: Mage Armor, Magic Missile, Sleep, Ice Knife, Misty Step, Invisibility, Fireball, Dispel Magic.
+Spellbook: Mage Armor, Magic Missile, Shield, Sleep, Detect Magic, Find Familiar, Ice Knife, Chromatic Orb, Misty Step, Scorching Ray, Invisibility, Fireball, Dispel Magic.
 Rituals: Detect Magic, Find Familiar. Raven present. Carrying magical staff (faint transmutation).
 XP 6580.
 Personal coin: 10 gp.
@@ -34,7 +34,7 @@ Gear: component pouch, spellbook, 50 gp diamond, muddy elven mirror, oilcloth cl
 Half-elf ranger 5, Hunter, CG. Companion.
 HP 38/38. AC 15 (leather). Initiative +4. Hit die 5d10 unused.
 Slots: 1st 4/4, 2nd 2/2.
-Known: Hunter's Mark, Cure Wounds. (new 2nd-level spells to be chosen). Extra Attack.
+Known: Hunter's Mark, Cure Wounds, Pass without Trace, Spike Growth. Extra Attack.
 XP 6580.
 Personal coin: 10 gp.
 Consumables: 19 arrows, 9 days of rations, 10 torches, hunting trap, 2 potions of healing, blue waterproof candle, fire-beetle glands, 0 holy water.
@@ -55,7 +55,8 @@ Gear: mason's tools, ring of acid resistance, iron coin, oilcloth cloak.
 Human paladin of Tyr 5, Devotion, LG. Companion.
 HP 36/36. AC 20 (chain mail, apple-tree +1 shield, Defense). Initiative +1. Hit die 5d10 unused.
 Slots: 1st 4/4, 2nd 2/2.
-Prepared: (to be set after rest). Extra Attack.
+Prepared: Branding Smite, Magic Weapon, Command, Cure Wounds, Thunderous Smite. Extra Attack.
+(Always prepared: Lesser Restoration, Zone of Truth.)
 Lay on Hands 25/25. Divine Sense 4/4. Channel Divinity 1/1.
 XP 6580.
 Personal coin: 15 gp.
