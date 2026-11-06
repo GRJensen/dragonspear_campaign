@@ -1,18 +1,18 @@
 {
   "session": "Session 7 in progress",
-  "updated": "2026-11-06T21:49:00Z",
-  "place": "Ironaxe Halls lower level, area 3 (Crumbling Playroom). Quarry entrance clear. Elves watching treeline.",
-  "summary": "Adventure 3. Lower level entry. Area 2 and 3 cleared of adults. Children released north. Some slots used.",
+  "updated": "2026-11-06T22:46:00Z",
+  "place": "Ironaxe Halls lower level, areas 7-8 cleared. Pit in armory open. Elves still watching treeline.",
+  "summary": "Adventure 3. Armory and mess hall cleared via pit trap. Potion of healing and 250 gp necklace recovered.",
   "partyCoin": {
     "gp": 1502,
     "note": "Also 975 sp. Thord chain mail (75 gp). Six horses from castle. Shared loot unchanged."
   },
   "notes": [
     "XP 7580. Level 5.",
-    "At quarry entrance. Alagarthas watching two days.",
-    "Jeb 1st 3/4 (Sleep). Cai 2nd 1/2 (Spike Growth). Val 1st 3/4 (Command).",
-    "Thord added as level 5 fighter ally in chain mail.",
-    "Do not record unrevealed identities."
+    "Areas 1-3,5-8 entered or cleared. Pit trap in 7 currently open.",
+    "Jeb 1st 2/4. Cai 2nd 1/2. Val 1st 3/4.",
+    "Nik holds potion of healing and onyx warhammer necklace (250 gp).",
+    "Alagarthas and elves watching treeline for two days."
   ],
   "party": [
     {
@@ -58,6 +58,10 @@
         {
           "count": 1,
           "label": "potion of healing"
+        },
+        {
+          "count": 1,
+          "label": "potion of healing"
         }
       ],
       "gear": [
@@ -81,7 +85,8 @@
         "cursed green scale mail and old leather sunk in clear pool",
         "crystal-windowed lantern (from cart)",
         "jade mask (crocodilian)",
-        "bat-headed cane with ruby eyes (party)"
+        "bat-headed cane with ruby eyes (party)",
+        "onyx warhammer necklace (250 gp)"
       ]
     },
     {
