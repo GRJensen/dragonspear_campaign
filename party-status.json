@@ -1,16 +1,17 @@
 {
-  "session": "Session 6 wrapped",
-  "updated": "2026-11-04T18:40:00Z",
-  "place": "Daggerford, night. Earth Key in castle vault. Adventure 2 complete.",
-  "summary": "Adventure 2 wrapped. Level 5. XP 7580. Earth Key secured in vault.",
+  "session": "Session 7 in progress",
+  "updated": "2026-11-06T21:49:00Z",
+  "place": "Ironaxe Halls lower level, area 3 (Crumbling Playroom). Quarry entrance clear. Elves watching treeline.",
+  "summary": "Adventure 3. Lower level entry. Area 2 and 3 cleared of adults. Children released north. Some slots used.",
   "partyCoin": {
-    "gp": 1627,
-    "note": "Also 975 sp. Shared loot includes Lower Gallery figurines, Olivine’s Lair items, Darwa’s spellbook/pouch/dagger."
+    "gp": 1502,
+    "note": "Also 975 sp. Thord chain mail (75 gp). Six horses from castle. Shared loot unchanged."
   },
   "notes": [
     "XP 7580. Level 5.",
-    "Adventure 2 complete. Earth Key in vault.",
-    "Full resources.",
+    "At quarry entrance. Alagarthas watching two days.",
+    "Jeb 1st 3/4 (Sleep). Cai 2nd 1/2 (Spike Growth). Val 1st 3/4 (Command).",
+    "Thord added as level 5 fighter ally in chain mail.",
     "Do not record unrevealed identities."
   ],
   "party": [
@@ -28,15 +29,60 @@
       "initiative": 4,
       "hitDie": "5d8",
       "hitDieUsed": false,
-      "coin": {"gp": 15},
-      "armor": [{"id": "plus1_leather", "label": "+1 Leather"}],
-      "weapons": [
-        {"id": "rapier", "label": "Rapier"},
-        {"id": "dagger", "label": "Dagger", "count": 2},
-        {"id": "shortbow", "label": "Shortbow", "ammo": "21 arrows"}
+      "coin": {
+        "gp": 15
+      },
+      "armor": [
+        {
+          "id": "plus1_leather",
+          "label": "+1 Leather"
+        }
       ],
-      "potions": [{"count": 1, "label": "potion of healing"}],
-      "gear": ["9 days rations", "2 oil", "10 candles", "hooded lantern", "oilcloth cloak (acid-stained)", "thieves' tools", "dice set", "gold sun medallion in pack", "rope", "pry bar share", "ever-full wineskin (not drunk)", "poles (D.D.)", "horn", "caltrops", "spikes", "mallet", "2 potions of climbing (party)", "cursed green scale mail and old leather sunk in clear pool", "crystal-windowed lantern (from cart)", "jade mask (crocodilian)", "bat-headed cane with ruby eyes (party)"]
+      "weapons": [
+        {
+          "id": "rapier",
+          "label": "Rapier"
+        },
+        {
+          "id": "dagger",
+          "label": "Dagger",
+          "count": 2
+        },
+        {
+          "id": "shortbow",
+          "label": "Shortbow",
+          "ammo": "21 arrows"
+        }
+      ],
+      "potions": [
+        {
+          "count": 1,
+          "label": "potion of healing"
+        }
+      ],
+      "gear": [
+        "6 days rations",
+        "2 oil",
+        "10 candles",
+        "hooded lantern",
+        "oilcloth cloak (acid-stained)",
+        "thieves' tools",
+        "dice set",
+        "gold sun medallion in pack",
+        "rope",
+        "pry bar share",
+        "ever-full wineskin (not drunk)",
+        "poles (D.D.)",
+        "horn",
+        "caltrops",
+        "spikes",
+        "mallet",
+        "2 potions of climbing (party)",
+        "cursed green scale mail and old leather sunk in clear pool",
+        "crystal-windowed lantern (from cart)",
+        "jade mask (crocodilian)",
+        "bat-headed cane with ruby eyes (party)"
+      ]
     },
     {
       "short": "Jeb",
@@ -53,24 +99,101 @@
       "initiative": 3,
       "hitDie": "5d6",
       "hitDieUsed": false,
-      "coin": {"gp": 10},
-      "armor": [{"id": "robes", "label": "Robes"}],
+      "coin": {
+        "gp": 10
+      },
+      "armor": [
+        {
+          "id": "robes",
+          "label": "Robes"
+        }
+      ],
       "weapons": [
-        {"id": "quarterstaff", "label": "Magical staff (faint transmutation)"},
-        {"id": "dagger", "label": "Dagger"}
+        {
+          "id": "quarterstaff",
+          "label": "Magical staff (faint transmutation)"
+        },
+        {
+          "id": "dagger",
+          "label": "Dagger"
+        }
       ],
       "resources": [
-        {"name": "1st", "current": 4, "max": 4},
-        {"name": "2nd", "current": 3, "max": 3},
-        {"name": "3rd", "current": 2, "max": 2},
-        {"name": "Arcane Recovery", "current": 1, "max": 1}
+        {
+          "name": "1st",
+          "current": 2,
+          "max": 4
+        },
+        {
+          "name": "2nd",
+          "current": 3,
+          "max": 3
+        },
+        {
+          "name": "3rd",
+          "current": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Recovery",
+          "current": 1,
+          "max": 1
+        }
       ],
-      "cantrips": ["fire bolt", "mage hand", "prestidigitation"],
-      "prepared": ["mage armor", "magic missile", "sleep", "ice knife", "misty step", "invisibility", "fireball", "dispel magic"],
-      "spellbook": ["mage armor", "magic missile", "shield", "sleep", "detect magic", "find familiar", "ice knife", "chromatic orb", "misty step", "scorching ray", "invisibility", "fireball", "dispel magic"],
-      "rituals": ["detect magic", "find familiar"],
-      "potions": [{"count": 2, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
-      "gear": ["7 days rations", "component pouch", "spellbook", "50 gp diamond", "fire-beetle gland", "muddy elven mirror", "oilcloth cloak", "raven familiar present"]
+      "cantrips": [
+        "fire bolt",
+        "mage hand",
+        "prestidigitation"
+      ],
+      "prepared": [
+        "mage armor",
+        "magic missile",
+        "sleep",
+        "ice knife",
+        "misty step",
+        "invisibility",
+        "fireball",
+        "dispel magic"
+      ],
+      "spellbook": [
+        "mage armor",
+        "magic missile",
+        "shield",
+        "sleep",
+        "detect magic",
+        "find familiar",
+        "ice knife",
+        "chromatic orb",
+        "misty step",
+        "scorching ray",
+        "invisibility",
+        "fireball",
+        "dispel magic"
+      ],
+      "rituals": [
+        "detect magic",
+        "find familiar"
+      ],
+      "potions": [
+        {
+          "count": 2,
+          "label": "potion of healing"
+        },
+        {
+          "count": 1,
+          "label": "holy water"
+        }
+      ],
+      "gear": [
+        "4 days rations",
+        "component pouch",
+        "spellbook",
+        "50 gp diamond",
+        "fire-beetle gland",
+        "muddy elven mirror",
+        "oilcloth cloak",
+        "raven familiar present"
+      ]
     },
     {
       "short": "Cai",
@@ -86,20 +209,63 @@
       "initiative": 4,
       "hitDie": "5d10",
       "hitDieUsed": false,
-      "coin": {"gp": 10},
-      "armor": [{"id": "leather", "label": "Leather"}],
+      "coin": {
+        "gp": 10
+      },
+      "armor": [
+        {
+          "id": "leather",
+          "label": "Leather"
+        }
+      ],
       "weapons": [
-        {"id": "shortsword", "label": "Shortsword", "count": 2},
-        {"id": "longbow", "label": "Longbow", "ammo": "19 arrows"},
-        {"id": "quarterstaff", "label": "Staff"}
+        {
+          "id": "shortsword",
+          "label": "Shortsword",
+          "count": 2
+        },
+        {
+          "id": "longbow",
+          "label": "Longbow",
+          "ammo": "19 arrows"
+        },
+        {
+          "id": "quarterstaff",
+          "label": "Staff"
+        }
       ],
       "resources": [
-        {"name": "1st", "current": 4, "max": 4},
-        {"name": "2nd", "current": 2, "max": 2}
+        {
+          "name": "1st",
+          "current": 4,
+          "max": 4
+        },
+        {
+          "name": "2nd",
+          "current": 1,
+          "max": 2
+        }
       ],
-      "known": ["hunter's mark", "cure wounds", "pass without trace", "spike growth"],
-      "potions": [{"count": 2, "label": "potion of healing"}],
-      "gear": ["12 days rations", "10 torches", "hunting trap", "blue waterproof candle", "fire-beetle glands", "oilcloth cloak"]
+      "known": [
+        "hunter's mark",
+        "cure wounds",
+        "pass without trace",
+        "spike growth"
+      ],
+      "potions": [
+        {
+          "count": 2,
+          "label": "potion of healing"
+        }
+      ],
+      "gear": [
+        "9 days rations",
+        "10 torches",
+        "hunting trap",
+        "blue waterproof candle",
+        "fire-beetle glands",
+        "oilcloth cloak"
+      ]
     },
     {
       "short": "Daf",
@@ -115,22 +281,61 @@
       "initiative": 3,
       "hitDie": "5d10",
       "hitDieUsed": false,
-      "coin": {"gp": 4.9},
+      "coin": {
+        "gp": 4.9
+      },
       "armor": [
-        {"id": "chain_mail", "label": "Chain mail"},
-        {"id": "shield", "label": "Shield"}
+        {
+          "id": "chain_mail",
+          "label": "Chain mail"
+        },
+        {
+          "id": "shield",
+          "label": "Shield"
+        }
       ],
       "weapons": [
-        {"id": "warhammer", "label": "Warhammer"},
-        {"id": "light_crossbow", "label": "Light crossbow", "ammo": "30 bolts"},
-        {"id": "handaxe", "label": "Handaxe", "count": 2}
+        {
+          "id": "warhammer",
+          "label": "Warhammer"
+        },
+        {
+          "id": "light_crossbow",
+          "label": "Light crossbow",
+          "ammo": "30 bolts"
+        },
+        {
+          "id": "handaxe",
+          "label": "Handaxe",
+          "count": 2
+        }
       ],
       "resources": [
-        {"name": "Second Wind", "current": 1, "max": 1},
-        {"name": "Action Surge", "current": 1, "max": 1}
+        {
+          "name": "Second Wind",
+          "current": 1,
+          "max": 1
+        },
+        {
+          "name": "Action Surge",
+          "current": 1,
+          "max": 1
+        }
       ],
-      "potions": [{"count": 3, "label": "potion of healing"}],
-      "gear": ["12 days rations", "20 torches", "mason's tools", "ring of acid resistance", "iron coin", "oilcloth cloak"]
+      "potions": [
+        {
+          "count": 2,
+          "label": "potion of healing"
+        }
+      ],
+      "gear": [
+        "9 days rations",
+        "20 torches",
+        "mason's tools",
+        "ring of acid resistance",
+        "iron coin",
+        "oilcloth cloak"
+      ]
     },
     {
       "short": "Val",
@@ -146,25 +351,130 @@
       "initiative": 1,
       "hitDie": "5d10",
       "hitDieUsed": false,
-      "coin": {"gp": 15},
+      "coin": {
+        "gp": 15
+      },
       "armor": [
-        {"id": "chain_mail", "label": "Chain mail"},
-        {"id": "plus1_shield", "label": "Apple-tree +1 shield"}
+        {
+          "id": "chain_mail",
+          "label": "Chain mail"
+        },
+        {
+          "id": "plus1_shield",
+          "label": "Apple-tree +1 shield"
+        }
       ],
       "weapons": [
-        {"id": "longsword", "label": "Longsword"},
-        {"id": "javelin", "label": "Javelin", "count": 3}
+        {
+          "id": "longsword",
+          "label": "Longsword"
+        },
+        {
+          "id": "javelin",
+          "label": "Javelin",
+          "count": 3
+        }
       ],
       "resources": [
-        {"name": "1st", "current": 4, "max": 4},
-        {"name": "2nd", "current": 2, "max": 2},
-        {"name": "Lay on Hands", "current": 25, "max": 25},
-        {"name": "Divine Sense", "current": 4, "max": 4},
-        {"name": "Channel Divinity", "current": 1, "max": 1}
+        {
+          "name": "1st",
+          "current": 3,
+          "max": 4
+        },
+        {
+          "name": "2nd",
+          "current": 2,
+          "max": 2
+        },
+        {
+          "name": "Lay on Hands",
+          "current": 25,
+          "max": 25
+        },
+        {
+          "name": "Divine Sense",
+          "current": 4,
+          "max": 4
+        },
+        {
+          "name": "Channel Divinity",
+          "current": 1,
+          "max": 1
+        }
       ],
-      "prepared": ["branding smite", "magic weapon", "command", "cure wounds", "thunderous smite"],
-      "potions": [{"count": 1, "label": "potion of healing"}, {"count": 1, "label": "holy water"}],
-      "gear": ["7 days rations", "10 candles", "holy symbol", "scroll of lesser restoration", "scroll of speak with dead", "glowing quartz in closed pouch", "oilcloth cloak"]
+      "prepared": [
+        "branding smite",
+        "magic weapon",
+        "command",
+        "cure wounds",
+        "thunderous smite"
+      ],
+      "potions": [
+        {
+          "count": 1,
+          "label": "potion of healing"
+        },
+        {
+          "count": 1,
+          "label": "holy water"
+        }
+      ],
+      "gear": [
+        "4 days rations",
+        "10 candles",
+        "holy symbol",
+        "scroll of lesser restoration",
+        "scroll of speak with dead",
+        "glowing quartz in closed pouch",
+        "oilcloth cloak"
+      ]
+    },
+    {
+      "short": "Thord",
+      "name": "Thord Ironaxe",
+      "role": "Ally",
+      "race": "shield dwarf",
+      "class": "fighter, Champion",
+      "level": 5,
+      "xp": 7580,
+      "hp": 51,
+      "hpMax": 51,
+      "ac": 16,
+      "initiative": 1,
+      "hitDie": "5d10",
+      "hitDieUsed": false,
+      "armor": [
+        {
+          "id": "chain_mail",
+          "label": "Chain mail"
+        }
+      ],
+      "weapons": [
+        {
+          "id": "greataxe",
+          "label": "Greataxe"
+        },
+        {
+          "id": "spear",
+          "label": "Extending spear"
+        }
+      ],
+      "resources": [
+        {
+          "name": "Second Wind",
+          "current": 1,
+          "max": 1
+        },
+        {
+          "name": "Action Surge",
+          "current": 1,
+          "max": 1
+        }
+      ],
+      "gear": [
+        "chain mail",
+        "oilcloth cloak"
+      ]
     }
   ]
 }
