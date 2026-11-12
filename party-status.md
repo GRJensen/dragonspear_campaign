@@ -1,6 +1,6 @@
 # Party status
 
-Session 7 in progress. Ironaxe Halls lower level, area 9 (ettin room) cleared. Pit in armory locked. Adventure 3. Level 5. XP 7580. Alagarthas and wood elves watching treeline for two days.
+Session 7 wrapped. Treeline camp with Alagarthas and wood elves, morning after long rest. Lower level cleared except Lump. Adventure 3. Level 5. XP 7580. Full resources.
 
 Party fund: 1922 gp and 1155 sp. Shared loot includes silvered dagger and cracked ivory drinking horn from the ettin chest. Nik holds additional potion of healing and 250 gp onyx warhammer necklace.
 
@@ -44,7 +44,7 @@ Gear: staff, oilcloth cloak.
 
 Hill dwarf fighter 5, Champion, LN. Companion.
 HP 43/43. AC 18 (chain mail, shield). Initiative +3. Hit die 5d10 unused.
-Second Wind unused. Action Surge used. Extra Attack. Improved Critical 19-20.
+Second Wind unused. Action Surge unused. Extra Attack. Improved Critical 19-20.
 XP 7580.
 Personal coin: 4 gp, 9 sp.
 Consumables: 30 bolts, 12 days of rations, 20 torches, 2 potions of healing, two handaxes, 0 holy water.
@@ -73,4 +73,4 @@ Gear: chain mail, oilcloth cloak.
 
 ## Party coin
 
-Fund: 1922 gp, 1155 sp.
+Fund: 1922 gp, 1155 sp. (unchanged)
